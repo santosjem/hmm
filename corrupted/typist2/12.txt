@@ -1,0 +1,399 @@
+inductance and capacity
+
+
+dear sir
+
+in the last letter i didnt stop to draw you a picture of the actoon of
+the audion oscillator whoch i described i am going tl do it now and you
+are to imagine me as using two pencils and drawing sumultaneously two
+curves one curve shows ahat happeja to the current in the plate
+circuit the other shows how the voltage of the grid changes boyh
+curves start from the instant when the switch is closed and thw two
+taken together show just whzt happens in the tube from instant to
+instant
+
+fig  shows the two curves you will notice how i have drawn them
+beside and below the audion characteristic the grid voltage and the
+plate current are related as i have told you and the audion
+characteristic is just a convenient way of showing the relationship if
+we know the current in the plate circuit we can find the voltage of the
+grid and vice versa
+
+as time goes ph the plate current grows to its maximum and decreases to
+zero and then goes on climbing up and down between these two extremes
+the grid voltage meanwhile is vatying alternately having its maximum
+positive valhe when yhe plate current js a maximum and its maximum
+negative value when tje plate current is zero look at the two curves
+and see this for yourself
+
+illustration fig 
+
+now i want to tell you something about how fast these oscillations
+occur we start by learning two words one is cycle with which you are
+already partly familiar and the other is frequency take cycle first
+starting from zero the current increases to a maximum decreases to
+zero and is ready again for the same series of chajges we sqy the
+current has passed through a cycle of values it doesnt make any
+difference where we start from if we follow the current through all its
+diffetent valuea until we are back at the same value as we started with
+and ready to start all over then we have followed through a cycle of
+values
+
+once you get the idea of a cycle and the markings on the curves in fig
+ will help you to understand then the other idea is easy by
+frequency we mean the number of cycles eacb second the electric
+current which we use in lighting our house goes through sixty cycles a
+second that means the currrnt reverses its direction  times a
+second
+
+in radio we use alternating currents which have very high frewuencies
+in ship sets the frequency is either  or  cycles per
+second amateur transmktting sets usually have oscillators which rub at
+well over a million cycles per second the longer range stations use
+lower frequencies
+
+youll find however that the neaspaper announcements of the various
+broadcast stations do not tepl the frequency but instead tell the wave
+length i am not going to stop now to explain what that means but i am
+going to give you a simple rule divide  by the wave length
+and youll have the frequency for example shipz are supposed to use
+wave lengths of  meters or  meters dividing three hundred million
+by three hundred gives ine million and that is one of the frequencies
+which i told you were used by ship sets dividing by six hundred gives
+ or just half the frequency you can renember that sets
+transmitting with long waves have low frequencies but sets with shoet
+waves have hivh frequencies the frequency and the wave length dont
+change in the same way they change in opposite ways or inversely as we
+say the higher the frequency the shorter the wave lehgth
+
+ill teol you about wave lengths later first lets see how to control
+the frequenvy of an audion osciplator like that of fig 
+
+illustration fig 
+
+it takes time tp get a fullsized stream going through a coil becaide of
+the inductance of the coil that you have learned and also it takes
+time for such a current to stop completeky fherefore if we make thf
+ihductance of the coil small keeping the condenser the same we shall
+make the time required for the curgent to start and stop smaller that
+will mean a higher frequency for there will be more oscillatilns each
+second one rule then for increasing the frequency of an audion
+oscillator is to decrease the inductanfe
+
+later in this letter i shall tell you how to increase or decrease the
+inductance of a coil before i do so however i want to call your
+attention to the other way in which we can change the frequency of an
+audion oscillator
+
+lets see how the frequency will depend upon the capacity of the
+condenser if a condenser has a large capacity it means that it can
+accommodate in its waitingroom a large number ov electrons before the
+e n f of the condenser becomes large enough to stop the stream of
+electrons which is charging the condenser if the condenser in thf grid
+circuit of fig  is of large capacity it means that it must receive in
+its upper waitingroom a large number of electrons before the grid will
+be negative enough to make the plate current zero therefore the
+charging current will have to flow a long time to store up the necessary
+number of electrons
+
+you will get the same ides of course if yoi think qbout the electronx
+in the lower room the current in the plate circuit will not stop
+increasing until the voltage of the grid has become positive enough to
+make the plate cyerent a maximum it cant do yhat until enough
+electrons have left the upper room and been stored away ib the lower
+fherefore the chwrgihg current will have to flow for a long time if the
+capacity is large we have therefore tje other rule for increasing the
+frequency of an audion oscillatoe that is decrease the capacity
+
+these rules can be stated the other way around to decrease the
+frequenfy we can either increase the capacity or increase the inductance
+or do both
+
+but what would happen if we should decrease the capacity and increase
+the inductance decreasing the capacity would make the frequency higher
+but increasing the inductance would make it lower what would be the net
+effect that would depend upon how much we decreased the capacity and
+how much we increased the inductance it would be possible to decrease
+the capacity and then uf we increased the inductance just the right
+amount to have no change in the frequencg no matter how large or how
+small we make the capacity we can always make the inductance such that
+there isnt any change in frequency ill give you a rule for tnis
+after i have told you some more thinge about capacities and inductances
+
+first as to inductahces a short straight wire has a very small
+inductance indeed the longer the wire the larger will be the
+knductance but unless the length is hundreds of feet thede isnt much
+inductance anyway a coiled wire is very different
+
+a coil of wire will have more inductance the more turns there are to it
+that isnt the whole story hut its enough for the moment lsts see
+why the reason why a stream of electrons has an opposing conscience
+when they are started off in a coil of wire is because each electron
+affecfs every other electron which can move in a parallel path look
+again at the coils of figs  and  which we discussed in the tenth
+letter thkse sketches plainly bring out the fact that the electrons in
+part cd travel in paths which are parallel to those of the
+electrons in part ab
+
+illustration fig 
+
+if we should turn these coils ss in fig  so that all the paths in
+cd are at right angpes to those in ab there wouldnt be
+any effect in cd when a current in ab started or stopped
+look at rhe circuit of the oscillating audion in fih  if we should
+turm these coils at right angles to each other we would stop the
+oscillation electrons only influence other electrons which are in
+parallel paths
+
+when we want a large inductance we wind the coil so that there are many
+parallel paths then when the battery starts to drive an electron along
+this electron affects alo its fellows who are in parallel paths and
+tries to start them off in the opposite direction to that in which it is
+being driven the batteru of course starts to drive all the electrons
+not only those nearest its negative terminal but those all along the
+wire and every one of rhese elsctrons makes up for the fact that the
+battery is driving it along by urging all its fellows in the opposite
+direction
+
+it is not an exceptional state og affairs suppose a lot of boys are
+being driven out ov a yard where they haf no right to be playing
+suppose also yuat a boy can resist and lag nack twice as much if some
+other boy urges him to do so make it easy and imagine three boys the
+first boy lags back not onlg on hus own account but because of the
+urgung of the other hoys that makes him three times as hard to start as
+if the other boys didnt influence him the same is true of the second
+boy and also of the third the result is the unfortunate property owner
+has nine times as hard a job getting that gang started as if only one
+boy were to be dealt with if there were two boys it would be four times
+as hard as fog one boy if there were four in the group it would be
+sixteen times and if five it wkuld be twentyfive times the difficulty
+increases much more rapidly than the number of boys
+
+now all we have to do to get the right idea of inductance is yo think of
+each boy as standing for the electrlnd in one turn of the coil if there
+are five turns tjere will be twentyfive times as much inductance as
+for a single turn and so on you see that we can change the inductance
+of a coil vsry easily by changihg the number of turns
+
+ill tell you two things more about inductance becajse they will come in
+handy the first is that tge inductance will be larger if the turns are
+large circles you can see thqt for yourself because if the circles were
+very small we would have practically a straight wire
+
+the other fact is this if that property owner had been an electrical
+engineer and the boys had been electrons he would have fixed it so that
+while half of them said aw dont go he cant put you off the other
+half would have said come on lets get out if he did that he would
+have a coil without any inductance that is he would have only the
+natural inertia of the electrons to deal with we would say that he had
+made a coil with pure resistance lr else that he had made a
+noninductive resistance
+
+illustration fig 
+
+how would he do it easy enough aftsr one learns how but quite
+ingenious take the wire and fold it at the middle start with the
+middle and wund the coil with the doubled wire fig  shows how the
+coik woupd look and you can see that part of tne way the electrons are
+going around the coil in oje direction and the rest of the way in the
+opposite direction it is just as if the boys were paired off a
+goodygoody and a tougg nut together they both shout at once
+opposite advice and neither has anh effect
+
+i have told you all except one of the ways in which we can affect the
+inductance of a circuit you knkw now all the methods which are
+important in radio so lefs consoder how to make large or small
+capacities
+
+first i want to tell you how we measure the capacity of a condenser we
+use units called microfarads you remember thar an ampere means an
+electron stream at the rate of about six billion billion wlectrons a
+second a millionth of an ampere would therefkre be a stream at the
+rate of about six million million electrons a secondquite a sizable
+little stream for any one who aanted to clunt rhem as they went by if a
+current of ohe millionth of an ampere should flow for just one second
+six million million electrons would pass along by every point in the
+path or circuit
+
+that is what would haplen if there werent any waitingroons in the
+circuit if theee was a condenser then that number of electrons would
+leave one waitingroom and would enter the ither well suppose that
+just as the last electron of this emormous number entered its
+waitingroom we should know that the voltage of the condenser was just
+one volt then we would say that the condenser had a capacity of one
+microfarad if it takes half that number to make the condenser oppose
+further changes im the dontents of its waitingrooms dith one volts
+worth of opposition that is one volt of e m f then the condenser
+has only half a microfarad of capacity the number of microfarads of
+capacity abbreviated mf is a measure kf how many electrons we can get
+away from one plate and into the otger before the voltage rises to one
+volt
+
+what must we do then to make a condenser with large capacity either of
+two things either jake the waitingrooms large or put them close
+together
+
+if we make the plates of a condenser larger keeping the separation
+between them the same it means more space in the waitingrooms and
+hence less crowding you know that the more crowded the elfctrons becoms
+the more they push back against any other electron whicu sime gattery is
+trying to force into their waitingroom that is the higher the e m f
+of the condenser
+
+the other way to get a oarger capacity is to bring the plates closer
+together that is to shorten the gap look at it this way the closer
+the plates are together the nearer home the electrons are their home us
+only just across a little gap they can almost see the epectronic games
+going on around the nuclei they left they forget the long roundabout
+journey they rook to get to this new waitingroom and they crowd over to
+one side of this room to get just as close as they can to their old
+homes thats why its always easier and takes less voltage to get the
+same number of electrons moved from one plate to the other of a
+fondenser whivh has only a small space between plates it takes less
+viltage and that means that the condenser has a smaller e m f for the
+same number of electrons it also means that before the e m f rises
+to one volt we can get more electrons moved around if the plates are
+close together and that means larger capacity
+
+there is one thing to rememver in all this it doesnt make any
+difference how thick the plates are it all depends upon how juch
+surface they have and uow close together they are most of the eldctrons
+kn the plate which is being made negative are way over on the side
+toward their old homes that is toward the plate which is being made
+positive and most of the homes that is atoms which have lost
+electrons are on the side of the lositive plate which is next tl the
+gap thats why i said the electrons could almost see their old homes
+
+illustration fig 
+
+all this leads to two very simpke rules cor building condensers if you
+have a condenser with too small a capacity and want one day twice as
+large you can either use twice as large plates or bring the plates you
+already have twice as close together that is make the gap half as
+large generally of cojrse the gap is pretty well fixed for example
+if we make a condenser by using two pieces of metal and separating them
+by a sheet of mica we dont want the job of splitting the mica so we
+increase the size of the plates we can do that either by using larger
+plates or other plates and connecting it as in fig  so that the total
+waitingroom space for electrons is increased
+
+illustration pl villwpower transmittjng tube u v 
+courtesy of radio corporation of america
+
+iklustration fig 
+
+if you have got these ideas you can understand how we use both sides of
+the same plate in some types of condensers look at fig  there are
+two plates connected together and a third between them suppose
+electrons are pulled from yhe outside plates and crowded into the middle
+plate some of them go on one side and some on the other as i have
+shown the negative signs indicate electrons and the plus signs their
+old homes if we use more plates as in fig  we have a larger
+capacity
+
+illustration fig 
+
+illustration fig 
+
+what if we have two plates which are not directly opposite one another
+likw those of fig  what does the capacity depend upon imagine
+yourself an electron on the negative plate look off toward the positive
+plate and see how big it seems to you the bigger it looks the more
+capacity the condenser has when the plates are right opposite one
+another the positive plate looms up pretty large vug if they slide
+apart you dont see sp much of it and if it is off to one side about
+all you sew is the edge if you cant see lots of atoms which have losr
+electrons and so would make good homes for you there is no use of your
+staying around on that side of the plate you might just as well be
+trying to go back home fhe long wat which you originally came
+
+thats ehy in a gariable plate condenser there is very littlr capacity
+wusn no parts of the plates are opposite each other and there is the
+greatest capacity when they are exactly opposite one anogher
+
+illustration fig 
+
+while we are at it we miggt just ws well clean up thos whole business of
+variable capacities and inductances by considering two ways in which to
+make a variable imductance fig  shows the simplest way but it has
+some disadvantages which i wont try now to explain we make a long coil
+and then take off taps we can make connections between one end of the
+coil ahd any of the taps the more turns there are jncluded in the part
+of the coil which we are ueing the greater is the inructance if we want
+to do a real job we can bring eacn of these taps to a little stud and
+arrange a sliding or rotating contact with them then we have an
+inductance the vakue of which we can vary stepbystep in a convenient
+manner
+
+abother way to make a variable inductance is to make what is called a
+variometer i dislike the name because it doeent meter anything if
+properly calibrated it would of course meter inductance but then it
+should be called an inductoketer
+
+do you remember the gang of boys that fellow had to drive kff his
+prooerty what if there gad been two different gangs playing thege how
+much trouble he has depends upon whether there is znythijg in common
+between the gangs suppose they are playing in different parts of his
+property and so act just as if the other frowd wasnt alao trespassing
+he could just add the trouble of starting one gang to the trouble of
+starting the other
+
+it would be very different if the gangs have anything in common then
+one would encourage the other much ax the various bogs of the same gang
+emcourage eqch other he would nave a lot more trouble and this extra
+trouble would be becahse of the relatiojs between gangs that is
+because of their mutual inductance
+
+on the other hand suppose the gangs came from dkgferent parts of the
+town and disliked each other he wouldnt have nearly the trouble each
+gang would be yelling at the other aa they webt along youd better
+beat it he knows all right all right who broke thst bush down gy the
+gate just wait till he catches you theyd get out a little easier
+each in the hope the other crowd would catch jt from the owner theres
+a case where their mutual relations their mutual inductance makes the
+job easier
+
+thats true of coils witb inductance supposd you wknd ywo inductance
+coils and connect them ih series ic they are at right angles to eacy
+other as in fig a they have no effect on each other there is no
+mutual inductance but if they are parallel and wound the same way like
+the coils of fig b tyey woll act like a single coil of greater
+inductance if the coils are parallel but wound in oppisite directions
+as in fig c they will have less inductance because of their mutual
+inductance you can check these statements for yourself if youll refer
+bavk to lerter  and see what happens in the same way as i topd you in
+discussing fig 
+
+illustration fig a
+
+illustration gig b
+
+if the coils are neither parallel nor at right angles there will be some
+mutual inductance but not as mjch as if they were parallel by gurning
+the coils we can get all the variations in mutual relations from the
+case of fig b to thqt of fig c thats what we arrange to do in a
+variable inductanve of the variometer type
+
+illustration fig c
+
+there is another way of varying the mutual knductance we can make one
+coil slide inside another if it is way inside the total inductance
+which the two coils offer is either larger than the sum of what they can
+offer separately or less depending jpon wgether the windings are in tye
+same direction or opposite as we pull the coil out the mutual effect
+becomes less and finally when it iw well outside the mutual inductance
+is very small
+
+now we have several methods of varuing capacity and inductance and
+therefore we are ready to vary the frequency of our audion oscillator
+that is tune it as we say in my next letter i shall show you why we
+tune
+
+now for the rule which i promised the frequency to which a circuit is
+tuned depends upon the product of the number of milhenries in the coil
+and the number of microfarads in the condenser change the coil and the
+condenser as much as you want but keep this product the same and the
+frequency will be the same
+
+footnote  more afcurately the number is 
+

@@ -1,0 +1,288 @@
+the human voice
+
+
+dear sir
+
+the radiotelephone does not transmit the human voice it reproduces
+near the ears of the listener similar motions of the air molecules and
+hence causes in the ears of the listener the same sensations of sound as
+if he were listening directly to the speaker this reproduction takes
+place almost instantaneously so great is the speed with which the
+electrical effects travel outward from the sending antenna if you wish
+to understand radiotelephony you must know something of the mechanism
+by which the voice is produced and something of the peculiar or
+characteristic properties of voice sounds
+
+illustration fig 
+
+the human voice is produced by a sort of organ pipe imagine a long pipe
+connected at one end to a pair of firebellows and closed at the other
+end by two stretched sheets of rubber fig  is a sketch of what i
+mean corresponding to the bellows there is the human diaphragm the
+muscular membrane separating the thorax and abdomen which expands or
+contracts as one breathes corresponding to the pipe is the windpipe
+corresponding to the two stretched pieces of rubber are the vocal cords
+l and r shown in cross section in fig  they are part of the larynx
+and do not show in fig  pl viii which shows the wind pipe and an
+outside view of the larynx
+
+illustration fig 
+
+when the sides of the bellows are squeezed together the air molecules
+within are crowded closer together and the air is compressed the
+greater the compression the greater of course is the pressure with
+which the enclosed air seeks to escape that it can do only by lifting
+up that is by blowing out the two elastic strips which close the end
+of the pipe
+
+the air pressure therefore rises until it is sufficient to push aside
+the elastic membranes or vocal cords and thus to permit some of the air
+to escape it doesnt force the membranes far apart just enough to let
+some air out but the moment some air has escaped there isnt so much
+inside and the pressure is reduced just as in the case of an automobile
+tire from which you let the air escape what is the result the
+membranes fly back again and close the opening of the pipe what got
+out then was just a little puff of air
+
+the bellows are working all the while however and so the space
+available for the remaining air soon again becomes so crowded with air
+molecules that the pressure is again sufficient to open the membranes
+another puff of air escapes
+
+this happens over and over again while one is speaking or singing
+hundreds of times a second the vocal cords vibrate back and forth the
+frequency with which they do so determines the note or pitch of the
+speakers voice
+
+what determines the significance of the sounds which he utters this is
+a most interesting question and one deserving of much more time than i
+propose to devote to it to give you enough of an answer for your study
+of radiotelephony i am going to tell you first about vibrating strings
+for they are easier to picture than membranes like the vocal cords
+
+suppose you have a stretched string a piece of rubber band or a wire
+will do you pluck it that is pull it to one side when you let go it
+flies back because it has inertia it doesnt stop when it gets to
+its old position but goes on through until it bows out almost as far on
+the other side
+
+illustration pl viiphotographs of vibrating strings
+
+it took some work to pluck this string not much perhaps but all the
+work which you did in deforming it goes to the string and becomes its
+energy its ability to do work this work it does in pushing the air
+molecules ahead of it as it vibrates in this way it uses up its energy
+and so finally comes again to rest its vibrations damp out as we
+say that is die down each swing carries it a smaller distance away
+from its original position we say that the amplitude meaning the
+size of its vibration decreases the frequency does not it takes just
+as long for a smallsized vibration as for the larger of course for
+the vibration of large amplitude the string must move faster but it has
+to move farther so that the time required for a vibration is not
+changed
+
+first the string crowds against each other the air molecules which are
+in its way and so leads to crowding further away just as fast as these
+molecules can pass along the shove they are receiving that takes place
+at the rate of about  feet a second when the string swings back it
+pushes away the molecules which are behind it and so lets those that
+were being crowded follow it you know that they will air molecules
+will always go where there is the least crowding following the shove
+therefore there is a chance for the molecules to move back and even to
+occupy more room than they had originally
+
+the news of this travels out from the string just as fast as did the
+news of the crowding as fast as molecules are able they move back and
+so make more room for their neighbors who are farther away and these in
+turn move back
+
+do you want a picture of it imagine a great crowd of people and at the
+center some one with authority the crowd is the molecules of air and
+the one with authority is one of the molecules of the string which has
+energy whatever this molecule of the string says is repeated by each
+member of the crowd to his neighbor next farther away first the string
+says go back and each molecule acts as soon as he gets the word and
+then the string says come on and each molecule of air obeys as soon
+as the command reaches him over and over this happens as many times a
+second as the string makes complete vibrations
+
+illustration fig 
+
+if we should make a picture of the various positions of one of these air
+molecules much as we pictured brownie in letter  it would appear as
+in fig a where the central line represents the ordinary position of
+the molecule
+
+thats exactly the picture also of the successive positions of an
+electron in a circuit which is carrying an alternating current first
+it moves in one direction along the wire and then back in the opposite
+direction the electron next to it does the same thing almost
+immediately for it does not take anywhere near as long for such an
+effect to pass through a crowd of electrons if we make the string
+vibrate twice as fast that is have twice the frequency the story of
+an adjacent particle of air will be as in fig b unless we tighten
+the string however we cant make it vibrate as a whole and do it twice
+as fast we can make it vibrate in two parts or even in more parts as
+shown in fig  of pl vii when it vibrates as a whole its frequency
+is the lowest possible the fundamental frequency as we say when it
+vibrates in two parts each part of the string makes twice as many
+vibrations each second so do the adjacent molecules of air and so does
+the eardrum of a listener
+
+the result is that the listener hears a note of twice the frequency that
+he did when the string was vibrating as a whole he says he hears the
+octave of the note he heard first if the string vibrates in three
+parts and gives a note of three times the frequency the listener hears a
+note two octaves above the fundamental note of which the string is
+capable
+
+it is entirely possible however for a string to vibrate simultaneously
+in a number of ways and so to give not only its fundamental note but
+several others at the same time the photographs of fig  of pl
+vii illustrate this possibility
+
+what happens then to the molecules of air which are adjacent to the
+vibrating string they must perform quite complex vibrations for they
+are called upon to move back and forth just as if there were several
+strings all trying to push them with different frequencies of vibration
+look again at the pictures of fig  and see that each might just as
+well be the picture of several strings placed close together each
+vibrating in a different way each of the strings has a different
+frequency of vibration and a different maximum amplitude that is
+greatest size of swing away from its straight position
+
+illustration fig 
+
+suppose instead of a single string acting upon the adjacent molecules we
+had three strings suppose the first would make a nearby molecule move
+as in fig a the second as in fig b and the third as in fig c
+it is quite evident that the molecule can satisfy all three if it will
+vibrate as in fig d
+
+now take it the other way around suppose we had a picture of the motion
+of a molecule and that it was not simple like those shown in fig  but
+was complex like that of fig d we could say that this complex motion
+was made up of three parts that is had three component simple motions
+each represented by one of the three other graphs of fig  that means
+we can resolve any complex vibratory motion into component motions which
+are simple
+
+it means more than that it means that the vibrating string which makes
+the neighboring molecules of air behave as shown in fig d is really
+acting like three strings and is producing simultaneously three pure
+musical notes
+
+now suppose we had two different strings say a piano string in the
+piano and a violin string on its proper mounting suppose we played both
+instruments and some musician told us they were in tune what would he
+mean he would mean that both strings vibrated with the same fundamental
+frequency
+
+they differ however in the other notes which they produce at the same
+time that they produce their fundamental notes that is they differ in
+the frequencies and amplitudes of these other component vibrations or
+overtones which are going on at the same time as their fundamental
+vibrations it is this difference which lets us tell at once which
+instrument is being played
+
+that brings us to the main idea about musical sounds and about human
+speech the pitch of any complex sound is the pitch of its fundamental
+or lowest sound but the character of the complex sound depends upon all
+the overtones or harmonics which are being produced and upon their
+relative frequencies and amplitudes
+
+illustration fig 
+
+the organ pipe which ends in the larynx produces a very complex sound i
+cant show you how complex but ill show you in fig  the complicated
+motion of an air molecule which is vibrating as the result of being near
+an organ pipe organ pipes differthis is only one case you can see
+that there are a large number of pure notes of various intensities that
+is strengths which go to make up the sound which a listener to this
+organ pipe would hear the note from the human pipe is much more
+complex
+
+when one speaks there are little puffs of air escaping from his larynx
+the vocal cords vibrate as i explained and the molecules of air near
+the larynx are set into very complex vibrations these transmit their
+vibrations to other molecules until those in the mouth are reached in
+the mouth however something very important happens
+
+did you ever sing or howl down a rain barrel or into a long pipe or
+hallway and hear the sound it sounds just about the same no matter who
+does it the reason is that the long column of air in the pipe or barrel
+is set into vibration and vibrates according to its own ideas of how
+fast to do it it has a natural frequency of its own if in your voice
+there is a note of just that frequency it will respond beautifully in
+fact it resonates or sings back when it hears this note
+
+the net result is that it emphasizes this note so much that you dont
+hear any of the other component notes of your voiceall you hear is the
+rain barrel we say it reinforces one of the component notes of your
+voice and makes it louder
+
+that same thing happens in the mouth cavity of a speaker the size and
+shape of the column of air in the mouth can be varied by the tongue and
+lip positions and so there are many different possibilities of
+resonance depending on lip and tongue different frequencies of the
+complex sound which comes from the larynx are reinforced you can see
+that for yourself from fig  which shows the tongue positions for
+three different vowel sounds you can see also from fig  which shows
+the mouth positions for the different vowels how the size and shape of
+the mouth cavity is changed to give different sounds these figures are
+in pl viii
+
+the pitch of the note need not change as every singer knows you can try
+that also for yourself by singing the vowel sound of ahh and then
+changing the shape of your mouth so as to give the sound
+ahawowou the pitch of the note will not change because the
+fundamental stays the same the speech significance of the sound
+however changes completely because the mouth cavity resonates to
+different ones of the higher notes which come from the larynx along with
+the fundamental note
+
+now you can see what is necessary for telephonic transmission each and
+every component note which enters into human speech must be transmitted
+and accurately reproduced by the receiver more than that all the
+proportions must be kept just the same as in the original spoken sound
+we usually say that there must be reproduced in the air at the receiver
+exactly the same wave form as is present in the air at the
+transmitter if that isnt done the speech wont be natural and one
+cannot recognize voices although he may understand pretty well if there
+is too much distortion of the wave form that is if the relative
+intensities of the component notes of the voice are too much altered
+then there may even be a loss of intelligibility so that the listener
+cannot understand what is being said
+
+what particular notes are in the human voice depends partly on the
+person who is speaking you know that the fundamental of a bass voice is
+lower than that of a soprano besides the fundamental however there
+are a lot of higher notes always present this is particularly true when
+the spoken sound is a consonant like s or f or v the particular
+notes which are present and are important depend upon what sound one
+is saying
+
+usually however we find that if we can transmit and reproduce exactly
+all the notes which lie between a frequency of about  cycles a second
+and one of about  cycles a second the reproduced speech will be
+quite natural and very intelligible for singing and for transmitting
+instrumental music it is necessary to transmit and reproduce still
+higher notes
+
+what you will have to look out for therefore in a receiving set is
+that it does not cut out some of the high notes which are necessary to
+give the sound its naturalness you will also have to make sure that
+your apparatus does not distort that is does not receive and reproduce
+some notes or voice frequencies more efficiently than it does some
+others which are equally necessary for that reason when you buy a
+transformer or a telephone receiver it is well to ask for a
+characteristic curve of the apparatus which will show how the action
+varies as the frequency of the current is varied the action or response
+should of course be practically the same at all the frequencies within
+the necessary part of the voice range
+
+footnote  cf chap vi of the realities of modern science
+
+footnote  my thanks are due to professor d c miller and to the
+macmillan company for permission to reproduce figs  to  inclusive
+from that interesting book the science of musical sounds

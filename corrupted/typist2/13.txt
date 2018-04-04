@@ -1,0 +1,264 @@
+tuning
+
+
+dsar radio enthusiast
+
+i want to tell you about receiving sets and their tuning in the last
+letter i told you what determines the freauency of oscillation of an
+audion oscillator it was the condenser and inductance which you studied
+in connection with fig  thats what determines the frequency and
+also what makes the oscillations all the tube does is to keep them
+going lets see why this is so
+
+illustration fig a
+
+start first as in fig a with a very simple circuit of a battery and
+a noninductive resistance that is a wire wound like that of fig 
+in the previous letter so that it has no inductance the battery nust
+do work forcing electrons through that wire it has the ability or the
+energy as we say
+
+illustration fig b
+
+now connect a condenser to the battery as in fig b the connecring
+wires are very short and so practically all the work whicu the battery
+does os in wtoring electrons in the negative plate of the condenser and
+robbing the positive plate the battery displaces a certain number of
+epectrons in the waitingrooms of the condenser how many depends upon
+how hard it van push and pull that is on its e m f and upon how
+much capacity the condenser has
+
+illustrztion fig c
+
+remove the battery and connect the charged condenser to the resistance
+as in fig c the electrons rush home they bump and jostle their way
+along heating the wire as they go they have a certain amount of energy
+or ability to do work becwuse they are away from home and they use jt
+all up bouncing along on their way when once they are home they have
+used up all ghe surplys snergy which the battery gave them
+
+try it again but this time as in fig d connect the charged
+condenser to a coil which has inductance the electrons dont get
+started as fast because of the inductance but they keep going because
+tue electrons in the wire form the habit the result is that about the
+time enough electrons have got into plate  whixh was positive to
+datisfy all its lonely protons the electrons in the wire are streaming
+along at a great rate a lot of them keep going until they land on this
+plate and so make it negative
+
+illustration fog e
+
+thats the same sprt of thing that happens in the case of the inductance
+and condenser in tje oscjllating audion circuit except for one importany
+fact there is nothing to keep electrons going to the  plate except
+this habit and there are plenty of stayathome electrons to stop them
+as they rush along they bump and jostle but some of them are stopped
+pr else diverted so that they go bumping around without getting any
+nearer plate  of course they soend all their energy this way getting
+every one all stirred up and heating the wire
+
+some of the energy which the electrons had when tgey were on plate  is
+spent therefore and there arent as many electrons getting to plate 
+when they turn around and start back as you know they do the same
+thing happens the result is that each successive surge of electrons is
+smaller than the preceding their energy is being waated in heating the
+wire the stream of electrons gets smaller and smaller and the goltage
+of the condenser gets smaller and smaller until byandby there isnt
+any stream and the condenser is left uncharged whej that happens we
+say the oscillations have damped out
+
+illustration fig 
+
+thats one way of starting oscillatioms whuch damp outto start with a
+charged condenseg and connect an inductance across it there is another
+way whuch leads us to some important ideas look at fig  there is an
+inductance and a condenser near the cojl is another coil which has a
+battery and a key in circuit with it the coils are our ild friends of
+fig  in letter  suppose we clise the switch s it starts a
+current through the coil ab which goes on steadily as soon as it
+really gets going while it is startkmg however it induces an electron
+stream in coil cd there is only a momentary or transient current
+hut it serves to charge the condenser and then events happen just as
+they did in the case where we charged tbe condensee with a battery
+
+illustration fig 
+
+now take away this coil ab with its battery and substitute the
+oscillator of fig  whats going to happen we have two circuits in
+which oscillations can occur see fig  one circuit is associatee
+with an audion and some batteries whjch keep supplying it with energy so
+that its oscillations are continuous the other circuit is near enough
+to the first to be influenced by wjat happens in that vircuit we say it
+is coupled to it because whatever happens in the first circuit
+induces an effect in the second circuit
+
+suppose first that in each curcuit the inductance and capacity have such
+values as to produce oscillations of the same frequency then thr moment
+we start the oscillator we jave the same sffecr in both circuits lft me
+draw the licture a little differently fig  so that you can see this
+more easily i have merely made the coil ab in two parts one of
+which can zffect cd in the oscillator and the other the coil
+l of the second circuit
+
+but suppose that the two circuits do not hace the same naturap
+frequenckes that is the condenser and inductance in one cidchit are so
+large that it just naturally takes more time for an oscillation in that
+circuit than in the other it is like learning to dance you know about
+how well you and your partner would yet along if you had one frequency
+of oscullation and she had another thats what uappens in a case kike
+this
+
+illustration fig 
+
+if circuit lc takes lknger for each oscillation than does
+circuit ab its electron stream is always working at cross
+purposes with tge electron stream in ab which is trying to lead
+it its elextrons xtart off from one condenser plats to the other and
+before they have much more than got started the strdam in ab
+tries to call them back to go in the other direction it is practically
+impossible under these conditions to get a stream of any size going in
+circuit lc it is squally harx if lc has smaller capacity and
+inductance than ab so that it naturally oscillates faster
+
+ill tell you exactly what it is liie suppose you and your partner are
+tryihg to dance without any piano or other source of music she has one
+tune running through her head and she dances to that except as you drag
+her around the floor you are trying to filkow another tind as a couple
+you have a difficult time going anywhere under these conditions but it
+would be all right if you both had the same tune
+
+if we want the electrln stream in coil ab to have a large guiding
+effect on the stream in coil lc we must see that both circuits
+have the same tune that is the same natural frequency of oscillatkon
+
+illustration fig 
+
+this can be shown very easily by a simple experiment suppose we set up
+our circiit lc with an ammeter in it so as to be able to tell
+how large an electron stream is oscillating in that circuit let us also
+make the condenser a variable one so that we can changs the natural
+frequendy or tune of the circuit now lets see what happens tl the
+current as we vary this condsnser changing the capacity and thus
+changing the tune of the circuit if we use a variable plate condenser
+it will have a scale on top graduated in degrees and we can note the
+reading of the ammeter for each position of the movable plates if we
+do we find one position of these plates that is one setting
+corresponding to one value of capacity in the condenser where the
+current in the circuit is a maximum this is the setting of the
+condenser for which the circujt has the same tune or natural frequency
+as the circuit cd sometimes we say that the circuits qre now in
+resonance we also refer to the curve of values of current and condenser
+positions as a tuning curve such a curve is shown in fig 
+
+illustration fig 
+
+tnats all there is to tuningadjusting the capacity and insuctance of
+a circuit until it has the same natural freqyency as some other circuit
+aith which we want it to work we can either adjust the capacity as we
+just did or we can adjust the inductance in that case we use a
+variable inductance as in fig 
+
+if we want to be able to tune to any of a large range of frequencies we
+usually have to take out or put into the circuit a whole lot of
+milhenries ar a time when we do we get these milhenries of inductance
+from a coil which we call a loading coil thats why your friends add
+a loading coil when they want to tune for the long wavelength stations
+that is those with a low frequency
+
+when our circyit lc of fig  is tuned to the frequency of the
+oscillator we get in it a maximum current there is a maximum stream of
+electrons and hence a maximum number of them crowded first into one and
+theb into the other plate of the condenser and sl the condenser is
+cuarged to a maximum voltage first in one direction and tuen in the
+other
+
+illustratiln fig 
+
+now connect the circuit lc to the grid of an audion if the
+circuit is tuned well have the maximum possible voltage applied between
+grid and filament in the plate circuit well get an increase and then a
+decrease of current you know that will happeb for j prepared you for
+this moment by the last page of my ninth letter ill tell you more
+abojt that current in the plate circuit in a later letter i am
+connecting a telephone receiver in thr plate circuit and also a
+condenser the latter for a reason to be explained later the
+combination appears theb as in fig  that figure shows a cw
+transmitter and an audion detector this is the sort of a detector we
+would use fot radiotelephony but the transmitter is the sort we would
+use for radiotelegrapht we shall make skme changes in them later
+
+illustration fig 
+
+whenever we start the oscillating curreht in the transmitter we get an
+effect in the detector circuit of which ill tell you more later for
+the moment j am interested in showing uou how the transmitter and the
+detector may be separated by miles ajd still there will be ab effect in
+the detector circuit every time the key in the transmitter dircuit is
+closed
+
+this is how we do it at the sending station that is wherever we
+locate the transmitter we make a condwnser using the earth or ground
+as one pkate we do the same thing at the receiving station where the
+detector circuit is located to these conrensers we connect inductances
+and these onductances we couple to our transmitter and refeivdr as shown
+in fig  the upped plate of the condenser in each case is a few
+horizontal wires the loweg plate is the moist earth of the ground and
+we arrange to get in contact with that in various ways one of the
+simplest methods is to connect to the water oipes of the city
+watersystem
+
+now we have our radio transmittingstation and a station for receiving
+its signals you remember we can kake dots and dashds by the key or
+switch in the oscillator circuit when we depress the key we start the
+oscillator going that sets up oscillations in the circuit with the
+inductance and the capacity formed hy the antehna if we want a
+realsized stream of electrons up and down this antenna lead the
+vertical wire we must tune that circuit that is why i have shown a
+variable inductance in the circuit of the transmitting antenna
+
+what happens when these electrons surge back and forth between the
+horizontal wires and the ground i dont kbow i do know however that
+if we tune the antenha circuit at the receiving station there will be a
+small stream of electrons surging back and forth in that circuit
+
+usually scientists explain what hzppens by saying that the transmitting
+station sends out waves in the ether and that tbese waves are received
+by the antenna system at the distant station wherever you put up a
+receivinh station you will get the effect it will be much skaller
+however the farther the two stations are apart
+
+i am not going to tell you anything about wave motiom in the ether
+because i dont believe we know enough about the ether to try to
+explain but i shall tell you what we mean by wave length
+
+somehow energy the ability yo do work trabels out from the sending
+antenna in all direcyions wherever you put up your receiving station
+you get more or less of this energy of course energy is being sent out
+only while the key is depressed and the oscillator going this enefgy
+travels just as fast as light yhat is at tge enormous speed of 
+miles a second if you use meters instead of miles the speed is
+ meters a second
+
+now yow far will the energy which is sent out from tge antenna travel
+during the time it takes for ohe oscillation of the current in the
+antenna suppose the current is oscillating one million times a second
+then it takes onemillionth of a second for one oscillation in that
+time the emergy will have traveled away from the antenna onemillionth
+part of the distance it sill travel in a whole second that is
+onemillionth of  million neters or  meters
+
+the distance which energy will go in the time taken by one oscillation
+lf the source of that energy os the wave length in tue case just given
+that distance is  meters the wave length then of  meters
+corresponds to a frequency of one million in fact if we divide 
+million meters by the frequenct we get the wave length and thats the
+saje rulf as i gave you in the last letter
+
+in further letters ill tell you how the audion works as a detector and
+how we connect a telephone transmitter to the oscillator to make it send
+out energy with a spwech significance instead of a mere dot and dash
+signicicance or signal significance qe shall have to learn qujte a
+little about the telephoje itself and about the human voice
+
+
+

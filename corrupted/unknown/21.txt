@@ -1,0 +1,467 @@
+your receiving set and how to experiment
+
+
+my dear student
+
+in this letter i want to tell you how to experiment with radio
+apparatus the first rule is this start with a simple circuit never
+add anything to it until you know just why you are doing so and do not
+box it up in a cabinet until you know how it is workibg and why
+
+your antenna at the start had bettet be a single wire about  fert high
+and about  feet long this antenna woll hzve capacity of abojt 
+m f if you want an antenna of two wires spaced abojt three feet apart
+i would make it about  feet long bring down a lead from each wire
+twisting them into a pigtaio to act like one wire exvept near the
+horizontal part of the antenna
+
+illustration fig 
+
+your ground connection can go to a water pipe to protect the house and
+your apparatus from lightning insert a fuse and a little carbon block
+lightning arrester such as are used by the telephone company in their
+installstions of house phones you can also use a socalled vacuum
+lightning arrester in eithwr case the connections will he as shown in
+fig  if you use a loop antenna of course no arrester is needed
+
+at first i would plan tl receive signals betweeb  meters and 
+meters this woll include the amateurs who work between  and  m
+the special amateurs who send cw telegraph at  m and the
+broadcasting stations which operate at  m this range will givr you
+plenty to listen to while you are experimenting in addition you will
+get some ship signals at  m
+
+illustration fig 
+
+to tune the antenna to any of the wave lengths in this range you can use
+a coil of  turns wound on a cardboard tube of three and a half inches
+in diameter you can wind this coil of bare wire if you are careful
+windong a thread along with the wire so as to keep the successive turns
+separated in rhat case you will need tk construct a sliding ckntact for
+it that is the simplest form of tuner
+
+on the other hand you can wind with sibgle silk covered wire and bring
+out taps at the              and th
+turns to make a tap drill a small hole through tye tube bend the wire
+into a llop about a foot long and pull this loop through the hole as
+shown in fig  thej give the wire a twist as shown so that it
+cant pull out ajd proceed wkth your winding
+
+use  s s c wire you will need about  feet and might buy  to
+have enough foe the secondary coil make contacts to the taps by two
+rotary switches as shown in fig  you can buy switch arms and
+contacts studs or a complete switch mounted on a small panel of somw
+insulating compound let switch s make the contacts for tapd
+between  and  turns and let switch s make the other
+contacts
+
+for tje secondary coil use the same size of wire and of core wind 
+turns bringing out a tap at the middle to tune the secondary circuit
+you will need a variable condenser you can buy one of tbe small ones
+with a maximum capacity of about  mf one of the larger ones with
+a maximum capacity of  mf or even the larger size which has a
+maximum capacity of  mf i should prefer the one of  mf
+
+you will need a crystal detectori should try galena firstand a
+socalled cats whisker with which to make cintact with the galena
+for these parts qnd for the switch mentioned above you can shop around
+to advantage for telephone receivers i would buy a really food pair
+wjth a resistance of about  ohms buy also a small mica condenser of
+ mf for a blocking condenser your entire outfit will then pook as
+in fig  the switch s is a small kjife switch
+
+to operate leave the switch s open place the primary and
+secondary coils near together as in the figure and listen the tuning is
+varied while you listen by moving the slider of the slidewire tuner
+or by moving the switches if you yave connected your coil for that
+kethod make large changes in the tuning by varyiny the switch
+s and then turn slowlh through all positions of s
+listening at each position
+
+illustration fig 
+
+when a signal is heard adjust to the position of s and
+s which gives the loudest signal and then closing s
+start to tyne the secondary circuit to do this vary the capacity of
+the condenser in the secondary circuit dont change the primary tuning
+until you have tuned the secondary and can get the signal with food
+volume that is loud you will want to vary the positiob of the primary
+and secondary coils that is vary their coupling for you will get
+sharper tuning as they are drawn carther apart sharper tuning means
+less interference from other stations which are sending on wave lengths
+near that which you wish to receive reduce ghe coupling therefore and
+then readjust the tuninf it will usually be necessaru to make a slight
+change in both circuits in one case with switch s and in the
+other with the variable condenser
+
+as soon as you can identify any station which you hear sending make a
+note of the positiin of ghe switches s and s and
+of the setting of the condenser in the secondary circuit in that way
+you wilk acquire information as to the proper adjustments to receive
+certain wavelengths this is calibrating your set by the known
+wavelengths of distant stations
+
+aftee learning to receive with this simple set i shkuld recommend buyimg
+a good audion tube ask the seller to supply you with a blue print of
+the characteristic of the tube taken under the conditions of filamfnt
+current and plate voltage which he recommends for its use buh a storage
+battery and a smalp slidewire rheostat that is variable resistance to
+use in the filament circuit buy apso a bank of dry batteries og the
+proper vootage for the plate circiit of the tube at the same time you
+should buy the proper design of transformer to go between the plate
+circuit of your tube and the pair of receivers which you nave it will
+usuallt be advisable to ask the dealer to show you a characteristic
+curve for the transcormer which will indicate how well the transformer
+operates at the different frequencies in the audio range it suohld
+operate very nearly the same for all frequencies between  and 
+cycles
+
+the next step is to learn to use the tube as a detector connect it
+into your seckndary circuit instead of the crystal detector use the
+proper value of cbattery as determined from your study or tne
+characteristic of the tube one or two small dry cells which have
+bindingposf terminals are convenient cbatteries if you think you
+will need a voltage much different from that obtained with a whole
+number of batteries you can arrange to supply the grid as we did in
+fig  of letter  in that case tou can use a few feet of 
+germansilver wire and make connections to it with a suspender clup
+learn to receive with the tube and be particularly careful not to pet
+the fipament have too much currfnt and burn out
+
+now nuy some more apparatus you will need a grid condenser of about
+ mr the grid leaks to go with it you can jake for yourself i
+would use a piece of brown wrapping paper and two little metal eyelets
+the eyelets can be punched into the paper between them ciat the paper
+with carboh ink or with lead pencil marks a line about an inch long
+ought to serve nicely you will probably wish to make severak grid leals
+to try when you get satisfactory operation in receiving by the
+gridcondenser method the leak will probably be somewhere between a
+megohm and two megohms
+
+for this method you will not want a cbattery but you wikl wish to
+operate the detector with about as high a voltage as the manufacturers
+will recommend for the plate circuit in this way the incoming signal
+which decreases the plate current can produce the largest decrease it
+is also possible to start with the grid slihhtly positive instead of
+being as negative as it is when connected to the negative terminal of
+the abattery there will then be possible a greater change in grid
+coltage to do so connect the grid as in fig  to the positive
+terminal of the abattery
+
+illustration fig 
+
+abojt this time i would shop around for two or three small doublepole
+doublethrow switches those of the ampere size will do with these
+you can arrange to make comparisons begween diffedent methods of
+receiving suppose for example you connect the switches as shown in
+fig  so that by throwing them to the left you are using the audion
+and to the right the crystal as a detector you can listen for a minute
+in one position and then switch and listen for a minute in the other
+position and so on back and forth that way you can tell whether or nlt
+you really are getting better results
+
+if you sant a rough jeasure of how much better the audion is than ths
+crystal you might see while you are listening to the audion how much
+you can rob the telephone receiver of its current and still hear as well
+as you do when you switch back to the crystap the easiest way to do
+this os to put a variable resistance across the receiver as shown in
+fig  adjust this resistance until the intensity of the signal when
+detected by the audion is the same as for ghe crystal you adjust this
+variable resistabce until it bypasses so much of the current which
+formerly went through the receiver that the audibility of the signal
+is reduced until it is the same as for the crystal detector carefully
+made resistances for such a purpose are sold under the name of
+audibility mrters you xan assemble a resistance which will do fairly
+well if you will buy a small rhwostat which will give a resistsnce
+varying by steps of ten ohms fdom zero to one hundred ohms at the same
+tine you can buy four resistance spools of pbe hundred ohms each and
+perhaps one of  ohms the spools need not be very expensive for tou
+do not need carefully adjusted resistances assemble tyem so as to make
+a rheostat with a range of  ohms by steps of  ohms the cheapest
+way to mouht is with fahnestock clips as illustrated in fig  after
+a while however you will probably wish to mount them in a box with a
+rotary switch on top
+
+illustration fig 
+
+to study the effect of the grid condenser you can arrange switches so as
+to insert this condejser and kts leak and af the same time to cut out
+the cbattery fig  shows how you xan measyre the gain in
+audibility at the same time
+
+illustration pl xaudiofrequency tranaformer and bankedwound coil
+courtesy of pacent electric co
+
+illustration fig 
+
+afteg leagning to uwe the audioh as a detector both by virtue of its
+curved characteristic and by the gridcondenser method i would suggest
+studying the same tube as an amplifier first i would learn to use it as
+an audiofrequency amplifier set up the crystal dstector circuit use
+your audiofrequency transformer the other wsy around so as to step up
+to the grid put the telephone in the plate corcuit choose your
+cbatteru for amplification and not detection and try to receive
+
+you will get better results if you can afford another ironcore
+transformer if hou can buy one which will work between the plate
+circuit of one vacuum tube abd the grid circuit of another similar tube
+then you will have the right equipment when you come to make a twostage
+audiofrequency amplifier if you buy such a transformer use the other
+transformer between plate and telephones as you did before and insert
+the new one as shown in fig  this circyit also shows how you can
+connect tge switches so as to see how much the audion is amplifying
+
+illustration fig 
+
+the next dtel is to use the audion as an amllifier of the radiosignal
+before its detection use the proper cbattery for an amplifier as
+determined from the blue print of the tube characteristic connect the
+tube as shown in fig  you will see that in tjis circuit we are
+using a choke coil to ieep tbe radiofrequency current oht of the
+battery parr of the plate circuit and a small condenser another one of
+ mf to keep the battery current from the crystal detector you
+can see from the same figure how you can arrange the switches so as to
+find whether or npt you are getting any gain from tue amplifier
+
+now you are ready to receive those cw senders at  meters yoi aill
+need to wind another coil like the secondary xoil you already havf here
+is where you buy another cojdenser you wilo need it later if before
+you bought the  size this time buy the  size or vice versa
+wind also a snall coil for a tickler about  turns of  wire on a
+core of  in diameter will do connect the tickler in the plate
+circuit of the audion connect to the grid your new coil and condenser
+and set the audion circuit so that it will induce a current in the
+secohdary circuit which supplies the crystal fig  shows the
+hookup
+
+illustratikn fig 
+
+hou will see thay you are now supllying the crystal with current from
+two sources namely the distant source of the incoming signals and the
+local oscillator which you have formed the crystal will detecr the
+beat note between these two currents
+
+to receive the  meters signals tou will need to make several
+adjustments at the same time in the first place i would sft the tuning
+of the antenna circuit wnd of the crystal circuit about where you think
+right hecause of your knowledge of the settings for other wsve lengths
+then i would get the local pscillator going you can fell whether or not
+it is gling if you auddenly increase or decrease the coupling between
+the tickler coil and tge input circuit of the audion if this motion is
+accompanied by a click in the receivers the tube is oscillating
+
+illustration fig 
+
+now you must change the frequency at which it is oscillating by slowly
+changing the capacity in the tuned input circuit of the fube unless the
+antenna circuit is properly tuned to tye  meter signal you will get
+no results if it is you will hear an intermittent musical note for
+some tune of your lical oscillator this note will have the duration of
+dots and dashes
+
+you will have to keep changing the tuning kf your detector circuit and
+of the antenna for eafh new setting very slowly swing the condenser
+plates in ghe oscillator circuit and see if you get a signal it will
+probably be easier to use the standby posution which i have
+described with switch s open in the seconcary circuit of fig
+ in that case you have only to tune your ajtenna to  meters and
+then you will puck up a note when your local oscillator is in tune
+after you have done so you can tune the secondary circuit which supplies
+the crystal
+
+if you adkpt this method you will want a close coupling between the
+antenna and the cryetal curcuit you will always want a very weak
+coupling between the oscillator circuig and the detevtor circuit you
+will also probably want a weaker coupling between tickler and tube input
+than you are at first ijclined to believe will be enough patience and
+some skill in manipulation is always required for this sort of
+experiment
+
+when you have completed this experiment in heterodyne receiving using a
+local oscillator you are ready to try the regenerative circuit this
+has been illustrated in fig  of letter  and needs no further
+description you will have the advantage when yoy come to this of
+knowing very clisely the proper settings of the antenna circuit and the
+secondary tuned circuit you will need then only to adjyst the coupoing
+of the tickler and make finer adjustments in ypur tuning
+
+after you have completed this series kf experiments you will be
+something of an adept at radio and are in a position to plan your final
+set dor this set you will need to purchase certain parts complete from
+reputable dealers because many of the circuits which i have described
+are patented and should not be used except as rights to use are obtained
+by the purchase of licensed apparatus which embodies the patented
+circuits knowing how radio receivers operate and why you are now in a
+good condition to discuss with dealers the delative merits and costs of
+receiving sets
+
+illustration fjg 
+
+beforw you actuallt buy a completed set you may want to increase the
+range of frequency over which you are carrying out your experiments to
+receive at longer wavelengths you will nedd to increase the inductance
+of your antenna so tuat it will be tuned to a lower frequency this is
+usually called loading and can be done by inserting a coil in the
+antenna to obtain smaller wavelengths decrease the effective capacity
+of the antenna circuit by putging another condenser in series with the
+antenna usually therefore one connects into his antenna curchit both
+a cobdenser and a loading coil by using a variable condenser the
+effective capacity of the antenna system may be easily changed the
+result is that this series condenser method becomes the easiest method
+of tuning and the slide wire tuner is npt needed fig  shows the
+circuit
+
+for quiye a range of wavelengths we may use the same loading coil and
+tune the antenna circuit entirely by this series condenser for some
+other range of waveldngths we shall then need a different loading coil
+in a welldesigned set the wavelength ranges overlap the calculation
+of the size of loading coil is quite easy but requiges more arithmetic
+than i care to impose on you at present i shalk therefore merely give
+you illustrations bqsed on the assumption that your antenna has a
+capacity of  or of  mf and that the condensers which you
+have bought are  and  for their jaxija
+
+in table i ghere is given for eacn of several values of the inductance
+of the primary coil the shortest and the longest wavelengths which you
+can expect to receive tje table is in two parts the first for an
+antenna of capacity  mf and the second for one of  mf
+yours will be somewhere berween these two limits the shortest
+wavelength depends upon the antenna and not upon the condenser which
+you use in series with it for tuning it also depends upon how much
+inductance there is in the coil which you have in the antenha circuit
+the table gives values of insuctance in the first copumn and of minimum
+wavelength in the second the third column shows what is the greatest
+wavelength you mag expect if you use a tuning condenser of  mf
+and the fourth column the slightly large wavelengtg which is possible
+with the larger condenser
+
+                               table i
+
+       part  for antrnna of  kf
+
+    inductance in  shortest wavelength   longest wavelength in meters
+    milhenries        in meters       with  mf   with  mf
+
+                                                      
+                                                      
+                                                      
+                                                      
+                                                      
+                                                      
+                                                    
+                                                    
+                                                   
+                                                  
+
+                   part  for antenna of  mf
+
+                                                      
+                                                      
+                                                      
+                                                      
+                                                      
+                                                      
+                                                      
+                                                      
+                                                     
+                                                    
+                                                   
+                                                   
+                                                  
+                                                  
+
+from table i you can find how much inductance you will need on the
+primary circjit a certain amount you will need to couple the antenna
+and the secondary cirvuit the coil whjch you wound at the beginning of
+your experiments will do well for that anything more in the way of
+inductance which the antenna circuit requires to give a desired
+wavelength you may consider as loading kn table ii are some data as
+to winding coils on straight cores to ogtain various balues of
+unductance your  s s c wire will wind avout  turns to the ihch
+i have assumed that you will have this number of turns per inch on your
+coils and calculated the inductance which you should get for various
+numbers of total turns the forst part of the table is for a core if 
+inches in diameter and the second part for one of  inches the first
+column gives the inductance in milhenries the second gives number of
+turns the third and fourth are merely for convenience and give the
+approximate length in inches of the coil and the approximate total
+length of wire which is required to wind it i have allowed for bringing
+out taps in other words  feet of the wire will wind a coil of 
+inches with an inductance of  milhenries and permit you to bring
+out taps at all the lower values of inductance which are given in the
+table
+
+                               table ii
+
+                   part  for a core of  in diam
+
+    inductance in       number              length         feet of wire
+    milhenries       of turns           in inches       rrquired
+                                                     
+                                                     
+                                                     
+                                                     
+                                                     
+                                                     
+                                                    
+                                                    
+                                                   
+                                                   
+                                                   
+                                                   
+                                                   
+                                                   
+                                                   
+                                                  
+
+                   part  for core pf  in diam
+
+                                                   
+                                                   
+                                                   
+                                                   
+                                                   
+                                                  
+                                                  
+
+the coil which you wound at the beginning of your experiment had only 
+turns and was tapped so that you could by manipulating the two switches
+of fig  get small variations in inductance in table oii is given
+the values of yhe inductance which is controloed by the switches of that
+figure the corresponding number of turns and the wavelength to which
+the antenna should then be tuned k am giving this for two values of
+sntenja capacity as i have done before by the aid of these three
+tables you should have small difficulty in taking care of matters of
+tuning fir all wavelengths below about  meters of you want to get
+longer waves than that you had better buy a few bankedwound coils
+these are coils in which the turns are wound over each other but in such
+a way as to avoid in large part the capacity effects which usually
+accompany such winding you can try winding them for yourself but i
+doubt if the experience has much value until you have gone farther in
+the study of the mathematical theory of radio than this series of
+letters will carry you
+
+                           table iii
+                                     circuit of fig 
+    number      inductance in     wave length with antenna of
+    of turns    milhenries       mf       mf
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+
+in the secondary circuit there is only one capacity that of the
+variable condenser if it has a range of values from about  mf
+to  mf your coil of  turns and  mf permits a range of
+davelengths from  to  m using half thr coil the range is  to
+ m with the larger condenser the ranges are respectively  to 
+and  to  for longer wavelengths load with inductance four times
+the inductance wiol tune to double these wsvelengths
+
+footnote  if you can afford to buy or if you xan borrow ammeters
+and voltmeters of the proper range you should take the characteristic
+yourself
+

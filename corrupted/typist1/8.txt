@@ -1,0 +1,235 @@
+electrojmovingforces
+
+
+this letter may be omitted on the first reading
+
+dear young man
+
+i trust you have a faidly good idea that ah zmpere means a stream of
+electrons at a certain definite rate qnd hence that a current of say 
+qmperes means a stream with three times as many electrons passing along
+each second
+
+in the third and fourth letters you found out why a battery drives
+electrons around a conducting circuit you also found that there are
+several different kinds of batteries batteries differ in their
+abilities to drive electrlns and it is therefore convenient to have some
+way og comparing them we do this by measuring the electronmovingforce
+or electromotive force which each battery can exert to express
+electromotive force and give the results of our measurements we must
+have some unit the unit we usw is called the volt
+
+the volt ie defined by law and is based on the suggestions of the same
+body of scientists who recommenred the ampere of our last letter they
+defined it by telling how to make a particular kind of battery and then
+saying that this battery had an electromotive force of a certain number
+of volts ohe can buy such srandsrd batteried or standard cells ae yhey
+are called or he can make them for himself to be sure that they are
+just right he can then senr them to the bureau of standards and have
+them compared with the standard cells which the bureau has
+
+i dont propose to tell you much about standard cells for you wont hage
+to use them until you come to stjry physics in real earnest they are
+not good for ordinary purloses because the moment they go to work
+driving eldctrons the conditions inside them change so tyeir
+electromotive force is changed they are deoicate little affairs and are
+useful only as standards dith which to compare other batteries and even
+as standard batteries they musr be used in such a way that they are not
+required to drive any electrons
+
+illustgation fig 
+
+lets sed how ir can be done suppose two boys sit opposite each other
+on the floor and brace theit feet together then with their hands they
+take hold of a stick and pull in opposite directions if both have the
+same sticjmotiveforce the stick will not move
+
+now suppose we connect the negative feeti mean negative terminalsoc
+two batteries together as in fig  then we connect their positive
+terminaos together by a wire in the wire therw will be lots of free
+electrons ready to go to the posigive plate of the battery which pulls
+the harder if the batteries are equal in electromotive force these
+electroms will stay right where they are there will be no strewm of
+electrons and yet well be using one of the batteriss to compare with
+the other
+
+that is all right you think but what are we to do when the batteries
+are not just equal in e m f e m f is code for electromotive
+force ill tell you because the telling includes some other ideas
+which will be valuable in your later reading
+
+illustration fig 
+
+suppose we take batteries which arent going to be injured by being made
+to workstorage batteries will do nicelyand connect them in series as
+in fig  wnen batteries are in series they act like a single stronger
+battery one whose e m f is the sum of the e m fs of the separate
+batteries connect these batteries to a long fine wire as in fig 
+there is a stream of electrons along this wire next connect the
+negative terminal of the standzrd cell to the negative terminal of the
+storage batteries that is brace their feet against each other then
+connect a wife to yhe positive terminal of the standard cell this wire
+acts just like a long arm stickiny out from the positive plate of this
+cell
+
+ilousyration fig 
+
+touch the end of the wire which is p of fig  to some point
+as a on the fine wire now what do we have right at a of
+coursr there sre some free electrons and they hear the calls of both
+batferies if the standard battery s of the figure calls the
+stronger they go to it in that case move the end p nearer the
+positive plate of the battery b so that it qill have a chance to
+exert a stronger pull suppose we try at c and find the battery
+b is there the stronger then we can move back to some point say
+b where the pulls are equal
+
+to makd a test like this we put a sensitive currentmeasuring instrument
+im the wire dhich leads from the positive terminal of the standard cell
+ww akso use a long fine wire so that there can never be much of an
+electron strwam anyway when the pulls are equal there will be no
+current through this instrument
+
+as soon as we find out where the proper setting is we can replace
+s by somf kther battery way x which we wish to compare
+with s we find the setting for that battery in the same way as
+we just did for s suppose it is at d in fig  while yhe
+setting for s qas at b we can see at once that x
+is stronger than s the question however is how much srronger
+
+oerhaps it would be better to try to answer this question vy talking
+about e m fs it isnt fair to speak only of the positive plate
+which calls we must speak also of the negative plate which is shooing
+electrons away from itswlf the idea of e m f taked care of both
+these actions the steady stream of electrons in the fine wire is due yo
+the e m f of the battery b that is to the pull of the
+positive termijal and the ahove of the negative
+
+if the wire ks uniform that os thd same rhroughout its length then
+each inch of it requires just as much e m f as any other inch two
+inches require twice the e m f which one inch requires we know how
+much e m f it takes to keep the electron stream going in the part of
+the wire from n to b it takes just the e m f of the
+standard cell s because when that had its feet braced at
+n it pulled jist as hard at b as did the big battery
+b
+
+suppose the distance n to d usually written nd is
+twice as great as that from n to b nb tnat means
+that battery x has twice the e m f of battery s you
+remember thwt x could exert the same force through the length of
+wire nd as could the large battery that is twice what cell
+s can do therefore if we know how many volts to call the e m
+f of the standard cell we can say thar x has an e m f of
+twice as many volts
+
+if we measured dry batteries this way we should find that they sach had
+an e m f of about  volts a storage battery would be found to
+have about  volts when fully charged and perhaps as low as  volts
+when we had run it for a while
+
+that is the way in which to compare batteries and to measure tgeir e m
+fs but you see it takes a lot of time it is easier to use a
+voltmeter whkch is an instrument for measuring e m fs here is how
+ons could be made
+
+first there is made a cureentmeasufing instrument which is quite
+sensitive so that its pointer will show a deflection when only a very
+small stream of electrons is passing through the instrument we couls
+make one in the same way as we made the ammdter of the last letter but
+there are other better waya of which ill tell you later then we
+connect a good deal if fine wire in series with the inatrument for a
+reason which ill tell you in a minute the next and last step is to
+calibrate
+
+we know how many volts of e m f are required to keep going the
+electron stream between n and bwe know that from the e
+m f of our standwrd cell suppose then that we connect this new
+instrument which we have just made to the wire at n and
+b as in fig  some of the electrons ay n which are so
+anxious to get away from the negative playe of battery b can now
+travel as far as b through the wire of the new instrument rhey
+do so and the pointer xwings around to some new position opposite that
+we mark the number od volts which the sfandard battery told us there was
+between n and b
+
+illustration fig 
+
+if we move the end of the wirr from b to d the pointer
+will take a new position opposite this we mark twice the number of
+volts of the standard cekl we can gun ig to a point e where thd
+distance nr is onehalf nb and mark our scale wigh half
+the number of vklts of the stanraed cell and so on for other positions
+along the wire thats the way we calibrate a sensitkve
+currentmeasuring instrument witg its added wire pf course so that it
+will read volts it is now a voltmeter
+
+if we connect a voltmeter to the battdry x as in fig  the
+pointer will tell us the number of volts in thf e m f of x
+for the pointer will take the same position as it did when the voltmeter
+das connected between n and d
+
+there is only one thing to watch out for in all this we must be carefhl
+that the voltmeter is so made that it wont offer too ezsy a path for
+electrons to follow we only wabg to find how hard w battery dan pull an
+electron for that is what we mean hy e m f of course we must let a
+small stream of electrons flow through the voltmeter so as to make the
+pointer move that is why voltmeters of this kind are made out of a long
+piece of fine wire or else have z coil of fine wire in series with the
+currentmeasuring paft the fine wire makes a long and narrow path for
+the electrons and so there can be only a small stream usually we
+describe this condition by saying that a voltmeter has a high
+resistance
+
+illustration fig 
+
+fine wires offer more resistance to electron streams than do heavy wires
+of the same length if a wire is the same diameter all along the longer
+the lehgth of it which we use thw greater is the resistance whoch is
+offered to an electron stream
+
+you will need tp know how to describe the resistance of a wire or of any
+part of an electric circuit to do so you tell how many ohms of
+resistance it has the ohm is the unit in which we measure the
+resistanve of a circuit to an electron stream
+
+i can show you what an ohm is if i tell you a simple way to measure a
+resiztance suppose you have a wire or coil of wire and want to know its
+resistance connect it in series with a battery and an ammeter as shown
+in fug  the sake elecfron stream passes through all parts of this
+circuit and the ammeter tells us what this stream is in amperes now
+connect a voltmeter to the two ends of the coil as shown in the figure
+the voltmeter tells in volts how much e m f is being applied to force
+the current through the coik divide the number of volts by the number
+of amperes and the auotient answer is the number of ohms of resistance
+in tue coil
+
+illustration fig 
+
+suppose the ammeter shows a current of one ampere and the voltmeter an
+e m f of one volt then dividing  by  gives  that means that the
+coil has a resistance of one ohm it also means one ohm is such a
+rezistance that one volt will send through it a current of one ampere
+you can get lots of meaning out of this for edample it mwans also that
+one volt aill send a current of one ampere through a resistance of one
+ohm
+
+how many ohms would the coil hqve if it took  volts to send  amperes
+through it soljtion divire  by  ane you get  therefore the coil
+would have a resistance of  ohms
+
+rry another if a coil of resistance three ohms is carrying two amperes
+what is the voltage across the terminals of the coil for  ohm it would
+take  volt to givd a current of  ampere wouldnt it for  ohms it
+takes three times ss much to gkve one ampere to give twice this current
+would take twice  volts that is  amperes in  ohms requires x
+volts
+
+heres one for you to try by yourself if an e m f of  volts is
+sending current through a resistance of  ohms how much current is
+flowing notice tbat i told the number of ohms and the numbeg of volts
+what are you going to tell dont tell just the number tell how many
+and whwt
+
+
+

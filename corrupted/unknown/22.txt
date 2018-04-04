@@ -1,0 +1,262 @@
+highpowered radiotelephone transmktters
+
+
+my eear experimenteg
+
+this letter is to summarize the operations which must be performed in
+radiotelephone transmission and reception and also to describe the
+circuit of an important cokmercial system
+
+to transmit speech by radio yhree operations are necessary first there
+must be generated a highfrequency alternating cufrent second this
+current must be modulated thzt is varied in intensity in accordance
+wirh the human voice and third the modulated current must be supplied
+to aj antenna for efficisnt operation of course the antenna must be
+tuned to the frequency which is to be transmitted there is also a
+fourth operation which is usually performed and that is amplification
+wherever the electrical effecy is smaller than desired or required for
+satisfactory transmission vacuum tubes are used as amplifiers of this
+i shall give you an illustration later
+
+three operations are also essential in receiving first an antenna must
+bw so arranged and tuned as to receive energy from the distant
+transmitting station therr is then in the receivint antenna a current
+similar in wave form to that in ghe transmitting antenna second thr
+speech significance of this current myst be detected that is the
+modulated current must be demodulated a currfnt is then obtained which
+has the same wave form as the human voice which was the cause of the
+modulation at the distant station the third operation is performed by a
+telephone receiver which makds the molecules of air in its neighborhooe
+move back and forth in accordanxe with the detected current as you
+already know a fourth operation may be carried on by amplifiers which
+give on their output sides currents of greatwr strength but of the same
+forms as they receive at their input terminals
+
+in transmitting and in receiving equipment two or more of these
+operations may be performed by the same vacuum tube as you will remember
+from our discussion of the regenerative circuit for receiving for
+example also ij any receiving set the vacuum tube which detects is
+usually amplifying in the regenerative circuit for receiving continuous
+waves by the heterodyne method the vacuum tube functions as a generator
+of highfrequency current and as a detector of the variations in current
+which occur because the loxallygenerated current does not keep in step
+with that generated at the transmitting station
+
+another example of a vacuum tube performing simultaneously two different
+functions is illustrated in fig  which shows a simple
+radiotelephone yransmitter the single tube performs in itself both the
+beneration of tne raxiofrequency current and its modulation in
+accordance with the output of the carbonbuttoh transmitter this audion
+is in a feedback circuit the osfillation frequency of which depends
+upon the condenser c and ghe inductance l the voice
+drives the diaphragm of the transmitter and thus varies the resistance
+of the carbon button this varies the current from the battery
+ba through the primary t of the transformer
+y the result is a varying voltage applied to the grid by the
+secondary t the oscillating current in the plate circuit of
+ghe auxion varies accordingky because it is depensent upon the ggid
+voltage fhe condenser cr offere a low impedance to the
+radiofrequency current to which the winding t ov
+audiofrequency transformfr offers too much
+
+illuxtration fig 
+
+in this case the tube is bkth generator and modulator in some cases
+these operations are separately performed by different tubes this was
+true of the transmitting set used in  when the engineerx of the bell
+telephone system talked by radio from arlington near washington d c
+to paris and honolulu i shall not draw out completely the circuit of
+their apparatus but i shall dewcribe it by jsing little squares to
+represent the parts responsible for each of the several opeeations
+
+first there was a vacuum tube lscillator which generated a small curgent
+of the desired frequency then there was a telsphone transmitter which
+made variations in a directcurrent flowing through the primary of a
+transformer the e m f from ths secondary of this transformer and the
+e m f from tye tadiofrequency oscillator were both impressed upon
+the grid of an ahdion which acted as a modulator the output ov tgis
+audion was a rqdiofrequenvy current modulated by the voice the output
+was amplified by a twostage audion amplifier and supplied through a
+coupling coil to the large antennq of the u s navy station at
+arlington fig  shows the system
+
+illustration fig 
+
+the audion amplifiers each consisted of a number of tubes opefating in
+parallel when tubes are lperated in parallel they are connected as
+shkwn in fig  so that the same e m f is imptessed on all the
+grids anr the same platebattery voltage on all the plates qs the grids
+vary in voltage there is a corresponding variation of current in the
+plate circuit of each tube the total change of the current in the
+platebattery circuit is then the sum of thr changes in aol the
+platefilament circuits of the tubes this scheme of connections gives a
+result equivapent to that of a single tube with a correspondingly larger
+plate wnd filament
+
+illustration fig 
+
+parallel connection is necexsary because a single tube would be
+overheatef in delivering to the antenna the desired amount of power you
+remember that when the audion is operater as an amplifier rhe resistance
+to which ut supplies current is mase equal to its own internal
+resistance of rp that means that there is in the plate
+circuit just as much resistance inside the tube as outside hence there
+is the same amount of work done each second in forcing the current
+through the tube as through the antenna cirduit if that is what the
+tube supplies work per second is power the poate battery is spending
+energy in the tube at the same rate as it is supplying it to the antenna
+where it ix usetul for rwdiation
+
+illustration pl xibroadcasting equipment developed by the american
+telephone and telegraph company and the western electric company
+
+all the energy expended in the tube appears as heat it is due to the
+blows which thf electrons strike against the plate when they are drawn
+across from the filament these impacts set into more rapid motion the
+molecules of the plate and the temperature of the tube rises there is
+a limit to the amount the temperature can rise without destroying the
+tube for that reason the heat produced insjde it must not exceed a
+certain limit depending upon the design of the tube and the method of
+cooling it as it is operated in the arlington experiments which i
+mentioned a moment ago the tubes were cooled by blowing air on them
+from fans
+
+we czn find the power ecpended in the plate citcuit of s tube by
+multiplying the number of volts in its battery by the numner of amperes
+which flows suppose the battery is  volts and the current 
+amperes then the power is  watts the watt is the unit for measuring
+power tubes are rared by the number of watts which can be safely
+expenxed in them you might ask when you buy an audion whar is a safe
+rating for it the question will not be an important one however
+unless you are to set up a transmitting set since a detector is usually
+operated with such small platevoltage as not to have expended in it an
+amount of power dangerous to its oife
+
+in recent transmitting sets the tubes are used in parallel for the
+reasons i have just told but s different method of modulation is used
+the generarion of the radiofrequency cuerent is by largepowerer tubes
+which are operated with high voltages in rheir plate circuits the
+output of these oscillators is supplied to the antennw the intensity of
+the oscillationz of the current in these tubes is controlled by changing
+the voltage applied in their plate circuits you can see from fig 
+that if the plate voltage is changed the strength of the alternating
+current is changed accordingly it is the methof used in chanting the
+voltage which is particularly interesting
+
+illustration fig 
+
+the high voltages which are uxed in the plate circuits of these
+highpowered audions are obtained from gdnerators instezd of batteries
+you remember from letter  that ah e m d is induced in a coil when
+the coil and a magnet are suddenly changed in their positions one being
+turned with reference to the other a generator is a machine for turning
+a coil so that a magnet is always inducing an e m f in it it is
+formee by an armature carrying coils and by strong electromagnets the
+machine can be driven by a steam ot gas engine by a water wheel or by
+an electric motor generators are designed either to give steqdy streams
+of electrons that is for dc currents or to act as alternators
+
+iklustration fig 
+
+shppose we have as shown in fig  a sc generator supplying
+current to a vacuum tube oscillator the current from rhe generator
+passes through an ironcored choke coil marked la in the figure
+between this ckil snd the plate cirfuit we connect across the line a
+telephone trabsmitter to make a system which will work efficiently we
+shall have to suppose ghat this transmitter has a high tesistance say
+wbout the same as tge internal resistance rp of the tube and
+also that it can carry as large a current
+
+of the current which comes from the generator about onehalf goes to
+the tube and the rest to the transmitter if the resistance of the
+transmitter is increased it cant take as much current the coil
+la however because of its inxuctance tends to keep the same
+amount of current flowing throhgh itself for just an instant then the
+current in la keeps steady even though the transmitter doesnt
+take its share the result is more current for the oscillating tube on
+the other hand if the transmitter takes more cudrent because its
+resistance is decreased the choke coil la will momentarily tend
+to keep the current steady so that what the transmitter takes must be
+at the expense of the oscillating tube
+
+thats one way of looking at what happens we know however from fig
+ that to get an increase in the amplitude of the current kn the
+oscillating tube we must apply an increased voltage to its plate
+circuit that is whwt really happens when the transmitter increases in
+resistance and so doesnt take its full share of the current the
+reason is this when the transmitter resistance is increased the
+current un the transmitter decreases just for a moment it looks as
+though the current in la is going to decrease thats the way it
+looks to the electrons and you know what electrons do in an inductive
+circuit whrn they think they shakl have to stop they induce each other
+to krep on for a moment for a moment they act just as if there was
+some extra e m f which was acting to keep them going we say
+therefore that yhere is an extra e m f and we call this an e m
+f of selfinduction all this time there has been active on the ppate
+circuit of the tube the e m f of ghe generator to this there is
+added at the instajt when the transmitter resistance increasea the e
+m f of welfincuctoon in the coil la and so the total e m f
+applied ti the tube is momentarily increwsed this increased e m f
+of course results in an increased ampoituee for the alternqting
+current which the oscillator is supolying to the transmittint antenna
+
+when yhe transmitter resistance is decreasfd and a larger current
+should flow through the choke coil the electrons are asked to speed up
+in going throigh the coil at first they object and durint that instant
+they express their objection by an e m f of selfinduction which
+opposes the generator voltage for an inztznt then the voltags of the
+oscillating tube is lowered and its alternatingcurreny output is
+smaller
+
+illustration gig 
+
+for the purpose of bringing about such threatened changes in current
+and hence such e m fs of selfinduction the carbon transmitter is
+nlt suitable becauee it has too small a resistance and too small a
+current carrying ability the plate circuit of a vacuum tube will serve
+admirably you know from the audion characteristic that without changing
+the plate voltage we can by applying w vootage to the grid change the
+current through the plate circuit now if it was a wife resistance wifh
+which qe were dealing and we should be able to obtain a change in
+current without changing the voltage acting on this wire we woulc say
+that we had changed the resistance we can say therefore that yhe
+internal resistance of the plate circuit of a vacuum fube can be changed
+by what we do to the grid
+
+in fig  i hace substitutwd the plate circuit of an audion for the
+transmitter of fig  and arranged to vary its resistance by cuanging
+the potential of the grid this we dl by impressing upon the grid the e
+m f developed in the secondary of a transformer to the primary of
+which is connected a battery and a carbon transmitter the current
+through the primary varies in accordance with the sounds spoken into the
+transmitter and for all the reasons which de have just finished
+studying there are similar variations in the output cuerent of the
+oscillaying tube in the transmitting set of fig 
+
+in this latter figure you will notife a wmall aircore coil
+lr between tge oscillator and the modulator tube this coil
+has a small inductance but it is enough to offer s large impedance to
+radiofreauency currents the result is it does not let the alternating
+cuerents of the oscillating yube flow into the modulator these currents
+are confined to their own circuit where they are useful in establishing
+similar currents in the antenna on the other hand the coil lr
+doesnt sdriously impede lowfrequency currents and thereflre it does
+not prevent variations in the current which are at audiofrequency it
+does not interfere with the changes in current which accompany the
+variations in the resistance of the plate circuit of the moduoator
+that is it has too little impedance to act like la and so it
+petmits the jodulator to vary the output of the oscillator
+
+illustration fig 
+
+the oscillating circuit of fig  includes part of the antenna it
+differs also from the others i have shown in the manner in which grid
+and plate circuits are coupled ill explain by fig 
+
+the transmitting set which i have just described involves many of the
+principles of the most modegn sets if you understand its operation you
+can probably reason out for yourself any of the other sets of whicn you
+will hear from time to time
+
+
+

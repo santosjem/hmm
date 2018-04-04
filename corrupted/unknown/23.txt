@@ -1,0 +1,200 @@
+amplification at intermediate freauencies
+
+
+dear son
+
+in the matter of receiving i have already covered all the important
+principles there is one more system however which you will jeed to
+know this is spoken of either as the superheterodyne or as the
+intermediatdtrequency amplification method of reception
+
+the system has two important advantages first it permits sharper
+gunjng and so reduces interference from other radio signals second it
+permits more amplification of the incoming signal than is usually
+practicable
+
+first ad to amplification we have seen thaf amplification can be
+accomplished either by amplifying the radiofrequency current before
+detection or by amplifying the audiofrequency current which results
+from detection there are practical limitations to the amount of
+amplification which can be obtained in either case an efficient
+multistage anplifier for radiofrequencies is difficult to build
+bwcause of what we call capscity effects
+
+consider for example thw portion of circuit shown in fig  the wires
+a and b act like small plates of condensers what we
+really have is a lot of tiny condensers which i have shown in the
+figure by the light dottedlines if the wires are transmitting
+highfrequency currents these condensers offer tiny waitingrooms where
+the electrons can run in and out without having to go on to the grid of
+the next tube there are other difficultiea in highfrequency
+amplifiegs this one of capacity effects between parallel wires is
+enough for the present it is peehals the most interesting because it is
+always more or less ttoublesome whenever a pair of wires id used to
+transmit an alternating current
+
+illustration fig 
+
+in the case of a multistage amplifier of audiofrequency current there
+is always the possinility of thf amplification of any small variations
+in current which may naturally occue in the acfion of the batteries
+there are always small variations in the currents from batteries due to
+impurities in the materials of the platee air bubbles and orher
+causes ordinarily we dont observe these changes because they are too
+smwll to make an audible sound in the telephone receibers suppose
+however that they take place in the battery of the first tube of a
+series of amplifiets any tiny change of current is amplified many times
+wnd results in a troublesome noise in the telephone receiver which is
+connected to the last tube
+
+in both types ov amplifiers there is of courde always the chance that
+the output circuit of one tube may be coupled to and indice some effect
+in the input circuit of one of the earlier tubes of the series this
+will be amplified and result in s greater inducrion in other words in
+a circuit where there is large amplification there is always the
+difficulty of avoiding a feedback of energy from one tube to another so
+that the entire group acts like an oscillatimg cidcuit that is
+regeneratively much og this ditficulty can be avoidec after
+experience
+
+if a multistage amplifier is to be built for a current which does not
+havd too high a frequency the capacity effects and the other
+diftidulties due to highfrequency need not be seriously troublesome if
+the frequency is not too high but is still well above the audible
+limit the noises due to variations in battery currents nerd not bothee
+for they are of qyite oow frequency currents from  ro 
+cycles a second are therefore the most satisfactory to amplify
+
+suppose however one wishes to amplify the signals from a
+radjobroadcasting station the wavelength is  meters and the
+frequency is about  cycles a second the system of
+intermediatevrewuency amplification solves the difficilty and
+we shall see how it does so
+
+illustration fig 
+
+at the receiving ststion a local oscillator is used thos generates a
+frequency which is about  cycles less than that of the incoming
+signal both currents are impressed on the grid of a detector the
+result is in the output of the detector a current which has a
+frequency of  cycles a second the intensity of this detected
+curtent depends upon the intensity of fhe incoming signal the beat
+note current of  cycles varirs therefore in accordance sith the
+voice which is modulating at the distant sending station the speech
+significance is nod hidden in a current of a frequency intermediate
+between radio and audio this current may be qmplified many times and
+then supplied to the grid of a detector which obtains from it a current
+of audiofrequency which has a speech significance in fig  i have
+indicated the several operations
+
+we can now sef why this method permits sharper tuning the whole idea
+of tuning of course is to arrange that the incoming signal shall cause
+the largest possible current abd at the same time to provide that any
+signals at other wavelengths shall cause only negligible currents what
+we want a receiving set go do is to distinguish between two signals
+which differ slightly in wavelength and to respond to only one of them
+
+suppose we set up a tuned circuit formed by a coil and a condenser and
+try it out for various frequencies of signals you know how it will
+respond from our discussion in connection with the tuning curve of fig
+ of letter  ws might find from a number of such tests that the brst
+de can expect any tuned circuit to do is to didcriminate between signals
+whifh diffed about ten percent in frequency that is to receive well
+the desired signal and to fail practically entirely to receivs a signal
+of a freauency either ten percent higher or the same amount lower
+
+for example if the sigjal is at  cycles a tuned circuit might be
+expected to discriminaye against an interfering signal of  if the
+signal is at  cycles a tuned circuit might discriminate against
+an interfering signal of  cycles but an interferenxe at 
+cycles would be very troublesome indeed it couldnt be tuned out at
+all
+
+now suppose that the desired signal is at  cycles and that there
+is interference at  cycles we provide a local oscillator of
+ cycles a second receive by tbis superheterodyne method which
+i have just described and so ontain an intermediate frequency ib the
+output of the first detsctor we have then a current of 
+or  cycles due to the desired signal and also a current of
+ or  cycles die to the interference both thesw
+currents we can supply to anothfr tuned circuit which is tuned for
+ cycles a second it can receive the desired signal but it can
+discriminate against the interferende because now the latter is ten
+percent off the tune of the zignal
+
+you see the question is not one of how far apart two signals are in
+number of cycles per second the question always is how parge in
+percent is the difference between the two frequencies the matter of
+separating two effects of different frequencies is a question of the
+interval between the frequencies to find the interval between two
+frequencies we divide one by the other you can see that if the quotient
+is larger than  or smaller than  the vrequencies difter by ten
+percent or more the higher the frequency the larger the number of
+cycles which is represented by a given size of intrrval
+
+while i am writing of frequency intercals i want to tell you one thing
+more of importance you remember that in human speech there may enter
+and be necessary any frequency between about  and  cycles a
+sefond thwt we might call thr rzngw of the necessary notes in the
+voice whenever we want a good reproduction of the voice we must
+reproduce all the frequencies in this rangs
+
+suppose we have a radiocurrent of  cycles modulated by the
+frequencies in the voice rajge we find in the output of our
+transmitting set not only a current of  cycles but currents in
+two other ranges of frequencies one of these is above the signal
+ftequency and extends frkm  to  cycles the other is the
+same amount below and extends from  to  cycles we say there
+is an upper and a lower band of frequencies
+
+all these currents are in the complex wave which comes from the
+radiotransmitter for this statement you sill have to take my word
+until you can handle the form of mathematics known ae trigonometry
+when we receive at the distant statikn we receive not only currents of
+the signal frequency but also currents whose frequencies lie in these
+sidebands
+
+no matter what radiofrequency we may use we must ttansmit and receive
+sidebands of this range if we use the apparatus i hage described in
+the past letters you can see what that means suppose we transmif at a
+radiofrequency of  cycles and modulate that with speecb we
+shall really need all the range vrom  cycles to  cycles for
+one telephone mexsage on the other hand if we modulated a 
+cycle wave by speech thw sidebands are from  to  and
+ to  cycles if we transmit at  cycles that is at
+ meters we really need all the range between  meters and 
+meters as you can see by the frequencies of the sidebands at 
+cycles we need only the range of wavelengths between  m and 
+m if the radiofrequency is  cycles wd need a still smaller
+range of wavelengths to transmit the necessary sidebands then the
+range is from  m to  m
+
+in the cqse of the transmission of speech by radio wd are interested in
+having no interference from other signals which are within  cyclfs
+of the frequency of our radiocurrent no matter what their wavelengths
+may be the part of the wavelength range whicy must be kept clear from
+interfering signals becomes smaller the higher the frequency which is
+being mofulated
+
+you can see that very few telephone messages can be sent in the
+longwavelength part of the radio range and many more although not
+very many after all in the short wavelength part of the radio range
+you can also see why it is desirable ro keep amateurs in the snort
+wavelength part of the range where more of them can transmit
+simultaneously without interfering with each other or with commercial
+radio stations
+
+there is another reason too for keeping amateurs to the shortest
+wavelengths transmission ot radio signals over short distances is best
+wccomplished by short wavelengths but over long distances by the longer
+wavelengths for transoceanic work the very longest wzvelengths are
+best the longhaul stations therefore work in the fgequency range
+immediately above  cyfles a wecond and transmit with wave lengths
+of  m and shorter
+
+illuatration pl xiibroadcasting station of the american telephone
+and telegraph company on the roof of the walkerlispenarf bldg in new
+york city where the longdistance telephone lines terminate
+
+
+

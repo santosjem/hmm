@@ -1,0 +1,173 @@
+the batteries in your radio set
+
+
+this letter may be omitted on the first reading
+
+my dear young man
+
+you will need several batteries when you come to set up your radio
+receiver but you wont use such clumsy affairs as the gravity cell which
+i described in my last letter some of your batteries will be dry
+batteries of the size used in pocket flash lights
+
+these are not really dry for between the plates they are filled with a
+moist paste which is then sealed in with wax to keep it from drying out
+or from spilling instead of zinc and copper these batteries use zinc
+and carbon no glass jar is needed for the zinc is formed into a jar
+shape in this is placed the paste and in the center of the paste a rod
+or bar of carbon the paste doesnt contain sulphuric acid but instead
+has in it a stuff called sal ammoniac that is ammonium chloride
+
+the battery however acts very much like the one i described in my last
+letter ions of zinc leave the zinc and wander into the moist paste
+these ions are positive just as in the case of the gravity battery the
+result is that the electrons which used to associate with a zinc ion to
+form a zinc atom are left in the zinc plate that makes the zinc
+negative for it has more electrons than protons the zinc ions take the
+place of the positive ions which are already in the paste the positive
+ions which originally belonged with the paste therefore move along to
+the carbon rod and there get some electrons taking electrons away from
+the carbon leaves it with too many protons that is leaves it positive
+in the little flash light batteries therefore you will always find
+that the round carbon rod which sticks out of the center is positive
+and the zinc casing is negative
+
+the trouble with the battery like the one i used to make is that the
+zinc plate wastes away every time a zinc ion leaves it that means that
+the greater part of an atom is gone then when the two electrons which
+were left behind get a chance to start along a copper wire toward the
+positive plate of the battery there goes the rest of the atom after a
+while there is no more zinc plate it is easy to see what has happened
+all the zinc has gone into solution or been eaten away as most people
+say dry batteries however dont stop working because the zinc gets
+used up but because the active stuff in the paste the ammonium
+chloride is changed into something else
+
+theres another kind of battery which you will need to use with your
+radio set that is the storage battery storage batteries can be used
+over and over again if they are charged between times and will last for
+a long time if properly cared for then too they can give a large
+current that is a big swiftmoving stream of electrons you will need
+that when you wish to heat the filament of the audion in your receiving
+set
+
+the english call our storage batteries by the name accumulators i
+dont like that name at all but i dont like our name for them nearly
+as well as i do the name reversible batteries nobody uses this last
+name because its too late to change nevertheless a storage battery is
+reversible for it will work either way at an instants notice
+
+a storage battery is something like a boys wagon on a hill side it
+will run down hill but it can be pushed up again for another descent
+you can use it to send a stream of electrons through a wire from its
+negative plate to its positive plate then if you connect these plates
+to some other battery or to a generator that is a dynamo you can
+make a stream of electrons go in the other direction when you have done
+so long enough the battery is charged again and ready to discharge
+
+i am not going to tell you very much about the storage battery but you
+ought to know a little about it if you are to own and run one with your
+radio set when it is all charged and ready to work the negative plate
+is a lot of soft spongy lead held in place by a frame of harder lead
+the positive plate is a lead frame with small squares which are filled
+with lead peroxide as it is called this is a substance with molecules
+formed of one lead atom and two oxygen atoms why the chemists call it
+lead peroxide instead of just lead oxide ill tell you some other time
+but not in these letters
+
+between the two plates is a wood separator to keep pieces of lead from
+falling down between and touching both plates you know what would
+happen if a piece of metal touched both plates there would be a short
+circuit that is a sort of a short cut across lots by which some of the
+electrons from the negative plate could get to the positive plate
+without going along the wires which we want them to travel thats why
+there are separators
+
+the two plates are in a jar of sulphuric acid solution the sulphuric
+acid has molecules which split up in solution as you remember into
+hydrogen ions and the ions which we called sulphate in my gravity
+battery the sulphate ions used to coax the zinc ions away into the
+solution in the storage battery on the other hand the sulphate ions can
+get to most of the lead atoms because the lead is so spongy when they
+do they form lead sulphate right where the lead atoms are they dont
+really need whole lead atoms because they have two more electrons than
+they deserve so there are two extra electrons for every molecule of
+lead sulphate which is formed thats why the spongy lead plate is
+negative
+
+the lead sulphate wont dissolve so it stays there on the plate as a
+whitish coating now see what that means what are the hydrogen ions
+going to do as long as there was sulphuric acid in the water there was
+plenty of sulphate ions for them to associate with as often as they met
+and they would meet pretty often but if the sulphate ions get tied up
+with the lead of the plate there will be too many hydrogen ions left in
+the solution now what are the hydrogen ions to do they are going to
+get as far away from each other as they can for they are nothing but
+protons and protons dont like to associate they only stayed around in
+the first place because there was always plenty of sulphate ions with
+whom they liked to play
+
+when the hydrogen ions try to get away from each other they go to the
+other plate of the battery and there they will get some electrons if
+they have to steal in their turn
+
+i wont try to tell you all that happens at the other plate the
+hydrogen ions get the electrons which they need but they get something
+more they get some of the oxygen away from the plate and so form
+molecules of water you remember that water molecules are made of two
+atoms of hydrogen and one of oxygen meanwhile the lead atoms which
+have lost their oxygen companions combine with some of the sulphate
+ions which are in that neighborhood during the mixup electrons are
+carried away from the plate and that leaves it positive
+
+the result of all this is a little lead sulphate on each plate a
+negative plate where the spongy lead was and a positive plate where the
+lead peroxide was
+
+notice very carefully that i said a little lead sulphate on each
+plate the sort of thing i have been describing doesnt go on very
+long if it did the battery would run down inside itself and then when
+we came to start our automobile we would have to get out and crank
+
+how long does it go on answer another question first so far we havent
+connected any wire between the two plates of the battery and so none of
+the electrons on the negative plate have any way of getting around to
+the positive plate where electrons are badly needed every time a
+negative sulphate ion combines with the spongy lead of the negative
+plate there are two more electrons added to that plate you know how
+well electrons like each other do they let the sulphate ions keep
+giving that plate more electrons there is the other question and the
+answer is that they do not every electron that is added to that plate
+makes it just so much harder for another sulphate ion to get near enough
+to do business at all thats why after a few extra electrons have
+accumulated on the spongy lead plate the actions which i was describing
+come to a stop
+
+do they ever begin again they do just as soon as there is any reduction
+in the number of electrons which are hopping around in the negative
+plate trying to keep out of each others way when we connect a wire
+between the plates we let some of these extra electrons of the negative
+plate pass along to the positive plate where they will be welcome and
+the moment a couple of them start off on that errand along comes another
+sulphate ion in the solution and lands two more electrons on the plate
+thats how the battery keeps on discharging
+
+we mustnt let it get too much discharged for the lead sulphate is not
+soluble as i just told you and it will coat up that plate until there
+isnt much chance of getting the process to reverse thats why we are
+so careful not to let the discharge process go on too long before we
+reverse it and charge thats why when the car battery has been used
+pretty hard to start the car i like to run quite a while to let the
+generator charge the battery again when the battery charges the
+process reverses and we get spongy lead on the negative plate and lead
+peroxide on the positive plate
+
+youve learned enough for one day write me your questions and ill
+answer and then go on in my next letter to tell how the audion works
+you know about conduction of electricity in wires that is about the
+electron stream and about batteries which can cause the stream now you
+are ready for the most wonderful little device known to science the
+audion
+
+
+

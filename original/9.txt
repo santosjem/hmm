@@ -1,0 +1,263 @@
+
+the audioncharacteristic
+
+
+my dear young student
+
+although there is much in letters  and  which it is well to learn and
+to think about there are only three of the ideas which you must have
+firmly grasped to get the most out of this letter which i am now going
+to write you about the audion
+
+first electric currents are streams of electrons we measure currents
+in amperes to measure a current we may connect into the circuit an
+ammeter
+
+second electrons move in a circuit when there is an
+electronmovingforce that is an electromotive force or e m f we
+measure e m fs in volts to measure an e m f we connect a
+voltmeter to the two points between which the e m f is active
+
+third what current any particular e m f will cause depends upon the
+circuit in which it is active circuits differ in the resistance which
+they offer to e m fs for any particular e m f that is for any
+given e m f the resulting current will be smaller the greater the
+resistance of the circuit we measure resistance in ohms to measure it
+we find the quotient of the number of volts applied to the circuit by
+the number of amperes which flow
+
+in my sixth letter i told you something of how the audion works it
+would be worth while to read again that letter you remember that the
+current in the plate circuit can be controlled by the e m f which is
+applied to the grid circuit there is a relationship between the plate
+current and the grid voltage which is peculiar or characteristic to the
+tube so we call such a relationship a characteristic let us see how
+it may be found and what it will be
+
+connect an ammeter in the plate or bcircuit of the tube so as to
+measure the platecircuit current you will find that almost all books
+use the letter i to stand for current the reason is that
+scientists used to speak of the intensity of an electric current so
+that i really stands for intensity we use i to stand
+for something more than the word current it is our symbol for
+whatever an ammeter would read that is for the amount of current
+
+illustration fig 
+
+another convenience in symbols is this we shall frequently want to
+speak of the currents in several different circuits it saves time to
+use another letter along with the letter i to show the circuit to
+which we refer for example we are going to talk about the current in
+the bcircuit of the audion so we call that current ib we
+write the letter b below the line on which i stands that
+is why we say the b is subscript meaning written below when
+you are reading to yourself be sure to read ib as eyebee or
+else as eyesubscriptbee ib therefore will stand for the
+number of amperes in the plate circuit of the audion in the same way
+ia would stand for the current in the filament circuit
+
+we are going to talk about e m fs also the letter e stands
+for the number of volts of e m f in a circuit in the filament
+circuit the battery has ea volts in the plate circuit the e
+m f is eb volts if we put a battery in the grid circuit we
+can let ec represent the number of volts applied to the
+gridfilament or ccircuit
+
+the characteristic relation which we are after is one between grid
+voltage that is ec and plate current that is ib
+so we call it the ecib characteristic the dash
+between the letters is not a subtraction sign but merely a dash to
+separate the letters now well find the eeseeeyebee
+characteristic
+
+connect some small dry cells in series for use in the grid circuit then
+connect the filament to the middle cell as in fig  take the wire
+which comes from the grid and put a battery clip on it then you can
+connect the grid anywhere you want along this series of batteries see
+fig  in the figure this movable clip is represented by an arrow
+head you can see that if it is at a the battery will make the
+grid positive if it is moved to b the grid will be more
+positive on the other hand if the clip is at o there will be no
+e m f applied to the grid if it is at c the grid will be made
+negative
+
+between grid and filament there is placed a voltmeter which will tell
+how much e m f is applied to the grid that is tell the value of
+ec for any position whatever of the clip
+
+we shall start with the filament heated to a deep red the manufacturers
+of the audion tell the purchaser what current should flow through the
+filament so that there will be the proper emission of electrons there
+are easy ways of finding out for ones self but we shall not stop to
+describe them the makers also tell how many volts to apply to the
+plate that is what value eb should have we could find this
+out also for ourselves but we shall not stop to do so
+
+illustration fig 
+
+now we set the battery clip so that there is no voltage applied to the
+grid that is we start with ec equal to zero then we read the
+ammeter in the plate circuit to find the value of ib which
+corresponds to this condition of the grid
+
+next we move the clip so as to make the grid as positive as one battery
+will make it that is we move the clip to a in fig  we now
+have a different value of ec and will find a different value
+of ib when we read the ammeter next move the clip to apply
+two batteries to the grid we get a new pair of values for ec
+and ib getting ec from the voltmeter and ib from the
+ammeter as we continue in this way increasing ec we find that
+the current ib increases for a while and then after we have
+reached a certain value of ec the current ib stops
+increasing adding more batteries and making the grid more positive
+doesnt have any effect on the plate current
+
+illustration fig 
+
+before i tell you why this happens i want to show you how to make a
+picture of the pairs of values of ec and ib which we
+have been reading on the voltmeter and ammeter
+
+imagine a city where all the streets are at right angles and the north
+and south streets are called streets and numbered while the east and
+west thorofares are called avenues ill draw the map as in fig 
+right through the center of the city goes main street but the people
+who laid out the roads were mathematicians and instead of calling it
+main street they called it zero street the first street east of zero
+st we should have called east first street but they called it
+positive  st and the next beyond positive  st and so on west
+of the main street they called the first street negative  st and so
+on
+
+when they came to name the avenues they were just as precise and
+mathematical they called the main avenue zero ave and those north of
+it positive  ave positive  ave and so on of course the
+avenues south of zero ave they called negative
+
+the town council went almost crazy on the subject of numbering they
+numbered everything the silent policeman which stood at the corner of
+positive  st and positive  ave was marked that way half way
+between positive  st and positive  st there was a garage which set
+back about twotenths of a block from positive  ave the council
+numbered it and called it positive  st and positive  ave most
+of the people spoke of it as plus  st and plus  ave
+
+sometime later there was an election in the city and a new council was
+elected the members were mostly young electricians and the new highway
+commissioner was a radio enthusiast at the first meeting the council
+changed the names of all the avenues to milamperes and of all the
+streets to volts
+
+then the highway commissioner who had just been taking a set of
+voltmeter and ammeter readings on an audion moved that there should be a
+new road known as audion characteristic he said the road should pass
+through the following points
+
+    zero volt and plus  milampere
+    plus  volts and plus  milamperes
+    plus  volts and plus  milamperes
+    plus  volts and plus  milamperes
+    plus  volts and plus  milamperes
+
+and so on fig  shows the new road
+
+illustration fig 
+
+one member of the council jumped up and said but what if the grid is
+made negative the commissioner had forgotten to see what happened so
+he went home to take more readings
+
+he shifted the battery clip along starting at c of fig  at
+the next meeting of the council he brought in the following list of
+readings and hence of points on his proposed road
+
+    minus  volts and plus  milampere
+                             
+                             
+                             
+                             
+
+then he showed the other members of the council on the map of fig 
+how the audion characteristic would look
+
+illustration fig 
+
+there was considerable discussion after that and it appeared that
+different designs and makes of audions would have different
+characteristic curves they all had the same general form of curve but
+they would pass through different sets of points depending upon the
+design and upon the bbattery voltage it was several meetings later
+however before they found out what effects were due to the form of the
+curve right after this they found that they could get much better
+results with their radio sets
+
+now look at the audion characteristic making the grid positive that is
+going on the positive side of the zero volts in our map makes the plate
+current larger you remember that i told you in letter  how the grid
+when positive helped call electrons away from the filament and so made
+a larger stream of electrons in the plate circuit the grid calls
+electrons away from the filament it cant call them out of it they
+have to come out themselves as i explained to you in the fifth letter
+
+illustration fig 
+
+you can see that as we make the grid more and more positive that is
+make it call louder and louder a condition will be reached where it
+wont do it any good to call any louder for it will already be getting
+all the electrons away from the filament just as fast as they are
+emitted making the grid more positive after that will not increase the
+plate current any thats why the characteristic flattens off as you see
+at high values of grid voltage
+
+the arrangement which we pictured in fig  for making changes in the
+grid voltage is simple but it doesnt let us change the voltage by less
+than that of a single battery cell i want to show you a way which will
+youll find it very useful to know and it is easily understood for it is
+something like the arrangement of fig  in the preceding letter
+
+illustration fig 
+
+connect the cells as in fig  to a fine wire about the middle of this
+wire connect the filament as before use a clip on the end of the wire
+from the grid if the grid is connected to a in the figure there
+is applied to the grid circuit that part of the e m f of the battery
+which is active in the length of wire between o and a the
+point a is nearer the positive plate of the battery than is the
+point o so the grid will be positive and the filament negative
+
+on the other hand if the clip is connected at b the grid will be
+negative with respect to the filament we can therefore make the grid
+positive or negative depending on which side of o we connect the
+clip how large the e m f is which will be applied to the grid
+depends of course upon how far away from o the clip is
+connected
+
+suppose you took the clip in your hand and slid it along in contact with
+the wire first from o to a and then back again through
+o to b and so on back and forth you would be making the
+grid alternately positive and negative wouldnt you that is
+you would be applying to the grid an e m f which increases to some
+positive value and then decreasing to zero reverses and
+increases just as much only to decrease to zero where it started if
+you do this over and over again taking always the same time for one
+round trip of the clip you will be impressing on the grid circuit an
+alternating e m f
+
+whats going to happen in the plate circuit when there is no e m f
+applied to the grid circuit that is when the grid potential
+possibilities is zero there is a definite current in the plate
+circuit that current we can find from our characteristic of fig  for
+it is where the curve crosses zero volts as the grid becomes positive
+the current rises above this value when the grid is made negative the
+current falls below this value the current ib then is made
+alternately greater and less than the current when ec is zero
+
+you might spend a little time thinking over this seeing what happens
+when an alternating e m f is applied to the grid of an audion for
+that is going to be fundamental to our study of radio
+
+footnote  a milampere is a thousandth of an ampere just as a
+millimeter is a thousandth of a meter
+
+
+

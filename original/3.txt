@@ -1,0 +1,282 @@
+how a battery works
+
+
+this letter may be omitted on the first reading
+
+my dear boy
+
+when i was a boy we used to make our own batteries for our experiments
+that was before storage batteries became as widely used as they are
+today when everybody has one in the starting system of his automobile
+that was also before the day of the small dry battery such as we use in
+pocket flash lights the batteries which we made were like those which
+they used on telegraph systems and were sometimes called gravity
+batteries of course we tried several kinds and i believe i got quite a
+little acid around the house at one time or another ill tell you about
+only one kind but i shall use the words electron proton nucleus
+atom and molecule about some of which nothing was known when i was
+a boy
+
+we used a straightsided glass jar which would hold about a gallon on
+the bottom we set a star shaped arrangement made of sheets of copper
+with a long wire soldered to it so as to reach up out of the jar then
+we poured in a solution of copper sulphate until the jar was about half
+full this solution was made by dissolving in water crystals of blue
+vitriol which we bought at the drug store
+
+blue vitriol or copper sulphate as the chemists would call it is a
+substance which forms glassy blue crystals its molecules are formed of
+copper atoms sulphur atoms and oxygen atoms in each molecule of it
+there is one atom of copper one of sulphur and four of oxygen
+
+when it dissolves in water the molecules of the blue vitriol go
+wandering out into the spaces between the water molecules but that
+isnt all that happens or the most important thing for one who is
+interested in making a battery
+
+each molecule is formed by six atoms that is by six little groups of
+electrons playing about six little nuclei about each nucleus there is
+going on a game but some of the electrons are playing in the game about
+their own nucleus and at the same time taking some part in the game
+which is going on around one of the other nuclei thats why the groups
+or atoms stay together as a molecule when the molecules wander out into
+the spaces between the water molecules something happens to this
+complicated game
+
+it will be easiest to see what sort of thing happens if we talk about a
+molecule of ordinary table salt for that has only two atoms in it one
+atom is sodium and one is chlorine the sodium molecule has eleven
+electrons playing around its nucleus fairly close to the nucleus there
+are two electrons then farther away there are eight more and these are
+having a perfect game then still farther away from the nucleus there is
+a single lonely electron
+
+the atom of chlorine has seventeen electrons which play about its
+nucleus close to the nucleus there are two a little farther away there
+are eight just as there are in the sodium atom then still farther away
+there are seven
+
+i am going to draw a picture fig  to show what i mean but you must
+remember that these electrons are not all in the same plane as if they
+lay on a sheet of paper but are scattered all around just as they would
+be if they were specks on a ball
+
+illustration fig 
+
+you see that the sodium atom has one lonely electron which hasnt any
+play fellows and that the chlorine atom has seven in its outside circle
+it appears that eight would make a much better game suppose that extra
+electron in the sodium atom goes over and plays with those in the
+chlorine atom so as to make eight in the outside group as i have shown
+fig  that will be all right as long as it doesnt get out of sight of
+its own nucleus because you remember that the sodium nucleus is
+responsible for eleven electrons the lonely electron of the sodium atom
+neednt be lonely any more if it can persuade its nucleus to stay so
+close to the chlorine atom that it can play in the outer circle of the
+chlorine atom
+
+illustration fig 
+
+the outer circle of the chlorine atom will then have a better game for
+it will have just the eight that makes a perfect game this can happen
+if the chlorine atom will stay close enough to the sodium atom so that
+the outermost electron of the sodium atom can play in the chlorine
+circle you see everything will be satisfactory if an electron can be
+shared by the two atoms that can happen only if the two atoms stay
+together that is if they form a molecule thats why there are
+molecules and thats what i meant when i spoke of the molecule as a big
+game played by the electrons of two or more atoms
+
+this molecule which is formed by a sodium atom and a chlorine atom is
+called a molecule of sodium chloride by chemists and a molecule of salt
+by most every one who eats it something strange happens when it
+dissolves it wanders around between the water molecules and for some
+reason or otherwe dont know exactly whyit decides to split up again
+into sodium and chlorine but it cant quite do it the electron which
+joined the game about the chlorine nucleus wont leave it the result is
+that the nucleus of the sodium atom gets away but it leaves this one
+electron behind
+
+what gets away isnt a sodium atom for it has one too few electrons and
+what remains behind isnt a chlorine atom for it has one too many
+electrons we call these new groups ions from a greek word which means
+to go for they do go wandering off into the spaces between the water
+molecules fig  gives you an idea of what happens
+
+you remember that in an atom there are always just as many protons as
+electrons in this sodium ion which is formed when the nucleus of the
+sodium atom breaks away but leaves behind one planetary electron there
+is then one more proton than there are electrons because it has an
+extra proton which hasnt any electron to associate with we call it a
+plus ion or a positive ion similarly we call the chlorine ion which
+has one less proton than it has electrons a minus or negative ion
+
+illustration fig 
+
+now despite the fact that these ions broke away from each other they
+arent really satisfied any time that the sodium ion can find an
+electron to take the place of the one it lost it will welcome it that
+is the sodium ion will want to go toward places where there are extra
+electrons in the same way the chlorine ion will go toward places where
+electrons are wanted as if it could satisfy its guilty conscience by
+giving up the electron which it stole from the sodium atom or at least
+by giving away some other electron for they are all alike anyway
+
+sometimes a positive sodium ion and a negative chlorine ion meet in
+their wanderings in the solution and both get satisfied by forming a
+molecule again even so they dont stay together long before they split
+apart and start wandering again thats what goes on over and over
+again millions of times when you dissolve a little salt in a glass of
+water
+
+now we can see what happens when copper sulphate dissolves the copper
+atom has twentynine electrons about its nucleus and all except two of
+these are nicely grouped for playing their games about the nucleus two
+of the electrons are rather out of the game and are unsatisfied they
+play with the electrons of the part of the molecule which is called
+sulphate that is the part formed by the sulphur atom and the four
+oxygen atoms these five atoms of the sulphate part stay together very
+well and so we treat them as a group
+
+the sulphate group and the copper atom stay together as long as they are
+not in solution but when they are they act very much like the sodium
+and chlorine which i just described the molecule splits up into two
+ions one positive and one negative the positive ion is the copper part
+except that two of the electrons which really belong to a copper atom
+got left behind because the sulphate part wouldnt give them up the
+rest of the molecule is the negative ion
+
+the copper ion is a copper atom which has lost two electrons the
+sulphate ion is a combination of one sulphur atom four oxygen atoms and
+two electrons which it stole from the copper atom just as the sodium
+ion is unsatisfied because in it there is one more proton than there are
+electrons so the copper ion is unsatisfied as a matter of fact it is
+twice as badly unsatisfied it has two more protons than it has
+electrons we say it has twice the electrical charge of the sodium
+ion
+
+just like a sodium ion the copper ion will tend to go toward any place
+where there are extra electrons which it can get to satisfy its own
+needs in much the same way the sulphate ion will go toward places where
+it can give up its two extra electrons sometimes of course as ions of
+these two kinds wander about between the water molecules they meet and
+satisfy each other by forming a molecule of copper sulphate but if they
+do they will split apart later on that is they will dissociate as we
+should say
+
+now lets go on with the kind of batteries i used to make as a boy you
+can see that in the solution of copper sulphate at the bottom of the jar
+there was always present a lot of positive copper ions and of negative
+sulphate ions
+
+on top of this solution of copper sulphate i poured very carefully a
+weak solution of sulphuric acid as i told you an acid always has
+hydrogen in its molecules sulphuric acid has molecules formed by two
+hydrogen atoms and one of the groups which we decided to call sulphate
+a better name for this acid would be hydrogen sulphate for that would
+imply that its molecule is the same as one of copper sulphate except
+that the place of the copper is taken by two atoms of hydrogen it takes
+two atoms of hydrogen because the copper atom has two lonely electrons
+while a hydrogen atom only has one it takes two electrons to fill up
+the game which the electrons of the sulphate group are playing if it
+can get these from a single atom all right but if it has to get one
+from each of two atoms it will do it that way
+
+i remember when i mixed the sulphuric acid with water that i learned to
+pour the acid into the water and not the other way around spatterings
+of sulphuric acid are not good for hands or clothes with this solution
+i filled the jar almost to the top and then hung over the edge a sort of
+a crows foot shape of cast zinc the zinc reached down into the
+sulphuric acid solution there was a binding post on it to which a wire
+could be connected this wire and the one which came from the plate of
+copper at the bottom were the two terminals of the battery we called
+the wire from the copper positive and the one from the zinc
+negative
+
+now we shall see why and how the battery worked the molecules of
+sulphuric acid dissociate in solution just as do those of copper
+sulphate when sulphuric acid molecules split the sulphate part goes
+away with two electrons which dont belong to it and each of the
+hydrogen atoms goes away by itself but without its electron we call
+each a hydrogen ion but you can see that each is a single proton
+
+in the two solutions are pieces of zinc and copper zinc is like all the
+rest of the metals in one way atoms of metals always have lonely
+electrons for which there doesnt seem to be room in the game which is
+going on around their nuclei copper as we saw has two lonely electrons
+in each atom zinc also has two some metals have one and some two and
+some even more lonely electrons in each atom
+
+what happens then is this the sulphate ions wandering around in the
+weak solution of sulphuric acid come along beside the zinc plate and
+beckon to its atoms the sulphate ions had a great deal rather play the
+game called zinc sulphate than the game called hydrogen sulphate so
+the zinc atoms leave their places to join with the sulphate ions but
+wait a minute the sulphate ions have two extra electrons which they
+kept from the hydrogen atoms they dont need the two lonely electrons
+which each zinc atom could bring and so the zinc atom leaves behind it
+these unnecessary electrons
+
+every time a zinc atom leaves the plate it fails to take all its
+electrons with it what leaves the zinc plate therefore to go into
+solution is really not a zinc atom but is a zinc ion that is it is the
+nucleus of a zinc atom and all except two of the planetary electrons
+
+every time a zinc ion leaves the plate there are left behind two
+electrons the plate doesnt want them for all the rest of its atoms
+have just the same number of protons as of electrons where are they to
+go we shall see in a minute
+
+sometimes the zinc ions which have got into solution meet with sulphate
+ions and form zinc sulphate molecules but if they do these molecules
+split up sooner or later into ions again in the upper part of the
+liquid in the jar therefore there are sulphate ions which are negative
+and two kinds of positive ions namely the hydrogen ions and the zinc
+ions
+
+before the zinc ions began to crowd in there were just enough hydrogen
+ions to go with the sulphate ions as it is the entrance of the zinc
+ions has increased the number of positive ions and now there are too
+many some of the positive ions therefore and particularly the
+hydrogen ions because the sulphate prefers to associate with the zinc
+ions cant find enough playfellows and so go down in the jar
+
+down in the bottom of the jar the hydrogen ions find more sulphate ions
+to play with but that leaves the copper ions which used to play with
+these sulphate ions without any playmates so the copper ions go still
+further down and join with the copper atoms of the copper plate they
+havent much right to do so for you remember that they havent their
+proper number of electrons each copper ion lacks two electrons of being
+a copper atom nevertheless they join the copper plate the result is a
+plate of copper which has too few electrons it needs two electrons for
+every copper ion which joins it
+
+how about the zinc plate you remember that it has two electrons more
+than it needs for every zinc ion which has left it if only the extra
+electrons on the negative zinc plate could get around to the positive
+copper plate they can if we connect a wire from one plate to the other
+then the electrons from the zinc stream into the spaces between the
+atoms of the wire and push ahead of them the electrons which are
+wandering around in these spaces at the other end an equal number of
+electrons leave the wire to satisfy the positive copper plate so we
+have a stream of electrons in the wire that is a current of
+electricity and our battery is working
+
+thats the sort of a battery i used to play with if you understand it
+you can get the general idea of all batteries let me express it in
+general terms
+
+at the negative plate of a battery ions go into solution and electrons
+are left behind at the other end of the battery positive ions are
+crowded out of solution and join the plate where they cause a scarcity
+of electrons that is make the plate positive if a wire is connected
+between the two plates electrons will stream through it from the
+negative plate to the positive and this stream is a current of
+electricity
+
+illustration pl iiidry battery for use in audion circuits
+courtesy of national carbon co inc storage battery courtesy of
+the electric storage battery co
+
+
+

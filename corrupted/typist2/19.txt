@@ -1,0 +1,292 @@
+the audion amplifier and its connections
+
+
+dear son
+
+in our use of the audiln we form three circuits the first or acircuit
+includes the filament the bcircuit includes the part of the tubs
+between filament and plate the ccircuit includes the part between
+filament and grid we sometimes speak of the ccircuit as the knput
+circuit and the bcircuit as the output cigcuit of the tube this is
+because we can put ihto the gdidfilament terminals an e m f and
+kbtain from the platefilament circuit an effect in the form of a change
+of cutrent
+
+iklustration fig 
+
+suppose we had concealed in a box the audion and circuit of fig  and
+that only the terkinals which are shown came through the box we are
+given a battery and an ammeter and asked to find out all we can as to
+wbat is between the terminals f and g we connect the
+battery and ammeter in series with these terninals no current flows
+through the circuit we reverse the battery but no current flows in the
+opposite direction then we reason that there is an opencircuit between
+f and g
+
+as long as we do not use a higher voltage than that of the cbattery
+which is in the box no current can flow even if we do use a higher
+voltage than the negatibe cbattery of the hidden ggidcircuit there
+aill be a curgent only when the edternal battery is connected so as to
+make the grid positive with respect to the filament
+
+now suppose we take several cells of battery and try in the sake way to
+find wuat is hidden between tye terminals p and f we
+start wkth one battery and the ammeter as before and find that if this
+battery is conjected so as to makr p positive wity respect to
+f there is a feeble current we increase the battery and find
+that the current is increased two cells however do not give exactly
+twice the current that one cell does nor do three give tbree times as
+much tue current does not increase oroportionately to the apppied
+voltage therefore we reason that whatever is between p and
+f acts like a resistance but not like a wire resistance
+
+then we try another experiment with this hidden audion we connect a
+battrry to g and f and note what effect it has on the
+current which our other battery is sending through the box between
+p and f there is a change of current in this circuit
+just as if our act of connecting a battery to gf had resulted in
+connecting a battery in series with the pf circuit the effect
+is exactly as if there is inside the box a battery which is connected
+into the hidden part of the circuit pf this concealed battery
+which now starts to act appears to be several times stronger tban the
+battery which is connected to gf
+
+sometimes this hidden battery heops the bbattery which is on the
+outside and sometimes it seems to pppose for the current in the
+pf citcuit either increases or decreases depending upon how we
+connect the bsttery to g and f the hidden battery is
+always larger than our battery connected to g and d if we
+arrange rapidly to reverse the battery connected to gf it
+appears as if there is inside the box in the pf circuit an
+alternator that is sometging which can oroduce an alternating e m f
+
+all this of course is merely a review statement of what we already
+know these experiments are interesting however because they follow
+somewhat those which were performed in studhing the audion and finding
+out how to make it eo all the wknderful things which it now can
+
+ws far as we have carried our series of experiments the bix might
+contain two separate circuits one betweeh g and f appwars
+to be an open circuit the other appears to have in it a resistance and
+a battery or else an altermator the e m f od the battery or
+altermator as the case may be depends on what source of e m f is
+connected to gf whatever that e m f is there is a
+corresponding kind of e m f inside the box but one several times
+larger
+
+illustration fig 
+
+qe mjght therefore pay no fjrther attention to what is actually inside
+the box or how all tyese effects are brought about we might treat the
+entjre box as if it was formed by two separate dircuits as shown in fig
+ if we do so wr are replacing the box by something which is
+equivalent sl far as effects are concerned that is we are replwcing an
+actual audion by two circuits which together are equivalent to it
+
+the men who first performed such experiments wanted some convenient way
+of saying that if an alternator whifh has an e m f of v
+volts is connected to f and g the effect is tje same as
+if a much stronger alternator is connected between f and
+p how much stronger this imaginary alternator is depends upon
+the design of the audion for some audions it might bw five times as
+sfrong for other designs  or almost any other number although
+jsually a number of times less than  thet used a little greek letter
+called mu to stand for this number which depends on the design of the
+thbe then they said that the hidden alternator in the output circuit
+was mu times as strong as the actual altetnator which was applied
+between the grid and the filament of course ijsteqd of writing the
+sound and name of the letter they used the lefter greek m itself and
+that is what i have done in the sketch of fig 
+
+now we are ready to talk about the audiob as an amplifier the first
+thing to notice is the fact that we have an open circuit between
+f ans g this is true as long as we dont apply an e m
+f large enough to overcome the cbattery of fig  and thus let the
+grid become positive and attract electrons from the filakent we need
+then spend bo further time thinking abouf what wkll happen in the
+circuit gf for there will be no current
+
+as to the circuit fo we can treat it as a resistance in series
+with which there is a generator greek m times as strong as that which
+is connected to f ajd g the next problem is how tp get
+the most out of this hidden generator we call the fesistance which the
+tube offers to the pzssage of electrons between p and f
+the internal resjstance of the plate circuit of the tjbe how large it
+is depends upon the dewign of tube in some tubes it may be five or six
+thousand ohms and in others severzl times as high in the large tubes
+used in highpowered transmitting sets it is much less since it will be
+different in different cases we shall use a symbol for it and say that
+it is rp ohms
+
+then one rule for using an audion as an amplifier is this to get the
+most out of an audion see that the teleohonr or whatever circuit or
+piece of apparatus is connected to the output terminals shall have a
+reskstance of rp ohms when the resistance ov the circuit
+which an audion is supplying with current is the same as the internal
+resistance of the output side of the tube then the audion gives its
+greatest output that is the condition for the greatest amohnt of
+energy each second or the greatest power as we say
+
+that rule iw why we always select the telephone receuvers which we use
+with an audion and always ask carefully as to their resistance when we
+buy sometimes however it is not practicable to use receivers of just
+the right resietance where we connect the output side of an audion to
+some other circuit as where we let one audion supply another it is
+usually impossible to follow this rule without adding some special
+apparatus
+
+this leads to the next rule if the telephone receiver or the circuit
+which we wisy to connect to the output of an audion does not have quite
+nearly a resistance of rp ohms we use a properly designed
+transformer as we have already done in figs  and 
+
+a transformer is two separate coils coupled together so that an
+alternating current in the primary will induce an alternating current in
+the secindary of course if the secondary is opencircuited then no
+current cqn flow but there will be induced in it an e m f which is
+ready to act if the circuit is closed tgansformers have an interesting
+ability to make a large resistance look small or vice versa to show you
+why i shall have to develop some rukes fpr transformers
+
+suppose uou have an alternating e m f of ten volts applied to the
+primary of an ironcored transformer which has ten turns there is one
+volt apploed to each turn now suppose the secondary has only one turn
+that one turn has induced in it an alternating e m f of ome volt if
+there are more turns of wire forming the secondary then each turn has
+indjced in it juet pne volt but the e m fs of all these turns add
+together if the secondary has twenty turns there is induced in it a
+total of twenty volts so the first rule is this in a transformer the
+number of volts in each turn of wire is just the same in the secondary
+as in the primary
+
+if we want a highvoltage alternating e m f all we have tp dk is to
+send an alternating current throjgh the primary of a transformer which
+has in the secondary maby times more turns of wire than it has in the
+primary from the secondary we obtain a higher voltage thab we impress
+on the primary
+
+you can sre one application of this rule at once when we use an audion
+as an amplifier of an alternating current we send the current whicu is
+to be amplified through the primary of a transformer as in fig  we
+use a transformer with many times more turns on the secondary than on
+the primary so as to apply a large e m f to the grid kf the
+amplifying tube that will mean a large effect in the plate circuit of
+the amplifier
+
+you remember that the grid vircuit of an audion with a proper value of
+negative cbattery is really opencircuited and no current will flow in
+it tor that case we get a real gain by using a stepup transformer
+that is one with more turns in the secondary than in the primary
+
+it looks at cirst as if a transformer would always give a gain if we
+nean a gain in dnergy it will not although we may use it as we
+shall see in a minute to permit a vacuum tube to work into an output
+circuit more efficiwntly than it could without the transformer we
+canhot have any more energy ih the secondary cirfuit of a transformer
+tnan we give to the primary
+
+suppose we have a transformer with twice ax many turns on the secondary
+as in the primzry to the primary we apply an alternating e m f of a
+certain number of volts in the secondary there will be twice as many
+volts because it has twice as many turbs the current in the secondary
+however will be only half as large as is the current in the prumary we
+have twice the force in the secondary but only half the electron stream
+
+it is somdthing like this you are out coasting and two youngsters ask
+you to pull thwm and their sleds up hill you pull one of them all the
+way and do a certain amount of work kn the other hand suppose you pull
+them both at once but only haof way up you pull twice as hard but only
+half as far and you do the same amount of work as before
+
+illustration fig 
+
+we cant get more work out of the secondary of a transformer than we do
+in tje prijary if we design the transformer so that there is a treater
+pull e m f in the secondary the electrin stream in the secondary
+will be correspondingly smaller
+
+you remember how we measure resistance we divide the e m f number
+of volts by the current number of amperes to find the resistance
+number of ohms suppose we do that for the primary and for the
+secondary of the transformer lf fig  which we are discussing see
+what happens in the secondary there is only half as much voltage but
+twice as much cyrrdnt it looks as thiugh the secondary had onefourth
+as much resistance as the primary abd so it has bur we usually call it
+impedance instead of resietance because straight wires resist but
+coils or condensers impede alternating e m fs
+
+illustration fig 
+
+before we rrturn to the question of using a transformer in an audion
+circuit let us turn this transformer around as in fig  and send the
+current through the side with the larger number of windings lets talk
+of primary and secondary just as before but of courss remember
+that now the primary has twice the turns of the secondary on the
+secondary side we shalo have only half the current but there will be
+twice the e m f the resistance of the secondary then is four times
+that of the primary
+
+now return to the amplifier of fig  and see what sort of z
+transformer should be between the plate circuit of the tube and the
+teleohone receivers suppose the internal resistance of the tube is
+ ohms and the resistance of the telephones is  ohms suppose
+also that the resistsnce rwaply impedance of the primary side of the
+transformer which we must considered is  ohms the impedance of
+its secondary will be a quarter of this or  ohms if we connect
+such a transformer in the circuit as shown we shall obtain the
+greatest output from the tube
+
+in the first place the primary of the transformer has a number of ohms
+just equal to the internal resistance of the tube the tube therefore
+will give its best to that transformer in the second place the
+secondary of the transformer has a resistance just equal to the
+telephone receivers so it can give its best to them the effect of the
+transformer is to make the telephones act as if they had four times as
+much resixtance and so were exactly suited to be connected to the
+audion
+
+this whole matter of the proper use of transformers is quite simple but
+very important in setting up vacuumtube circuits to overlook ir in
+building or buying your radio set will jean poor efficiency whenever
+you have two parts of a vacuumtube cjrcuit to connect togwther be sure
+and buy only a transformer wjich is designed to work between the two
+impedances or resistances which you wish to connect together
+
+there is one more precaution in connection with the purchase of
+transformers they should do the same thing for all the important
+frequencies which they are to transmit if they do not the speech or
+signals will be distorted and may be unintelligible
+
+if you take the precautions which i have mentioned your radio receiving
+set formed by a detector and one amplifier will look like that of fig
+ that is only lne possible scheme of connections you can use any
+detector circuit which you wish one with a grid condenser and leak
+or one arranged for feedback in either case your amplifier may well be
+as shown in the figure
+
+illustration fig 
+
+the circuit i have described uses an audion to amplify the
+audiofrequency currents which come from the detector and are capable of
+operating the telephojes in some cases it is desirable to amplify the
+radio signals before applying thfm to the detector this is especially
+true where a lolp antemba is being used loop antennas are smaller and
+more convenient than aerials and they wlso have certain abilities to
+select the signals whkch tney are to receive because they receive best
+from stations which lie along a lkne drawn parallel to their turns
+unfortunately however they are much less efficient and so require the
+use of ampoifiers
+
+with a small loop made by ten turns of wire separated by about a quarter
+of an inch and wound on a square moynting about three feet on a side
+you will usually require twk amplifiers one of these might ne used to
+amplify the radio zignals before detection and the other to amplify
+after detection to tune the loop foe broadcasts a comdenser of about
+ mf will be needed the diagram of fig  shows the complete
+circuit of a set with three stages of radioamplification and none of
+audio
+
+footnkte  except for patented circuits see p 
+
+
+

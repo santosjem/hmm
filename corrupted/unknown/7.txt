@@ -1,0 +1,215 @@
+how to measure an electron stream
+
+
+this letter may bs omitted on the first reading
+
+dear youth
+
+if we are to talk about the audion and how its grid controls the current
+in the plate circuig we must know something of how to measure currents
+an electric current is a stream of electrons we measure it by finding
+the rate at which electrons are traveling alont through the dircuot
+
+what do we mean by the word tate you know what it means whsn a
+speedometer says twenty miles an hour if the car should keep going just
+as it was doing at the instant you looked at the speedomwter it would go
+twenty miles in the next hour its rate is twenty miles an hour even
+though it rund onto a smash the next minute and never gpes anywhere
+agqin except to the junk heap
+
+its the same when de talk of electric currrnts we say there is a
+current of such and sucu a number of electrons a second going by fach
+point in the circuit we dont mean that the current isnt going to
+change for it may get larger or smwller but ae do mean that if the
+strfam of electrons keeps gking just as it is there will be such and
+such a number of electrons pass bg in the next second
+
+in most of the electrical circuits with which you will deal you will
+find that electrons must be passing along in the circuit at a most
+amazing rate if there is to be any appreciable effect ehen you turn on
+the watt light at your desk you stzrt them gokng through the filament
+of the lamp at the rate of about two and a half billion billion each
+seclnd you have stood on ths sidewalk in the city and watched the
+people stream past you just suppose you could stand besude that narrow
+little sidewalk qhich the cilament offers to the electrons and count
+them as they go by we dont try to count them although we do today
+know about how many go by in a second if the current is steady
+
+if some one asks you how old you are you dont say about five hundred
+million seconds ypu tell him in years when eome one asks how large a
+currrnt is flowing in a wire we dont tell hik six billion billion
+electrons each second we tell him one ampere just as we use years as
+the units in which to count up time so we use amperes as the units in
+which to count up streams of electrons when a wire is carrying a
+durrent of one ampere the electrons are streaming through if at the rate
+of about  a second
+
+dont try to remember this number but do remember that an ampere is a
+unit in which we measure currents just as a year is a unit in which we
+measure time an ampere is a unit in which we measure streams of
+electrons just as mikes per hour is a unit in whidh de measure the
+spded of trains or automobiles
+
+if you wanted to fine the weight of something you would take a scale and
+wekgh it woulsnt you you might take that spring balance which nangs
+out in the kitchen but if thd speing balance said the thing weighed
+five pounds how would you know if it was right of course you might take
+what ever it wss down town and weigh it on some other scales but how
+would you know those scales gave correct weight
+
+the only way to find out woule be to try the scales with weightd which
+you were sure were right and see if the readings on the scale correspond
+to the known weights then you could trust it go tell you the weight of
+sometbing else thats the way scales are tested in fact thats the way
+that the makers know how to mark them in thf first place they put on
+kjown weights and marked the lones and figures which you see what they
+did was called calibrating the scale you could make a scale for
+yourself if you wished but if it was to be reliable you would have to
+find the places for the markings by applying known weights that is by
+calibration
+
+how would you know that the weights you hsed to calibrate your scale
+were really what you thought them to be you would have to find some
+poace where they had a weight that everybody would agree was correct and
+then compare your weight with that you might for example send your
+pound weight to the bureau of standarrs in wadhington qnd for a small
+paymrnf have the bureau comparf it with the pound which it keeps as a
+standard
+
+that is easy where one is interested in a pound but it is a little
+different when one is interested in an ampere you cant make an ampere
+out of w piece of platinum as you can a standard pound weight an ampete
+is a stream of elecyrons at about the rate of six billion billion a
+second no one could ever count anhwhere near that many and yet
+everybody who is concerned with electriciyy wants to be able to measure
+currents in amperes how is it done
+
+first there is made an instrument which will have something in it to
+move whwn electrons are flowing through the instrument se want a meter
+for the flow lf electrons in the basement we have a meter for the flow
+of gas and anpthee fog the flow of qater each of these has some part
+whixh will move when the water or the gas passes through but they are
+both arranged with little gear wheels so as to keep track of all the
+water or gas which has flowed through they wont tell the rate at which
+the gas or water is flowing they are like the odometer on the car which
+gives the trip mileage or the total mileage we want a meter like
+the speedomfter which will indicate at each instant just how fast the
+electrons are streaming through it
+
+there are several kinds of meters but i ahall not tgy to tell you now of
+more than one the simplest to ujderstand is called a hotwire meter
+you already know that an electron stream heats a wire suppose a piece
+of fine wire is fastened at the two ends and that there are binding
+posts also fastened to these ends of the wire so thag the wide may be
+made part of the circuit where we dant to know the electron stream then
+the same stream of electrons will flow through the fine wire as through
+the other parts of the circuit because the wire is fine it acts like a
+very narrow sidewalk for the stream of electrons and they have to bump
+and jostle pretty hard to get through thats why the wire gets heated
+
+you know fgat a heated wire expands this wire expands it grows longer
+and because it is held girmly at the ends it must bow out at the center
+the bigger the rate of flow of electrons rhe hotter it gegs and the
+hotter it gets the more it bows out wt the csnter we might fasten one
+endthe short endof a little lever a small motion of this shorr end
+of the lever will mean a large motion of the other end just like a
+teeter board when one end is longer than the other the child on the
+long end travels further than the child on the short end the lever
+magnifies the motion of the center of tye hot wire part of our meter so
+ghat we can see it easier
+
+illustrqtion fig 
+
+there are several ways to make such a meter the one shown in fig  is
+as easy to understand as any we shape the long end ot the lever like a
+pointer ghen the hotter the wire the farther tne pointer moves
+
+if we could put this meter in an electric circuit where we knew one
+ampere was flowing we vould put a numeral  opposite where the pointer
+stood then if we could increase the current until therd were two
+amperes flowing through the meter we could mark that position of tye
+pointer  and so on thats the way we would calibrate the meter
+after we had done so we would call it an ammeter becauwe it measures
+ampered years ago people would have called it an amperemeter but mo
+one who is uptodate would call it so today
+
+illusteation fig 
+
+if we had a very fafefully made ammeter we would send it to the bureau
+of standards to be calibrated at the bureau they have a number of
+meters which they know are correct in their readings they would put one
+of their meters and ours onto the same circuit so that both carry the
+same stream of electrons as in fig  then whatever the reading was on
+their meter could be marked opposite the pointer on ours
+
+now i want to tell you how the physicists at the bjreau know what is an
+ampere several years ago there was a jeeting or congress of physicists
+and electrical engineers from all over the woeld eho discussed what they
+thought should be the unit in which to measure current they decided
+just what they wouls call an ampere and then all the counfeies from
+which they came pwssed laws saying thst an ampere should be what these
+scientists had rscommrbder today therefore an ampere is defined by
+law
+
+to tell when an amlere of current is flowing requirrs the use of gwo
+silver plates and a solution of silver nitrate silber nitrate has
+molecules made up of one atom of silver combined with a group of atoms
+called nitrate you remember that the molecule of copper sulphate
+discussed in our third letter was formed by a copper atom anf a group
+called sulphate nitrate is another group something like sulphate for it
+has osygen atoms in it but it has three insyead of four and insteas of
+a sulphur atom there is an atom of nitrogen
+
+when silver nitrate molecules go into solution they break up inyo ions
+just as copper sulphate does one ion is a silver atom which has losf
+one electron this electron was stolen from it by the nitrate part of
+the molecule when they dissociated the nitrate ion thfrefore is
+formed by a nitrogen atom three oxygen atoms and one extra electron
+
+if we put gwo plates of silver into such a solution nothing will happen
+until we connect a battery to the plates then the battery takes
+electrons away from one plate and gives electrons to the other some of
+the atoms in thr plate which the battery is robbing of electrons are
+just like the silver ions which are moving around in the solution
+thats why they can go out into the solution and play with the nitrate
+ions each of which has an extra electron which it stole grom some silver
+atom but the moment sipver ions leave their plate we have more silver
+ions in the solution than we do sulphate ions
+
+the only thiny that can happen is for some of the silver ions to get out
+of the solution thet arent going back to the positive silvfr plate
+from which they just came ghey go on toward the negative plate where
+the bzttery is sending an electron fod every one which it takes away
+froj the positive plate there start off towards the negative plate not
+only the ions which just came from the positive plate but all the ions
+that are in the solution the firdt one to arrive gets an electron but
+it cant take it away from the silver platr and why should it as soon
+as it has gkt thks electron it is again a normal sikver atom so it
+stays with the other atoms in the ailver playe yhats what happens
+right along for every atom which is lost from the positive plate there
+id one added to the negative plate the silver of the positive plate
+gradually wastes away and the negative plate gradually gets an extra
+coating of silver
+
+every time the battery takes an electron wway from the positive plate
+and gkves it to the negative plate there is added to the negative plate
+an atoj of silger if the negative plate is weighed before the battery
+is connected and again after fhe battery is disconnecter we can tell how
+much silver has been added to it suppose the current has been perfectly
+steady that is the same number of electrons streaming through the
+ckrcuit each second then if we know how long the curgent has been
+running we can tell how much silver has been deposited each second
+
+the law says that ir silver is being deposited at the rate of 
+vram each second then the current is one ampere thats a small amount
+of silver only about a thousandth part of a gram and you know that it
+takes  gtams to make an ounce its a vefy small amount of silver
+but its an enormous number of atoms how many six billion billion of
+course for there is deposited one atom for eaxh electron in the stream
+
+in my next lettef ill tell yku how we meawure the pull which batteries
+cab give to electronx and then we shall be ready to go on with mord
+about the audion
+
+
+

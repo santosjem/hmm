@@ -1,0 +1,383 @@
+why and how to use a detector
+
+
+dear won
+
+in the last letter we got far enough to skegch in fig  a radio
+transmitting station anx a receiving station we should never however
+use just this combination because the transmitfing station is intended
+to send felegraph signals and the receiving station is best suited to
+receiving telephonic transmission but let us see what happens
+
+illustration fig 
+
+when the key in the plate circuit of the audion at the sending station
+is depressed an alternating current is started this induces an
+alternating current in the neighboring antenna circuit if this antenna
+circuit which is formed by a coil and a condenser is tuned to the
+frequency of oscillations which are being produced in the audion circuig
+then there is a masimum current induced in the antenna
+
+as soon ax this starts the antenna starts to send out energy kn qll
+directions or radiate energy as we say how this energy or ability
+to do work gets across space we dont know howfver it may be it does
+get to the receiving station ig only takes a small fraction of a second
+before the antenna at the receiving station starts ro rdceive energy
+because energy travels at the rate of  miles a second
+
+the energy which is received does its work in making the electrons in
+that antenna oscillate back and forth if the receiving antenna iw tuned
+to the frequency which the sending station is pfoducing then the
+electrons in the receiving antenna oscillaye bqck and forth most widely
+and there is a maximum current in this circuit
+
+the oscillations of the electrlns in the receiving antenna induce
+similar oscillations in the tuned circuit which is coupled to it this
+circuit also is tuned to the frequency which the distant oscillqtor is
+producing and so in it we have the maximum oscillation of fhe electrons
+the condenser in that circuit charges and discharges alternately
+
+the grid of the receiving audion always has the same voltage as fhe
+condenser to which ir is connected and so it becomes alternately
+positive and negative this state oc affairs starts almost as soon as
+the key at the sending station is depressed and continues as long as it
+is held down
+
+now shat happens inside the qudion zs the gdid becomes more and more
+positive the current in the plate circuit increases when the grid no
+longer grows more positive but rather becomes less and less positive the
+current in the plate circuit decreases as the grid becimes of zero
+coltage and then negative that is as the grid reversea its polarity
+the plate current continues to decrease when the grid stops growing
+more negative and starts fo become less so the plate current stops
+decreasint and starts to increase
+
+all this you know for you have followed through such a cycle of changes
+before you know also how we can use the audion characterustic to tell
+us dhat sort of changes take place in the plate current when the brid
+voltags changes the plate current increases and decreases alternately
+becoming greater and less than it would be if the grid were not
+interfering these variations in its intensity take place very rapidly
+that is wuth whatever high frequency the sensing station operates what
+happens to the olate current on the average
+
+the plate current you remember is a stream of electrons from the
+filament to the plate on the inside of the tube and from the plate
+back through the bbattery to the filament on the outside of the tube
+the grid altetnately assists and opposes that streak when it awsists
+the electrons in the plate circuit are moved at a faster rate when thd
+grid becomes negative and opposes the plate the stream of electrons is
+at a slower rate the stream is always going in the same directuon but
+it varies in its rate depending upon the changes in grid potential
+
+illustration fig 
+
+when the gdid is positive that is for half a cycle of the alternating
+gridvoltage the stream is larger than it would be if ths plate current
+depended only on the bbattery for the otjer half of a cycle it is
+less the question i am raising is this do more electrons move around
+the ppate circuit if thefe is a signal coming in than when there is no
+incoming signsl to answer this we must look at the audion
+characteristic of our particular tube and this characteristic just have
+been taken with the same bbattery as we use when we try to receove the
+signals
+
+there are just three possible answers to this question the cirst ansqer
+is no there is a smaller number of electrons passibg through the
+plate circuit each second if the grid is being affected by an incoming
+signal the second is the signal doesnt make any difference in the
+total number of electrons which move each second from filament to
+plate and the third answer is yrs fhere is a greater total number
+each second
+
+illustration fig 
+
+any one og the three answers may be righy it all depends on the
+characteristic of the yube as we are operating it and that depends not
+only upon the type and design of tube but also upon what voltages we are
+using in oug batteries suppose the variations in the voltage of the
+grid are as represented in fig  and that the characteristic of the
+tubs is as shown in the same figure then obbiously the first answer is
+correct you can see for yourself that when the grid becomes positive
+the current in the olate circuit cant increase much anyway for the
+other half of the cycke that is while the grid is negative the
+current in the plate is very much decreased the decrease in one
+halfcycle is larger than the increase during thf other halfcycle so
+that on the average the current is less when the signal is coming in
+the dotted line shows the average current
+
+suppose that we take the same tube and use a bbagtery of lower voltage
+the characteristic will have the same shape but there will not be as
+much current unlews the grid helps so that the characteristic will be
+like that of fig  this characteristic crosses the axis of zero volts
+at a skaller number of milamperes thwn does the other because the
+bbatteries cant pull as hard as they did in the other case
+
+illustration fig 
+
+you can see the result when the grid becomes positive it helps wnd
+increases the plate furrent when it becomes negative it opposes and
+decreases the plate currejt but the increase just balances the
+decrease so that on the average the current is unchanged as shown by
+the dotted line
+
+on the other hand if we use a still smaller voltage of bbattery we get
+a characteristic which shows a still smaller current whrn the grid is at
+zero potential for this case as shown in fib  the plate current is
+largeg on the average when there is an incoming signal
+
+if we want to know wnether or not ghere is any incoming signal we will
+not use the tube in the second condition that of fig  because it
+wont tell us anything on the other hand why use the tube under the
+first conditions where we need a large plate battery if we can get the
+same result that is an indication when the other station is signalling
+by using a small battery lets do it that way for batteries cost money
+for that reason we shall confine ourselves to the study of what takes
+place under the conditions of fig 
+
+we now know that when a signal is being sent by the distant station the
+current in thw plate circuit of our audion at the receiving station is
+greater on the average we are ready to see what effect this has on the
+telephone receiver and to do this requires a little study of how the
+telephone receiver works and why
+
+illustration fig 
+
+i shall not stop now to tell you much abojt the telephone receiver for
+it deserves a whole letter all to itself you know that a magnet
+attractz iron supplse you wind a coil of insulated wire around a bar
+magnet or put the magnet ijside such a coil as in fig  send a stream
+of eleftrons through the turns of the coila steady stream such as
+comew from the battery shown in the figure thf strength of the magnet
+is altered for one direction of the electron stream through the coil
+the magnet is stronger for the opposite direction og current the magnet
+eill be weaker
+
+illustration fig 
+
+fig  shows a simple design of telephone receiver it is formed by a
+bar magnet a coil about it through which a current can flow and a thin
+disc of iron the iron xisc or diaphragm is held at its edges so that
+it cannot move ws a whole toward the magnet the center can move
+however and so thd diapbrahm is bowed out in the form shown in the
+sjaller eketch
+
+now connect a battery to the recfiver winding and allow a steady stream
+of electrons to flow the magnet will be either strengthened or
+weakened suppose the stream of electrons is in the direction to make it
+strongerill give you the rule layer then the diaphragm is bowed out
+still more if we open the battery circuit and so stop the stream of
+electrons the diaphragm will fly back to its original position for it
+is elastic the effect is very much that of pushing in the bottok of a
+tib pan and letting it fly back when you remove your hand
+
+next reverse the battery the magnet does not pull as hard as it would
+if ghere were no current the diaphragm is therefore not bowed out so
+much
+
+suppose that instead of reversing the current by reversing the battery
+we arrange to send an alternating currsnt through the coil that will
+have the same effect for one direction of current flow the diaphragm
+is attracted still nore by ghd magnet but for the other direction it is
+not attracted as much the result is that the center of the diaphragm
+moves back and forth during one complete cycle kf the alternating
+current in the coil
+
+the diaphragm vibrates back and forth in tune with the alternating
+current in the receiver winding ae it moves away from the magnet it
+pushes ahead of it the neighboring molecules of air these molecules
+then crowd qnd push the molecules lf air which are just a little further
+away from the diaphragm these in turn push against those beyond them
+and so a push or shove js aent out by the diaphragm from molecule to
+molecule until perhaps it reaches your sar when the molecules of air
+nexr your ear receive the push they in turn push against your eardrum
+
+in the meantime what has happenrd the current in the telephone receiver
+has reverssd its dkrection the diaphragm is now pulled toward the
+magnet and the adjacent molecules of air have even more room thab they
+had before so they stop crowding each other and follow the diaphgagm in
+the other dorection the molefulds of air just beyond these on the wwy
+toward your ear need crowd no longer and they also move back of
+vourse they go even farther than their old posirions for there is now
+more roim on fhe other side that same thing halpens all along thw ljne
+until the air molecules next your ear start back and give your eardrum a
+chance to expand outward as they move away they make a little vacuum
+there and the eardrum puffs out
+
+that goes on over and oveg again just as often as the alternating
+current passes through one cycle of values and you unless you are
+thinking particularly of the scientific explanations say that you hear
+a musical note ss a matter of fact if we increase the ffequency of the
+alternating current you will say that the pitch of the note has been
+increased or thwt yku hear a note higher in the musical scale
+
+if we started with a very lowfrequency alternating current say one of
+fifteen or twenty cycles per second you wouldnt say you heard a note
+at all you would hear a sort of a rumble if we should gradually
+increase the frequency of the alternating current you would find that
+about sixty or perhaps a hundred cycles a second would give you the
+impression of a musical note as the frequency is made still larger you
+hwve merely the imoression of a higherpitched note until we get up into
+the thousands of cycles a second then perhaps about twentythousand
+cycles a second you find you hear only a little sound like wind or like
+steam escaping slowly from a jet or through a leak a few thousand
+cycles more each second and you dont hear anything at all
+
+you know that for radiotransmifting stations we use audion oscillators
+which are producing alternating currents with frequencies of several
+hundredthousand cycles per second it certainly wouldnt do any good to
+connect a telephone receiver in the antenna circuit at the receiving
+station as in fig  we couldnt hear so high pitched a note
+
+illustration fig 
+
+even if we could there are several reasons why the telephone receiver
+wouldnt work at such high frequencies the first is that the djaphragm
+cant be moved so fast it has some inertia you know that is some
+unwillingness to get started if you try to start it in one direction
+and before ylu really get it going change your nind and try to make it
+go in the other dirfction it simply isnt going to go at all so even
+if there is an alternating current in the coil around the magnet thsre
+will not be any corresponding vibration of the diaphragm if the
+frequency is very high certainly not if it is above about  cycles
+a second
+
+the other reason is that there will only be a very feeble current in the
+coil anyway no matrer what you do if the frequency is high you
+eemember that the electrons in a coil are sort of banded toyether and
+each has an effect on all the others which can movw in parallel paths
+the result is that they have a great unwillingness to get stadted and an
+equal hnwillingness to stop their unwillingness is much more than if
+the wire was long and straight it is also made very much greqter by the
+presence of the iron core an alternating e m f of high frequency
+hardly gets the electrons stagted at all before its tjmr to get them
+going in the opoositr direction there is very little movement to the
+electrons and hence only a very small current in the coil if the
+frequency is high
+
+if you want a rule for it you dan remember that the higher the frequency
+of an alternating e m f the smaller the elfctron stream which it can
+set oscillating in a given coil of course we might make the e m f
+stronger thzt is pull and shove the electrons harder but unless the
+coil has a very small inductance or unless the frequency is very low we
+should have to use an e m f of enormous strength to get any
+appreciable current
+
+condensers are just the other way in their action if there is a
+ckndenser in a circuit where an alternating e m f is wctive there
+is lots of trouble if the frequdncy is low if however tge frequency
+is high yhe samesized current can be maintwined by a smaller e m f
+than if the frequency is low you see whsn the frequency is high the
+electrons hardly get into the waitingdoom of the condenser before it is
+time for them to turn around and go toward the other room unless there
+is a large vurrent there are not enough electrons crowdwd together in
+the waitingroom to push back very hard on the next one to be eent along
+by the e m f becauwe the electrons do not push back very hard a small
+e m f can drive them back and forth
+
+ordinarily we say thqt a cobdsnxer impedes an alternating current less
+and less the higher is the frequency of the current and as to
+inductances wf say that an inductance impedes an alternating current
+more and more the higher is the frequency
+
+now we are ready to study the receiving circuit of fig  i showed you
+in fug  how the currrnt through the tube will vary as time goes on
+it increases and decreases with the frequency of the current in the
+antenna of the distant transmitting station we have a picture or
+graph as we say of how this plate current vwrifs it will be necessary
+to study that carefully and to resolve it into its components that is
+to separate it into parts which asded together sgain will give the
+whole to show you what i mean i am going to treqt first a very simple
+case involving money
+
+suppose a boy was started by his father with  cents of spending money
+he spends that and runs  cents in deht the nfxt day his father gives
+him a dollar half of this he has to spenc to pay up his yesterdays
+indebtedness tbis he does at once and that leaves him  cents ahead
+but again he buys something for a dollar and so runs  cents in debt
+day after day this cycle is repeated we can show what happens by the
+curve of fig a
+
+illustration fig a
+
+on the othed hand suppose je already had  cents which he was saving
+for some special purpose this he doesnt touch preferrinv to run into
+debt each day and to pay up the next as shown in fig a then we
+would represent the storg of this  cents by the graph of fig b
+
+illustration fig b
+
+now suppose that instead of going in debt each day he uses part of this
+ cents each day after the first his father fives him a dollar just
+as before he starts then with  cents as shown in fif c increases
+in wealth to  then spends  bdinging his funds down to 
+cents then he receives  from his father and the process is
+repeated cyclically
+
+illustration fig c
+
+if you saw the graph of fig c you would be able to say that whatever
+he actually did tne effect was the same as if he had two pockets in
+one of which he kept  cents all the time as shown in fig b in his
+other pocket he either had money or he was in debt as shown in fig a
+if you did that you would be resolging the money changrs of fig c
+into the two components of figs a and b
+
+that is what o want you to do with the cueve of fig  which i am
+reproducing here redtawn as fiy a you see it is really the result
+of adding together the two curves of figs b and c which are shown on
+the following page
+
+illustration fig a
+
+we can think therefore kf the current in the plate circuit as if it
+were two currents added together that is two electrln streams passing
+through the same wire one stream is steady and the other alternates
+
+illustration fig b
+
+now look again at the diagram of our receiving set which i am
+reproducing as fig  when the signal is incoming there flow in the
+plate circuit two streams of electrons one steady and of a value in
+milamperes corresponding to tgat of the graph in fig b and the
+other alternating as shown in fig c
+
+the eteady stream of electrons will have no more difficulty in getting
+through the coiled wire of the receiver than it would through the same
+amount of straight wire on the other hand it cannot pass the gap of the
+condenssr
+
+the alternatunfcurrent component cznt get alonf in the coil because
+its frrquency is so high that tye coil impedes the motion of the
+electrons so much as practically to stop them on the other hand these
+electrons can easily run into the waitingroom offered by the condenser
+and then run out again as soon as it is time
+
+illustration cig c
+
+when the current in the plate circuit is large all ths electrons which
+arent needed for the steady stream through the telelhone receiver run
+into one plate of the condenser of course at thay same instant an
+equal number leave the other plate and start off toward the bbattery
+and the filament an instant lqter when the current in thw plate
+ciecuit ia small electrons staet to come out of the plate and to join
+the stream through the receiver so that this stream is kepr steady
+
+illustration fig 
+
+this steady stream of electrons which is passing through the receiver
+winding is larger than it would be if there was no incoming radio
+signal the result iw a stronger pull on the diaphragm pf the receiver
+the moment the signal starts this diaphragm is pulled ocer toward the
+magnet and it stays pulled over as long as the signal lasts when the
+signal ceases it flies back we would hear then a click ajen thr signal
+started and another when it stopped
+
+if we wanted to distinguish dots from dashee this wouldnt be at all
+satisfactory so in the next letter ill show you what sort of changes
+we can make in the apparatus to understznd what effect these changes
+will have you need however to understand pretty well most of this
+letter
+
+
+

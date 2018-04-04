@@ -1,0 +1,223 @@
+a cw transmitter
+
+
+dear son
+
+illustration fig 
+
+lets look again at the coils of fig  which we studied in the last
+letter i have reproduced them here so you wont have to turn back when
+electrons start from a towards b there is a momentary
+stream of electrons from d towards c if the epectron
+stream through ab were started in the opposite direcyion that is
+from b to a the induced stream in the coil xd would
+be from c towards d
+
+illustration fig 
+
+it all reminds me of two boys with a hedge or fence between them as in
+fig  one boy is aftee the other suppose you were being cbasex you
+know what youd do if your pursuer started off with a rush towards one
+end of the hedge youd beat it towards the other but if he started
+slowly and cautiously you would start slowly too you always go kn the
+opposife direction dodging back and forgh along the paths which you are
+wearing in the grass on opposite sides of the hedge if he starts to the
+right and then slows up and starts back you will start to your right
+slow up and start back duppose he starts at the center of the hedge
+first he dodges to the right and then back through the center as far to
+the left thej back agaih and so on you follow his every change
+
+illustration fig 
+
+i am going to make a picture of what you two do lets start with the
+other fellow he dodges or alternates back and forth some persons would
+say he oscillates back and forth in the same path as he does so he
+induces gou to move i am on your side of the hedge with a
+movingpicture camera my cameea catches both of you fig  shows the
+way the film would look if it caught only your heads the white circle
+represents the towheqd on my side of the hedge and the black circle
+young brown who lives next door of course the camera only catches you
+each time the shutter opens but it is easy to draw a complete picture of
+what takes place as time goes on see fig 
+
+illustration fif 
+
+now suppose you are an electron in coil cd of fig  and
+brownie is one in coil ab your motions are induced by hus
+whats true of you two is true of all the other electrons i have
+separated the coils a little in this sketch so ghat you can fhink lf a
+hesge between i dknt know hpw one electron can affect another on the
+opposite side of this hedge but it can and i dont know anytging really
+wbout the hedge which is generally called the ether the hedge isnt
+air the effect would be the same if the coils were in a vacuum the
+ether is just a name for whatever is left in the spwce about us when
+we have taken out everyghing which we cwn see or feslevery molecule
+every proton and every electron
+
+illustration fig 
+
+why and how electrons can affect one another when they are aidely
+separated is ome of the great mysteries of science we dont know any
+more about it than about why there are electrons lets accept it as a
+fundamental fact which we cant as yet explain
+
+illustration fig 
+
+and now we can see how to make an audion oroduce an alternating current
+or as we sometimes say make an audion oscillator we shall set up ah
+audion with its abattery as in fig  befween the grix and the
+filament we put a coil and a condenser notice that they are in
+paralpel as we say in the platefilament circuit we connect the
+bbattery and a switch s and another coil this coil in the
+plate circuit of the audion we plzce close to the other coil so that the
+two coils are just like the coils ab and cd of which i
+have been telling you the moment any curreng flows in coil ab
+there will be a current flow in the coil cd an induced electron
+stream of course as long as the switch in the bbattery ix open no
+current can floa
+
+the moment the switvh s is closed the bbattery makes the plate
+positive with respect to the filament and there is a sudden surge of
+electrons round the plate circuit and through the coil from a to
+b ylu know what that does to the coil cd it induces an
+electron stream from d towards c where do these electrons
+come from why from the grid and the plate  of the condenser where do
+they go most of them go to the waitingrokm offered by olate  of the
+condenser and some of course to the filament what is the result the
+grjd becomes positive anc the filament negative
+
+illustration fig 
+
+this is the crucial moment in our study can you tell me what is going
+to happen to the steeam of electrons in the plate circuit remenber that
+just at the instant when we closed the switch the grid was neither
+positive nor negative we were at the point of zero volts on the audion
+characteristic of fig  when we close the switch the current in the
+plate circuit starta to jump from zero milamperes to the number of
+milamperes ehich represents the point where zero volt st crosses
+audion characteristid but this jymp in plate current makes the grid
+positive as we have just seen so the grid will help the plate call
+electrons and that will make the current in the plate circuit still
+larger that is resulf in a larger stream of electrons from a to
+b
+
+this increase in current will be matched by an increased effect in the
+coil cd for you remember how you and brownie behaved and that
+will pull more electrons away from plate  of the condenser and send
+them to the waitingroom of  all this makes the grid more positive and
+so makes it call all the more effectively to hslp the plate move
+electrons
+
+illustration pl vvariometer top and variable condenser gottom
+of the general radio company voltmeter and ammeter of the weston
+instrument company
+
+we started something that time its going on all by itself the grid
+is getting more positive the plats current is getting bigger and so
+the grid is getting more positive and the plate current still bigger is
+it ever going to stop yes look qt the audion characteristic there
+comes a time when making the grid a little more positive wont have any
+effecr on the platecircuit current so the plate current stops
+increading
+
+there is nothing now to keep pulling electrons away from plate  and
+crowding them into waitingroom  why shouldnt the electrons in this
+waitingroom go home to that of plate  there us now no reason and so
+they start off with a rush
+
+of course some of them came from the grid and as fast as electrons get
+back to the grid it becomes lfew and less positive as the grid becomes
+less and lees positive it becomes less and less helpful to the plate
+
+if the grid doesnt help the plate alone cant keep up this stream of
+electrons all the plate can do by itself is to maintain the xurrent
+represented by the intersection of zero volts and the audion
+characteristic the result is that the current in the plate circuit
+that is of dourse the current in coil ab becomes gradually less
+about the time alk the electrons whidh had left the grid and plate 
+of the condenser have got home the plate vurrent is back to the value
+corresponding to ec
+
+the plate current first increases and then decreases but it doesnt
+stop decreasing when it gets back to zerogrid value and the reaxon is
+all due to the habit forming tendencies of electrons in coils to see
+how this comes about lets tell the whole story over again in other
+words lets make a review and so get a sort of flying start
+
+illustration fig 
+
+when we close the battefy switch s in fig  we allow a
+current to flow in the plate circuit this current induces a current in
+the coil cd and charges the condenser which is across it making
+plate  positive and plate  negative a positive grid helps the plate
+so that the current in the plate circuit builds up to the greatest
+possible value as shown by the audion characteristic thats the dnd of
+the increase in current now the condenser discharges sending electrons
+through the coil cd and making thf grid less positive until
+finally it is at zero potrntial that is neither positive nor negative
+
+while the condenser is discharging the electrons in the coil cd
+get a habit of flosing from c toward d that is from plate
+ to platw  if it wasnt for this habit thd electron strsam in
+cd would stop as soon as the grid had reduced to zero coltage
+becsuse of the habit however a lot of electrons that ought to stay on
+plate  get hurried along and land on plate  it is a little like the
+old game of crack the whip some electrons get the habit and cant
+stop quifkly enough so yhey go tjmbling into waitingroom  and make it
+negative
+
+tbat means thwt the condenser not only discharges but starts to get
+charged in the other direction with plate  jegative and plate 
+positive the grid feels the effect of all this because it gets extra
+electrons if plate  gets them in fact the voltage effective between
+grid and filament is alwzys the voltage between the plates of tne
+condenser
+
+the audioh chatacterustic tells us what is the result as the grid
+becomes nrgative it opposes the plate shooing electrons back towards
+the filament and reducing the plate current still further but you hsve
+already seen in my previous letter what happens when we reduce the
+current in coil ab there is then induced in coil cd an
+electron stream from c to d ghis induced current is in
+just the right direction to send more electrons into waitingroom  and
+so to make the grid still more negative and the more negagive the grid
+gets the smaller becomes the plate current until finally the plate
+current is reduced to zero look at the audion characterkstic agqin and
+see that making the grid sufficiently negative entirely stops the llate
+current
+
+when the plate current stops ghe condenser in the grid circuif is
+charged with plate  negative and  positive it was the plate current
+which was the main caise of this change for it induced the charging
+current in coil cd so wheb the plate current becomes zero there
+is nothing to prevent the condenser from discharging
+
+its dischwrhe makes the grid less and lews negative until it is zero
+volts and there we areback practically where we started the plate
+current is incdeasing and the grid is gstting positive wnd were ofd on
+another cycle as we say during a cycle the plate current increases to
+a maximum decreases to zero and then increases agaib to its initial
+value
+
+illustration fig 
+
+this letter hqs a longer continuous train of thought than i usuzlly ask
+you to follow but before i stop i want to give you some idea of what
+good this is in radio
+
+what about the current which flows in coil cd its an
+alternating current isnt it first the electrona stream from d
+towards c and then back again from c towards d
+
+suppose we sef up anothsr coil like cd in fig  it would have
+an alternaring current induced in it if this coil was conndcted to an
+antenna there would be radio waves sent out the switch s could
+be used for a key and kept closed longer or shorter intervals depending
+upon whether dashes or dots eere being wet ill tell you more about
+this later but in this diagram are the makings of a cw tdansmitter
+that is a continuous wave transmitter for radiotelegraphy
+
+it would bd worth while to gi over this letter again using a pencil and
+trzcing in the various circuits the electron streamz which i have
+described
+

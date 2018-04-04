@@ -1,0 +1,272 @@
+amplifiers and the regenerative circuit
+
+
+my dear receiver
+
+there is one way of making an audion even more efficient as a detector
+than the method described in the last letter and that is to make it
+talk to itself
+
+suppose we arrange a receiving circuit as in fig  it is exactly like
+that of fig  of the previous letter except for the fact that the
+current in the plate circuit passes through a little coil lt
+which is placed near the coil l and so can induce in it an e m
+f which will correspond in intensity and wave form to the current in
+the plate circuit
+
+if we should take out the grid condenser and its leak this circuit would
+be like that of fig  in letter  which we used for a generator of
+highfrequency alternating currents you remember how that circuit
+operates a small effect in the grid circuit produces a large effect in
+the plate circuit because the plate circuit is coupled to the grid
+circuit the grid is again affected and so there is a still larger effect
+in the plate circuit and so on until the current in the plate circuit
+is swinging from zero to its maximum possible value
+
+what happens depends upon how closely the coils l and
+lt are coupled that is upon how much the changing current in
+one can affect the other if they are turned at right angles to each
+other so that there is no possible mutual effect we say there is zero
+coupling
+
+start with the coils at right angles to each other and turn lt
+so as to bring its windings more and more parallel to those of l
+if we want lt to have a large effect on l its windings
+should be parallel and also in the same direction just as they were in
+fig  of letter  to which we just referred as we approach nearer to
+that position the current in lt induces more and more e m f
+in coil l for some position of the two coils and the actual
+position depends on the tube we are using there will be enough effect
+from the plate circuit upon the grid circuit so that there will be
+continuous oscillations
+
+illustration fig 
+
+we want to stop just short of this position there will then be no
+continuous oscillations but if any changes do take place in the plate
+current they will affect the grid and these changes in the grid voltage
+will result in still larger changes in the plate current
+
+now suppose that there is coming into the detector circuit of fig  a
+radio signal with speech significance the current in the plate circuit
+varies accordingly so does the current in coil lt which is in
+the plate circuit but this current induces an e m f in coil l
+and this adds to the e m f of the incoming signal so as to make a
+greater variation in the plate current this goes on as long as there is
+an incoming signal because the plate circuit is coupled to the grid
+circuit the result is a larger e m f in the grid circuit than the
+incoming signal could set up all by itself
+
+you see now why i said the tube talked to itself it repeats to itself
+whatever it receives it has a greater strength of signal to detect than
+if it didnt repeat of course it detects also just as i told you in
+the preceding letter
+
+in adjusting the coupling of the two coils of fig  we stopped short
+of allowing the tube circuit to oscillate and to generate a high
+frequency if we had gone on increasing the coupling we should have
+reached a position where steady oscillations would begin usually this
+is marked by a little click in the receiver the reason is that when the
+tube oscillates the average current in the plate circuit is not the same
+as the steady current which ordinarily flows between filament and plate
+there is a sudden change therefore in the average current in the plate
+circuit when the tube starts to oscillate you remember that what
+affects the receiver is the average current in the plate circuit so the
+receiver diaphragm suddenly changes position as the tube starts to
+oscillate and a listener hears a little click
+
+the frequency of the alternating current which the tube produces depends
+upon the tuned circuit formed by l and c suppose that
+this frequency is not the same as that to which the receiving antenna is
+tuned what will happen
+
+there will be impressed on the grid of the tube two alternating e m
+fs one due to the tubes own oscillations and the other incoming from
+the distant transmitting station the two e m f s are both active at
+once so that at each instant the e m f of the grid is really the sum
+of these two e m fs suppose at some instant both e m
+fs are acting to make the grid positive a little later one of them
+will be trying to make the grid negative while the other is still trying
+to make it positive and later still when the first e m f is ready
+again to make the grid positive the second will be trying to make it
+negative
+
+its like two men walking along together but with different lengths of
+step even if they start together with their left feet they are soon so
+completely out of step that one is putting down his right foot while the
+other is putting down his left a little later but just for an instant
+they are in step again and so it goes they are in step for a moment
+and then completely out of step suppose one of them makes ten steps in
+the time that the other makes nine in that time they will be once in
+step and once completely out of step if one makes ten steps while the
+other does eight this will happen twice
+
+the same thing happens in the audion detector circuit when two e m
+fs which differ slightly in frequency are simultaneously impressed on
+the grid if one e m f passes through ten complete cycles while the
+other is making eight cycles then during that time they will twice be
+exactly in step that is in phase as we say twice in that time they
+will be exactly out of step that is exactly opposite in phase twice
+in that time the two e m fs will aid each other in their effects on
+the grid and twice they will exactly oppose unless they are equal in
+amplitude there will still be a net e m f even when they are exactly
+opposed the result of all this is that the average current in the plate
+circuit of the detector will alternately increase and decrease twice
+during this time
+
+the listener will then hear a note of a frequency equal to the
+difference between the frequencies of the two e m fs which are being
+simultaneously impressed on the grid of the detector suppose the
+incoming signal has a frequency of  cycles a second but that the
+detector tube is oscillating in its own circuit at the rate of 
+cycles per second then the listener will hear a note of  cycles per
+second one thousand times each second the two e m fs will be
+exactly in phase and one thousand times each second they will be exactly
+opposite in phase the voltage applied to the grid will be a maximum one
+thousand times a second and alternately a minimum we can think of it
+then as if there were impressed on the grid of the detector a
+highfrequency signal which varied in intensity one thousand times a
+second this we know will produce a corresponding variation in the
+current through the telephone receiver and thus give rise to a musical
+note of about two octaves above middle c on the piano
+
+this circuit of fig  will let us detect signals which are not varying
+in intensity and consequently this is the method which we use to detect
+the telegraph signals which are sent out by such a continuous wave
+transmitter as i showed you at the end of letter 
+
+when the key of a cw transmitter is depressed there is set up in the
+distant receivingantenna an alternating current this current doesnt
+vary in strength it is there as long as the sender has his key down
+because however of the effect which i described above there will be an
+audible note from the telephone receiver if the detector tube is
+oscillating at a frequency within two or three thousand cycles of that
+of the transmitting station
+
+this method of receiving continuous wave signals is called the
+heterodyne method the name comes from two greek words dyne meaning
+force and the other part meaning different we receive by combining
+two different electronmovingforces one produced by the distant
+sendingstation and the other produced locally at the receiving station
+neither by itself will produce any sound except a click when it starts
+both together produce a musical sound in the telephone receiver and the
+frequency of that note is the difference of the two frequencies
+
+there are a number of words used to describe this circuit with some of
+which you should be familiar it is sometimes called a feedback
+circuit because part of the output of the audion is fed back into its
+input side more generally it is known as the regenerative circuit
+because the tube keeps on generating an alternating current the little
+coil which is used to feed back into the grid circuit some of the
+effects from the plate circuit is sometimes called a tickler coil
+
+it is not necessary to use a grid condenser in a feedback circuit but
+it is perhaps the usual method of detecting where the regenerative
+circuit is used the whole value of the regenerative circuit so far as
+receiving is concerned is in the high efficiency which it permits one
+tube can do the work of two
+
+we can get just as loud signals by using another tube instead of making
+one do all the work in the regenerative circuit the tube is performing
+two jobs at once it is detecting but it is also amplifying by
+amplifying we mean making an e m f larger than it is without
+changing the shape of its picture that is without changing its wave
+form
+
+to show just what we mean by amplifying we must look again at the audion
+and see how it acts you know that a change in the grid potential makes
+a change in the plate current let us arrange an audion in a circuit
+which will tell us a little more of what happens fig  shows the
+circuit
+
+this circuit is the same as we used to find the audion characteristic
+except that there is a clip for varying the number of batteries in the
+plate circuit and a voltmeter for measuring their e m f we start with
+the grid at zero potential and the usual number of batteries in the
+plate circuit the voltmeter tells us the e m f we read the ammeter
+in the plate circuit and note what that current is then we shift the
+slider in the grid circuit so as to give the grid a small potential the
+current in the plate circuit changes we can now move the clip on the
+bbatteries so as to bring the current in this circuit back to its
+original value of course if we make the grid positive we move the clip
+so as to use fewer cells of the bbattery on the other hand if we make
+the grid negative we shall need more e m f in the plate circuit in
+either case we shall find that we need to make a very much larger change
+in the voltage of the plate circuit than we have made in the voltage of
+the grid circuit
+
+illustration fig 
+
+usually we perform the experiment a little differently so as to get more
+accurate results we read the voltmeter in the plate circuit and the
+ammeter in that circuit then we change the number of batteries which we
+are using in the plate circuit that changes the plate current the next
+step is to shift the slider in the grid circuit until we have again the
+original value of current in the plate circuit suppose that the tube is
+ordinarily run with a plate voltage of  volts and we start with that
+e m f on the plate suppose that we now make it  volts and then
+vary the position of the slider in the grid circuit until the ammeter
+reads as it did at the start next we read the voltage impressed on the
+grid by reading the voltmeter in the grid circuit suppose it reads 
+volts what does that mean
+
+illustration fig 
+
+it means that two volts in the grid circuit have the same effect on the
+plate current as ten volts in the plate circuit if we apply a volt to
+the grid circuit we get five times as large an effect in the plate
+circuit as we would if the volt were applied there we get a greater
+effect the effect of more volts by applying our voltage to the grid
+we say that the tube acts as an amplifier of voltage because we can
+get a larger effect than the number of volts which we apply would
+ordinarily entitle us to
+
+now lets take a simple case of the use of an audion as an amplifier
+suppose we have a receiving circuit with which we find that the signals
+are not easily understood because they are too weak let this be the
+receiving circuit of fig  which i am reproducing here as part of fig
+
+
+we have replaced the telephone receiver by a transformer a
+transformer is two coils or windings coupled together an alternating
+current in one will give rise to an alternating current in the other
+you are already familiar with the idea but this is our first use of the
+word usually we call the first coil that is the one through which the
+alternating current flows the primary and the second coil in which a
+current is induced the secondary
+
+the secondary of this transformer is connected to the grid circuit of
+another vacuum tube to the plate circuit of which is connected another
+transformer and the telephone receiver the result is a detector and
+one stage of amplification
+
+the primary of the first transformer so we shall suppose has in it the
+same current as would have been in the telephone this alternating
+current induces in the secondary an e m f which has the same
+variations as this current this e m f acts on the grid of the second
+tube that is on the amplifier because the audion amplifies the e m
+f acting on the telephone receiver is larger than it would have been
+without the use of this audion and hence there is a greater response on
+the part of its diaphragm and a louder sound
+
+in setting up such a circuit as this there are several things to watch
+for some of these you will have to rely on the dealer from whom you buy
+your supplies and for the others upon yourself but it will take another
+letter to tell you of the proper precautions in using an audion as an
+amplifier
+
+illustration fig 
+
+in the circuit which i have just described an audion is used to amplify
+the current which comes from the detector before it reaches the
+telephone receiver sometimes we use an audion to amplify the e m f
+of the signal before impressing it upon the grid of the detector fig
+ shows a circuit for doing that in the case of fig  we are
+amplifying the audiofrequency current in that of fig  it is the
+radiofrequency effect which is amplified the feedback or regenerative
+circuit of fig  is a onetube circuit for doing the same thing as is
+done with two tubes in fig 
+
+footnote  there is always some amplification taking place in an
+audion detector but the regenerative circuit amplifies over and over
+again until the signal is as large as the tube can detect

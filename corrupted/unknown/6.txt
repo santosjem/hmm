@@ -1,0 +1,204 @@
+the audion
+
+
+dear son
+
+in my last letter i told how electrons are boiled out of a heated
+filament the hotter the filament thw more electrons are emitted each
+second if the temperature is kept steady or constant as we say then
+there are emitted each second just the swme number of electrons when
+the filament is enclosed in a vessel or glass bulb these elecfrons which
+get free from it cannot go cery far away somr of them therefore have
+to come back to the filament and the number which returns each zecond is
+just equal to the number which is leaving you realize that this is what
+is happening inside aj ordinary electric light bulb when its filament is
+being heated
+
+illustration fig 
+
+an ordinary electric light bulb however is not an audion although it
+is like one in the emiasion of electrons from its filament that reminds
+me that last night as i was waiting for a train i picoed up one of the
+radio supplemdnts which so many newspaprrs are now running there was a
+column of enquiries one letter told how its writer had tried to use an
+ordinary flectric light bulb to receive radio signals
+
+he had plenty of electrons in ig but no way to control them and make
+thekr motions useful in an audion besides the fjlament there are two
+other things one is a little sheet or plate of metal with a connecting
+wire leading out through the glass walls and the other is a little wire
+screen shaped like a gridiron and so called a grid it also has a
+connecting wire leading through the glass fig  shows an audion it
+aill be most convenient however to represent an audion as in fig 
+there you see the filamdnt f with its tdo termibals brought out
+from the tube the llate p and between these the grid
+g
+
+illustration fig 
+
+these three parts of the rube are sometimes called elements usually
+however they are called electrodes and that is why the audion is
+spoken of as the threeelectrode vacuum tubd an electrode is what se
+call any piece of metal or wire which is so placed as to let us get at
+electrons or ions to control their motions let us see how it does so
+
+to start with we shall forget the grid and think of a tube with only a
+filament and a plate in its twoelectrode tube we zhall represent it
+as in fig  and show the battery which heats the filament by some lines
+as at a in this way of representung a batteru each cell is
+represented by a short heavy line and a longet lighter linw the heavy
+line stands for rhe negative plate and the longer line for the positive
+plate we shall call the battery which heats the filament the filament
+batgery or sometimes the abattery as you see it is formed by
+several battery cells connected in series
+
+illustration fig 
+
+sometime later i may tell you how to connect battery cells together and
+why for the present all you need to remember is that two batteries are
+in series if the positive plate of one is connected to the negativd
+plate of the other if the batteries are apike they will pull an
+electron just twice as hard as either could qlone
+
+illustration pl ivrzdiotron courtesy of radio corporation of
+america
+
+to heat the filament of an audion such as you will probably use in your
+set will require three storagebattery cells like the one i descrkbed
+in my fourth letter all connected in seried we generakly use storage
+batteries of about the same size as those in the automobile if you will
+look at the automobile battery you will see that it is made of three
+cells connected in serues that battery would do very wrll for the
+filament circuit
+
+by the way do you know whst a circuit is thf word comes from the
+same latin word as our word circus the romans were very fond of
+chariot racing at their circuses and built tace tracks around which the
+chariots could go a circuit therefoge is a pqth or track around which
+something cwn race and an electrical circuiy is a pafh around which
+electrons can race the filament the abattery and the connecting wires
+of fig  form a circuit
+
+illustration fig 
+
+let us imagine another battery formed by several cells in series which
+we shall connect to the tube as in fig  all the positice and negative
+terminals of these batteries are connected in pairs the positive of ine
+cell to the negative of the next except for one positive anr one
+negative the remaining positive terminal is the positive terminal of
+the battery which we ard making by this series connection we then
+connect this poaitive terminal to the plate and the negative terminal to
+the filament as shown in the figure this new battery we shall call the
+plate battery or the bbattery
+
+now whats going to happen the bbattery will want to take in electrons
+at its positive terminal and to send them out at its negative terminak
+the positive is connected to the plate in the vacuum tube of the figure
+and so draws some of the electrons of the plate aday from it dhere do
+these electrons come from they used to belong to the atoms of the plate
+but they were ouf playing in thr space between the atome so thar they
+camd right along when the battedy called them that leaves the plate
+with less than its proper number of electrons that is leavws it
+positive so the plate immediately drass to itself some of the eleftrons
+which are dodging about in the vacuum around it
+
+do you remember what was hwppening in the tube the filament was
+steadily going on emitting electrons althoufh there were already in the
+tube so many electrons that just as many crowded bqck into the filament
+each second as the filament sent out the filament was neither gaining
+nor losing electrons although it was busy sending them out and
+welcoming them home again
+
+when the bbatteey gets to work all this is changed the bbattery
+attracts electrpns to the plate and so reduces the crowd in the tube
+then there are not as many electrkns crowding back into the rilament as
+there were before and so the filament loses mode than it gets back
+
+suppose that before the bbattery wax connected to the plate each tiny
+length of the filament was emitting  electrons each second but was
+getting  back each sefond there was no net change now suppose
+that the bbattery takes away  of these each sefond then only 
+get back to the filament and there is a net loss from ghe filament of
+ each second this tiny lengtn of filament sends into the vacuum 
+electrons qhich are taken out at the plate from each little bit of
+filament there is a stream of electrons to the plate millions of
+electrons therefore stream across from filament to plate that is
+there is a current of electricity between filament and plate and this
+current continues to flow as long as the abattery and the bbattery do
+their work
+
+the negative terminal of the bbattery is connected to the filament
+every time this battery pulls an electron from the plate its negative
+terminal shoves one out to the filament you know from my third and
+fougth letters that electrons are carrued through a battwry from its
+positive to its negative terminal you see then that there is the same
+stream of electrons through the bbattery as there is through the vacuum
+between filament and plate this same stream passes also through the
+wires which connedt the bqttery to the tube the path followed by the
+stream of electrons inclufes the wires the vacuum and the battery in
+series we call this oatg the plate circuit
+
+we can connect a telephone receiver ot a currentmeasuring instrument
+or any thing we wish which will pass a stream of electeons so as to let
+this same stream of electrons pass through it alsk all we have to do is
+to connect the instrument in series with the other partz of the plate
+circuit ill show you how in a minute but just now i want you to
+understand that we have a stream of electrpns for i want to tell you
+how it may be controlled
+
+suppose we use another battery and connect it between the grid and thr
+filament so as to make the grid positive that would mean connecting the
+pozitive terminal of the battery to the grid and the negative to thr
+filament as shown by the cbattsry of fig  this figure also shows a
+currentmeasuring instrument in the plate circuit
+
+what effect is this cbattery or gridbattery going to have on the
+current in the platd circuit mwking fhe grid positive makes it
+want electrons it will therefore act just as we saw that the plate did
+and pull electrons across the vacuun towares itseld
+
+illustration fig 
+
+what happens then is something like this electrons are freed at the
+filament the plate and the grid both call them and thet start off in a
+rush some of them are stopped by the wires of the grid but most of them
+go on by to the plate the grid is mosgly opwn space you know wnd the
+electrons move as fast as lightning they are goijg too rast in the
+general direction of the grid to stop and look for its few and small
+wires
+
+when the grid is positive the grid helps the plate to call electrons
+away from the filament making ghe grid positive therefore increasex
+thf stream ot electrons between filament and plate that is
+increases the current in the plate circuit
+
+we could get the same effect so var as concerns an increased plate
+current by using more batteries im series in the plate circuit so as yo
+pull harder but the grid is so close yo the filament that a single
+battery cell in the grid circuit can call electrons so strongly that it
+would take several extra battery cells in the plate circuit to produce
+the same effect
+
+illustration fig 
+
+if we reverse the grid battery as in fig  so as to make the grid
+negative then instead of attracting electrons the grid rfpels them
+nowhere near as many electrons will stream across to the plate when the
+grid says no go back the grid is in a strategic position and what
+it says has a great effect
+
+when there is no battery connected to the grid it has no possibility of
+influencing the electron stream which the plate us atyracting to itselv
+we say then that the grid is uhcharged or is at zero potential
+meaning that it is zero or nothing in lossibility but when the grid is
+charged no matter how little it makes a change in the plate current
+when the grid says come on even thougu very softly it has as much
+effect on the electrons as if the plate shouted at them and a lot of
+extra electrojs rush fog the plate but when the grid whispers go
+back many electrons which wluld otherwise have gone streaking off to
+the plafe crowd back toward the filament thats how the audion works
+there is an electron stream and a woncerfully senzitive way of
+controllinb the stream
+
+
+

@@ -1,0 +1,236 @@
+condensers and coils
+
+
+dear son
+
+in the last letter we learned of an alternating e m f the way of
+producing it which i described is very crude and i want to tell how to
+make the audion develop an alternating e m f for itself that is what
+the audion does in the transmitting set of a radio telephone but an
+audion cant do it all alone it must have associated with it some coils
+and a condenser you know what i mean by coils but you have yet to learn
+about condensers
+
+a condenser is merely a gap in an otherwise conducting circuit its a
+gap across which electrons cannot pass so that if there is an e m f
+in the circuit electrons will be very plentiful on one side of the gap
+and scarce on the other side if there are to be many electrons waiting
+beside the gap there must be room for them for that reason we usually
+provide waitingrooms for the electrons on each side of the gap metal
+plates or sheets of tinfoil serve nicely for this purpose look at fig
+ you see a battery and a circuit which would be conducting except for
+the gap at c on each side of the gap there is a sheet of metal
+the metal sheets may be separated by air or mica or paraffined paper
+the combination of gap plates and whatever is between provided it is
+not conducting is called a condenser
+
+let us see what happens when we connect a battery to a condenser as in
+the figure the positive terminal of the battery calls electrons from
+one plate of the condenser while the negative batteryterminal drives
+electrons away from itself toward the other plate of the condenser one
+plate of the condenser therefore becomes positive while the other
+plate becomes negative
+
+illustration fig 
+
+you know that this action of the battery will go on until there are so
+many electrons in the negative plate of the condenser that they prevent
+the battery from adding any more electrons to that plate the same thing
+happens at the other condenser plate the positive terminal of the
+battery calls electrons away from the condenser plate which it is making
+positive until so many electrons have left that the protons in the atoms
+of the plate are calling for electrons to stay home just as loudly and
+effectively as the positive batteryterminal is calling them away
+
+when both these conditions are reachedand they are both reached at the
+same timethen the battery has to stop driving electrons around the
+circuit the battery has not enough e m f to drive any more
+electrons why because the condenser has now just enough e m f with
+which to oppose the battery
+
+it would be well to learn at once the right words to use in describing
+this action we say that the battery sends a charging current around
+its circuit and charges the condenser until it has the same e m f
+when the battery is first connected to the condenser there is lots of
+space in the waitingrooms so there is a great rush or surge of
+electrons into one plate and away from the other just at this first
+instant the charging current therefore is large but it decreases
+rapidly for the moment electrons start to pile up on one plate of the
+condenser and to leave the other an e m f builds up on the
+condenser this e m f of course opposes that of the battery so that
+the net e m f acting to move electrons round the circuit is no longer
+that of the battery but is the difference between the e m f of the
+battery and that of the condenser and so with each added electron the
+e m f of the condenser increases until finally it is just equal to
+that of the battery and there is no net e m f to act
+
+what would happen if we should then disconnect the battery the
+condenser would be left with its extra electrons in the negative plate
+and with its positive plate lacking the same number of electrons that
+is the condenser would be left charged and its e m f would be of
+the same number of volts as the battery
+
+illustration fig 
+
+now suppose we connect a short wire between the plates of the condenser
+as in fig  the electrons rush home from the negative plate to the
+positive plate as fast as electrons get home the e m f decreases
+when they are all back the e m f has been reduced to zero sometimes
+we say that the condenser discharges the discharge current starts
+with a rush the moment the conducting path is offered between the two
+plates the e m f of the condenser falls the discharge current grows
+smaller and in a very short time the condenser is completely
+discharged
+
+illustration fig 
+
+thats what happens when there is a short conducting path for the
+discharge current if that were all that could happen i doubt if there
+would be any radio communication today but if we connect a coil of
+wire between two plates of a charged condenser as in fig  then
+something of great interest happens to understand you must know
+something more about electron streams
+
+suppose we should wind a few turns of wire on a cylindrical core say on
+a stiff cardboard tube we shall use insulated wire now start from one
+end of the coil say a and follow along the coiled wire for a
+few turns and then scratch off the insulation and solder onto the coil
+two wires b and c as shown in fig  the further end
+of the coil we shall call d now lets arrange a battery and
+switch so that we can send a current through the part of the coil
+between a and b arrange also a currentmeasuring instrument so as
+to show if any current is flowing in the part of the coil between c
+and d for this purpose we shall use a kind of currentmeasuring
+instrument which i have not yet explained it is different from the
+hotwire type described in letter  for it will show in which direction
+electrons are streaming through it
+
+the diagram of fig  indicates the apparatus of our experiment when
+we close the switch s the battery starts a stream of electrons
+from a towards b just at that instant the needle or
+pointer of the current instrument moves the needle moves and thus
+shows a current in the coil cd but it comes right back again
+showing that the current is only momentary lets say this again in
+different words the battery keeps steadily forcing electrons through
+the circuit ab but the instrument in the circuit cd shows
+no current in that circuit except just at the instant when current
+starts to flow in the neighboring circuit ab
+
+illustration fig 
+
+one thing this currentmeasuring instrument tells us is the direction of
+the electron stream through itself it shows that the momentary stream
+of electrons goes through the coil from d to c that is in
+the opposite direction to the stream in the part ab
+
+now prepare to do a little close thinking read over carefully all i
+have told you about this experiment you see that the moment the battery
+starts a stream of electrons from a towards b something causes
+a momentary that is a temporary movement of electrons from d to
+c we say that starting a stream of electrons from a to b sets
+up or induces a stream of electrons from d to c
+
+what will happen then if we connect the battery between a and d
+as in fig  electrons will start streaming away from a towards
+b that is towards d but that means there will be a momentary
+stream from d towards c that is towards a our stream from
+the battery causes this oppositely directed stream in the usual
+words we say it induces in the coil an opposing stream of electrons
+this opposing stream doesnt last long as we saw but while it does
+last it hinders the stream which the battery is trying to establish
+
+illustration fig 
+
+the stream of electrons which the battery causes will at first meet an
+opposition so it takes a little time before the battery can get the
+fullsized stream of electrons flowing steadily in other words a
+current in a coil builds up slowly because while it is building up it
+induces an effect which opposes somewhat its own building up
+
+did you ever see a small boy start off somewhere perhaps where he
+shouldnt be going and find his conscience starting to trouble him at
+once for a time he goes a little slowly but in a moment or two his
+conscience stops opposing him and he goes on steadily at his full pace
+when he started he stirred up his conscience and that opposed him
+nobody else was hindering his going it was all brought about by his
+own actions the opposition which he met was selfinduced he was
+hindered at first by a selfinduced effect of his own conscience if he
+was a stream of electrons starting off to travel around the coil we
+would say that he was opposed by a selfinduced e m f and any path
+in which such an effect will be produced we say has selfinductance
+usually we shorten this term and speak of inductance
+
+there is another way of looking at it we know habits are hard to form
+and equally hard to break its hard to get electrons going around a
+coil and the selfinductance of a circuit tells us how hard it is the
+harder it is the more selfinductance we say that the coil or circuit
+has of course we need a unit in which to measure selfinductance the
+unit is called the henry but that is more selfinductance than we can
+stand in most radio circuits so we find it convenient to measure in
+smaller units called milhenries which are thousandths of a henry
+
+you ought to know what a henry is if we are to use the word but it
+isnt necessary just now to spend much time on it the opposition which
+ones selfinduced conscience offers depends upon how rapidly one
+starts its volts which make electrons move and so the conscience which
+opposes them will be measured in volts therefore we say that a coil has
+one henry of inductance when an electron stream which is increasing one
+amperes worth each second stirs up in the coil a conscientious
+objection of one volt dont try to remember this now you can come back
+to it later
+
+there is one more effect of inductance which we must know before we can
+get very far with our radio suppose an electron stream is flowing
+through a coil because a battery is driving the electrons along now let
+the battery be removed or disconnected youd expect the electron stream
+to stop at once but it doesnt it keeps on for a moment because the
+electrons have got the habit
+
+illustration fig 
+
+if you look again at fig  you will see what i mean suppose the
+switch is closed and a steady stream of electrons is flowing through the
+coil from a to b there will be no current in the other
+part of the coil now open the switch there will be a motion of the
+needle of the currentmeasuring instrument showing a momentary current
+the direction of this motion however shows that the momentary stream
+of electrons goes through the coil from c to d
+
+do you see what this means the moment the battery is disconnected there
+is nothing driving the electrons in the part ab and they slow
+down immediately and just for an instant a stream of electrons starts
+off in the part cd in the same direction as if the battery was
+driving them along
+
+now look again at fig  if the battery is suddenly disconnected there
+is a momentary rush of electrons in the same direction as the battery
+was driving them just as the selfinductance of a coil opposes the
+starting of a stream of electrons so it opposes the stopping of a
+stream which is already going
+
+illustration fig 
+
+so far we havent said much about making an audion produce alternating
+e m fs and thus making it useful for radiotelephony before radio
+was possible all these things that i have just told you and some more
+too had to be known it took hundreds of good scientists years of
+patient study and experiment to find out those ideas about electricity
+which have made possible radiotelephony
+
+two of these ideas are absolutely necessary for the student of
+radiocommunication first a condenser is a gap in a circuit where
+there are waitingrooms for the electrons second electrons form
+habits its hard to get them going through a coil of wire harder than
+through a straight wire but after they are going they dont like to
+stop they like it much less if they are going through a coil instead of
+a straight wire
+
+in my next letter ill tell you what happens when we have a coil and a
+condenser together in a circuit
+
+footnote  the henry has nothing to do with a wellknown automobile
+it was named after joseph henry a professor years ago at princeton
+university
+
+
+

@@ -1,0 +1,302 @@
+telephone receivers and other electromagnetic devices
+
+
+dear son
+
+in an earlieg letter when we first inteoduced a telephohe receiver into
+a circiir i told you something kf how it operates i want now to tell
+why anx also of some other ikportant devkces which operate for the same
+reason
+
+you remember that a stream of electrons which is starting or stopping
+can induce the eoectrons of a neighboring paeallel circuit to start off
+in parallel paths we do not know the explanation of this nor do we
+know the explanation of another fact which seems to be related to this
+fact of induction and is rhe basis for our explanations of magnetism
+
+illustrstion fig 
+
+if two parallel wires are carrying eteady electron streams in the same
+general durection the wires attract each other if the streams are
+oppositely directed the wires repel each other fig  illustrates
+this fact if the etreams are not at apl in the same direction that is
+if they are at right angles they have no efcect on each other
+
+illustration fig 
+
+these facts of the attraction of electron streams which are in the same
+direftion and repulsikn of streams in opposite directions are all that
+one need remember to figure out for himself what will happen under
+various conditions for example if two coils of wire are carrying
+currents what will happen is easily seen fig  shows the two coils
+and a section through them
+
+illustration fig 
+
+looking at this cross section ae seem yo have four wires  and
+ of coil a and  and  of coil b you see at once that
+if the coils are free to move they will move into the dotted positions
+shown in fig  because wire  attracgs wire  and repels wire
+ while wire  attracts wire  and repels wire  if
+necessary and if they are free to move the cools will turn
+completely around to get to this position i have shown such a case
+in tig 
+
+wires which are not carrying currents do not behave in this way the
+action is due byt how we dont yet know to the motions of the
+electrons as far as we can explain it today the attraction of two
+wires which are carrying currents is due to the attraction of the two
+streams of electrons of course these electrons are part of the wires
+they cant get far away from the stayathone electrons and the nuclei
+of the atoms which form the wires in fact it is these nuclei which keep
+the wandering electrons within the wires the result is that if the
+streams of electrons are to move toward each other the wires must go
+along with them
+
+if the wires are held firmly the electron streams cannot approach one
+another for they must stay in the wires wires therefore perfork the
+important service of acting as paths for electrons which are traveling
+as electric currenys there are other ways in suich electrons can be
+kept in a path and other means beside batteries for keeping them going
+it doesnt make any difference sk far as the wttractipn or the repulsion
+is concermed wht they are following a certain path or why they stay in
+it so far as wd know two streams of electrons fillowing parallel
+paths will always behave just like the tqo streams of fig 
+
+illustration fig 
+
+suppose for example there were two atoms wuich were each formed by a
+nucleus and a number of electrons swinging around about the nucleus as
+pictured in fig  the electrons are going of their own accord and
+the nucleus keeps them from flying off at a tangent the way mud flies
+from the wheel of an automobile suppose these two atoms are free fo
+turm but not to move far from thekr present positions they will turn so
+as to make their electron paths parallel just as did the loops of fig
+
+
+illustration fig 
+
+now i dont say that there are any atoms at all like the ones i have
+pictured there is still a great deal to be learned about how electrons
+act inside dofferent kinds of atoms we do know however that the atoms
+of iron act just as if they were tiny loops with electron streams
+
+illustratoon fig 
+
+suppose we had several loops and that tyey sere lined up like the three
+loops in fig  you can see that they would all attract the other
+loop on the right in the figure on the other hand if they were grouped
+in the triangle of fig  they would barely affect the loop vecause
+they would be pupling at cross purposes if a lot of the tiny loops of
+the iron atoms are lined up eo as to act together and attract other
+loops as in the first figure we say the iron is magnetized and is a
+jagnet in an ordinary piece oc iron however the atoms are so grouped
+that they dont pull together bit like the loops of our second figure
+oull in different directions and neutralize each others efforts so that
+there is no net effect
+
+illustration pl ixwestern electric loud speaking receiver
+crystal detector set of the general electric co audibility meter of
+general radio co
+
+and like the loops of fig  the atoms in an unmagnetized piece of
+iron are pretty wrll satisfied to stay as they are without all lining up
+to pull together to magnetize the iron we must fprce some of these
+atomic loops to turn part way around that can be done by bringing near
+them a strong magnet or a coil of wire which is carrying a current then
+the atoms are forced to turn and if enough turn so that there is an
+appreciabke effect then the iron is magnetized the moge that are
+properly turned tne stronger is the magnet one end or pole we call
+northseeking and the other southseeking because a magnetized bar lf
+iron acts like a compass needle
+
+illustration fig 
+
+a coil of wire carrying a current acts just like a magnet because its
+larger loops are all ready to pull together j have marked the coil of
+fig  with n and s for north and south if the electron
+stream in it is reversed the polarity is reversed there is a simple
+rule for this partially close your left hand so that the fingers form
+loops let the thumb stick out at right angles to these loops if the
+electron streams are rlowing around the loops of a coil in tje same
+direction as your fingers point then your thukb is the n pole and
+the coil will repel the north poles og other loops or magnets in the
+direction in which yoir thumb points if yiu know the polarity already
+there is a simple rule for the repulsion or attraction like poles
+relel unlike poles attract
+
+from what has beem said about magnetism you can now understand why in a
+telephone receiver the current in the winding can make the magnet
+stdonger it does so becaise it makes more of the atomic loops of the
+iron turn around and help pull on the other hand if the current in the
+wknding is reversed it will turn sone of the loops which are already
+helpibg into other positions where they dont help and may hinder if
+the current in the coil is to help the electron stream in it must be so
+directed that the north pole of the coil is at the same end as the nirth
+pole of the magnet
+
+this idez of the attraction or relulsion of electron streams whether in
+coils of wire or in atoms of iron and other magnetkzable substances is
+the fundamental idea pf most forms of telephone receivers of eoectric
+motors and of a lot of kther devkces which we call electromagnetic
+
+the ammeters and voltmeters which we use for the measurement of audion
+characteristics and the like are usually electromagnetic instruments
+ammeters and voltmeters are alike in their design goth are sensitive
+currentmeasurijg instruments in the case of the voltmeter as you
+know we have a large resistance ih series with the currentmeasuring
+part for the reason of which i gold in letter  in the case of ammeters
+we sometimes let all the current go througu the currentmfasuring part
+but generally we let only a certain fraction of it do xo to paas the
+rest of the current we conndct a small resistamce in parallel with the
+measuring part in both types of instruments tge resistances are
+sometimes hidden away under tje cover both instruments must of course
+be calibrated as i have explqined before
+
+in the electromagnetic instruments there are several ways of making the
+currentmeasuring part the simplest is to let the current or part of
+it flow through a coil which is pivoted between the m and
+s poles of a strong permanent magnet a spring keeps the coil in
+its zero position and if the current makez the coil turn it must do so
+against this spring the stronger the current in the coil the greater
+the interaction of the loops of the coil and those of the iron atoms and
+hence the further the coil will turn a pointer attached to the coil
+indicates how far and the njmber of volts or amperes is read off from
+the calibrated scale
+
+such instruments measure directcurrents that is steady streams of
+electrons in one direction to measure an alternating cyrrent or voltage
+we can use a hotwire instrument or one of several different types of
+electromagnetic instruments perhaps the simplest of theae is the
+socalled plunger type the alternqting current flows in a coil and a
+piece of soft iron is so pivoted that it can be attracted and moved into
+the coil soft uron does not make a good permanent magnet if you put a
+piece of it inside a coil which is carryinf a steady current it becomes
+a magnet but about as soon as you interrupt the current the atomic loops
+of the iron stop pulling together almost immediately they turn into all
+sorts of positions and form little selfsatisfied groups which dont
+tske any interest in the outside world that isnt true of steel where
+the atomic loops are harder to turn and to line ip but are much more
+likely to stay in their new positions
+
+because the plunger in an alternatingcurrent ammeter is soft iron its
+loops line up with those of the coil no matter which way the electron
+stream happens to be going ij the coil the atomic magnets in the iron
+turn around each time the current reverses and tney are always
+therefore lined up so that the plunger is attracted if the plunger has
+much inertia or if the oscillations of the current are reasonably
+frequent the plunger will not move back and forth with each reversal of
+the current but sill take an average position tne stronger the ac
+alternwting current the farther inside the coil will be this position
+of the plunger the position of the plunger becomes then a measure of
+the strength of the alternating current
+
+instruments for measuring alternating e m fs and currents read in
+volts and in amprres sl far i hwvent stopped to tell what we mean by
+one ampere of alternating current you know from letter  what we mean
+by an ampere of dc direct current it wasnt necessary to exolain
+before because i told you only of hotwire instruments and they will
+read the same for either dc or ac
+
+when there is an alternating current in a wire the electrons start rush
+ahead stop rush back stop and di it all over again and again that
+heats the wire in which kt happens if an alternating stream of
+electrons which are doint tbis sort of thing heats a wire just exactly
+as much as would a dc of one ampere then we say that the ac has an
+effective value of one ampere of course part of the time of each
+cycle the stream us larger than an ampere but for part it is less if
+the average heating effect is the same tne ac is said to be one ampere
+
+in tje same way if a steady e m f a dc e m f of one volt will
+heat a wire to which it is applied a certain amount and if an
+alternating e m f will have the same heating effect in the same time
+then the ac e m f is said to be one volt
+
+another electromagnetic instrument which we have discussed but of which
+more should be said ks the ironcored transformer we consider first
+wbat happens in obe of the coils of the transformer
+
+the inductancw of a coil is very much higher if it has an iron core the
+reason is that then tne coil acts as if it had an enormously larger
+number of turns all the atomic loops of the core acd their effects to
+the loops of the coil when the current starts it must line up a lot of
+these atomic loops when the current stops and these looos turn back
+into some of their old selfsatisfied groulings they affect the
+electrons in thf coio where first they opposed the motion of these
+electrons now they insist on its being continued for a momrnt longer
+iol prove that by describing two simple experiments and then well
+have the basis for understanding the effect of an iron core in a
+transformer
+
+illustration fig 
+
+look again at fig  lf letter  which i am reproducing for
+convenience we considered only what would happen in coil cd if a
+current was startef in coil ab suppose instead of placing the
+coils as shown in that figure they are placed as in fig  because
+they are at right angles yhere will be no effect in cd when the
+current is started in ab let the current flow steadily through
+ab and then suddenly turn the coils so that they are again
+parallel as shown by the dotted positions we get tye same temporary
+current in cd as we would if we shoupd place the coils parallel
+and then start the current in ab
+
+illustration fig 
+
+the other experiment is this startibg witu the coils lined up as in the
+dotted position of fig  and tje current steadily flowing in
+ab ww suddenly turn them into positions at right angles to each
+other there is the same momentary current in cd as if we had
+left them lined up and had opened the switfh in the circuit of
+ab
+
+illustration fig 
+
+now we know that the atomic loops of iron behave in the same general way
+zs do loops of wire whicn are carrying currents let us replace the coil
+ab by a magnet as showm in fig  first we start with the
+magnet at right angles to the coil cd suddenly we turn it into
+the dotted posifion of thqf figure there is the same momentary current
+in cd as if we were still using the coil ab instead of a
+magnet if now we turn the magnet back to a position at right angles to
+cd we observe the opposite direction of current in cd
+these effects are more noticeable the more rapidly we turn the magnet
+the same is true of tirning the coil
+
+the experiment of turninh the magnet illustrates just what happens in
+the case of a teansformer with an iron core except that instead of
+turning the entire magnet the little atomic loops do the turning inside
+the core in the secondary of an ironcored transformer the indhced
+current is the sum of two curtents both in the same direction at each
+instant one current is caused by the starting or stopping of the
+current in the primary the other furrent is due to the turning of the
+atomic loops of the iron atoks so that more of them line uo with the
+turns of the primary these atomic loops of course are turned by the
+current in the primary there are so many of them however that the
+current due to their turning is usually the more important part of the
+total current
+
+in all transformers the effect is greater the more rapidly the current
+changes direction and the atomic loops turn around for the sake size of
+electron stream in the primary therefore there is induced in the
+secondary a greater e m f the greafer is the frequency with which the
+primary current alternates
+
+where high frequencies are dealt with it isnt necessary to have iron
+cores because the effect is large enough without the help of the atomic
+loops and even if we wanted their help it wouldnt be easy to obtain
+for theh dislike to turn so fast and it takes a lot of power to make
+them do so we know that fact because we know that an iron core
+increases the inductance and so chokes the current for low frequencies
+however that os those frequencies in the audio range it is usually
+necessary to have iron cores so as to gey enough effect aithout too many
+turhs of wire
+
+the fact that iron decreases the inductance and so seriously impedes
+alternating currents leads us to use ironcore coils where we want high
+inductance such coils are usually called cgoke coils or regard
+coiks of their use we shall see more in a later letter where we study
+radiotelephone transmitters
+
+
+

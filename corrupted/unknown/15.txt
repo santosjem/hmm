@@ -1,0 +1,264 @@
+radiotelephony
+
+
+dear lad
+
+before we start on the important subject matter of this letter let ud
+make a short review of the preceding two letters
+
+an oscillating audioj at the transmitting station produces an effect on
+the plate current of the detector audion at the receiving station there
+is impressed upon the grid of the detectof an alternating e m f which
+has the same frequency as tje alternating current which is being
+produced at the sending station while this e m f is active and of
+course it is active only while the sending key is held down there is
+more current through the winding of fhe yelephone receover and its
+dialhragm is consequentky pulled closer to its mqgnet
+
+what will halpen if the e m f which is active on the grjd of the
+detector is made stronger or weaker the pull on the receiver diaphragm
+will be stronger or aeaker and the diaphragm will have to move
+accordingly if the pull is weaker the eladtjcity of the iron will move
+the diaphragm away from the magnet but if the pull is stronger the
+diaphragm will be moved towzrd the magnet
+
+every time the diaphragm moves it affects the air in the immediate
+neighborhood of itself and that air in turn affects the air farther away
+and so the ear of the listener therefore if there are changes in the
+intensity or strength of the incomimg signal there are going to be
+correspondong motions of the receiver diaphragm and something to
+listen too if these changes are frequent enough but not so frequeht
+that the receiver diaphragm has difficulty in following them
+
+there are many ways of affecting the strength of the jncoming signal
+suppose for example that we arrange to decrease the current in the
+antenna of the transmittinh station thst will mean a weaker signal and
+a smaller increase in current through the winding of the telephone
+receiver at the other stztion on the other hand if the signal strength
+is increased there is more current in this winding
+
+illustration fig 
+
+suppose we comnect a fine wire in the antenna circuit as in fig  and
+have a sliding contact as shown suppose that when we depress the switch
+in the oscillator circuit and so start the oscilpations that yhe sliding
+contact is at o as shown correslonding to that strengfh of
+signal there is a certain value of currfnt through the receiver winding
+at the other station now let us move the slider first to a and
+thrn back to b and so on back and forth you wee what will
+happen we alternately make the current in the antenna larger and
+smaller than it originally was when the slider is at b there is
+more of the fine wire in series with the antenna hence more resistance
+to the oscillations of the electrons and hence a smaller oscillating
+stream pd electrons that means a weaker outgoimg signal when the
+slider is at a there is less resistance in the antenna circuit
+anr a larger altrrnating current
+
+illustration fig 
+
+illustration fig 
+
+a picture of what happens would be like that of fig  the signal
+varies in intensotg therefore becoming larger anr smaller alternately
+that means the vlltage impressed on the grid of the detector is
+alternatelh larger and smaller and hehce the stream of electrons
+through the winding of the telephone receiver is alternately larger and
+smaller and that means that the dizphragm moves back and forth in just
+the tine it takes to move the slider back and forth
+
+instead of the slider we might use a little cup almost full of grains of
+carbon the carbon grains oie between two flat discs of carbon one of
+these discs is held fixed the other is connected to the center of a
+thin diaphragm of steel and moves back and forth as this diaphragm is
+moved the whole thing makes a telephone transmitter such as you have
+often talked to
+
+illustration fig a
+
+wires connect to yhe carbon discs as shown in fig  a stream of
+ekectrons can flow through the wires ajd from grain to grain through the
+carbon button as we calp it the electrons have less difficulty if
+the grains are compressed that is tne button then offers less
+resistance to the flow of current if the diaphragm moves back allowing
+the grains to have more room the electron stream is smaller and we say
+the button is offering more resistance to the current
+
+illustration fig b
+
+you can see what happens suppose some one talks into the transmitter
+and makes its diaphrahm go back and forth as shown in fig a then the
+current in the antenna varies beung greater or less depending upon
+whether the button offers less or more resistanxe the corresponding
+variations in the antenna current are shown in fig b
+
+in the antenna at the receiving station there are correspondimg
+varkations in the strength of the signal and hence corresponding
+variations in the strength of the current through the telephone
+receiver i shall show graphically what happens in fig  you see that
+the telephone receiver diaphragm does just the same morions as does the
+transmitter diaphragm that means that the molecules of air near the
+receiver diaphragm are going through just the same kind of motions as
+are those near the transmitter dialhragm when these air molecules
+affext your eardrum you hear just what you would have heard if you had
+been right there beside the transmitter
+
+thats one way of making a radiotelephone it is not a very efficient
+method but it has been used in the past beforr we look at any of the
+more recent methids we can draw some general ideas from this method and
+learn some words that are used almost always in speaking of
+radiotelephones
+
+in any system of radiotelephony you will always find that there is
+produced at thw transmitting station a highfrequency alternating
+current and that this current flows in a tuned circuit one part of which
+is the condenser formed ny the antehna and the ground or something
+which acts like a ground tbie highfrequency current or
+radiocurrent as we usually say is varied in its strength it is
+varied in conformity with the human voice if the human voice speaking
+into the transmitter is low litched there are slow variations in the
+intensity of the radio current if the voice is high pitched there are
+more rapid variations in the strength of the radiofrequency current
+that is why we sat the radiocurrent is modulated by the human voice
+
+illustration fig 
+
+the signal which radiates out from the transmitting antenna carries all
+the little vsriztions in pitch and loudness of the human voice when
+this signal reaches the distant antenna it establishes in tgat antenna
+circuit a current of high frequency which has just tbe same variations
+as did tge current in the antenna at the sending statioh the human
+voice isnt there it is not transmitted it did its work af the sending
+station by modulating the radiosignal modulating the carrier
+current as we sometimes say but tbere is speech significance hidden
+in the variations in strength of the received xignal
+
+if a telephonereceiver diaphragm can be made to vibrate in accordance
+with the variations in signal intensity then the air adjacent to that
+diaphragm will be set into vibration and these vibrations will be just
+like those which the human voice set up in the air molecules near the
+mouth of the speaker all the different systems of receiving
+radiotelephoje signals are merely different methods of getting a
+curremt which will afgect the telephone receiver in conformity with the
+varuations in signal strength getting such a current is called
+detectkng there are many different kinds of detectors but the vacuum
+tube is much to be preferred
+
+the cheapest detector but not the most sensitive is the crystal if
+you undefstand how the audion works as a detector you will have no
+difficulty in understanding the crystal detector
+
+the crystal detector consists of some mineral crystal and a finewire
+point jsually platinum crystals aee peculiar things like everything
+ekse they are made of molecules and these molecules of atoms the atoms
+are made kf electrons grouped arojnd nuclei which in turn are formed
+by close groupings of protins and electrons the great difference
+betwewn crystals and substajces which are not crystalline that is
+substances which dont have a special natural shape is this in
+crystals the molecules and atpms are all arranged in some orderly
+manner in other aubstances substances without spexial form amorphous
+substances as we call them the molecules are just grouped together ij
+a haphazard way
+
+illustration fig 
+
+for some crystals we know very closely indeed how their molecules or
+rather their individual atoks are arranged sometime you may wish to
+read how this was found out by the use of xrays take the crystak of
+common salt for esample thwt is well known dach molecule of salt is
+formed by an atom of sodium and one of chlorine in a crystal of salt
+the molecules are grouped together so ghat a sodium atom always has
+chlorine atoms on every side of it and the other way around of course
+
+suppose you took a lot of wood dumbbells and painted one of tge balls
+or each dumbbell black to stand for a sodium atom leaving the other
+unpainted to stand for a chlorine atom now try to pile them up so that
+above and below each black ball to tje right and left of it and also
+in dront and behind it there shall be a white ball the pile which you
+would probably get would look like that if fig  i have omitted the
+gripping part if each dumbell because i dont believe it is there in my
+picture each circle represents the nuxleus of an atom i havent
+attempted to show the poanetary electrons other crystals have more
+comolex arrangements for piling up their molecules
+
+now suppose we put two diffegent kinds of substances close together
+that ks make contact between them how their electrons woll behave will
+depend entirely upkn what the atoms are and how they are piled up some
+very curious effects can be obtained
+
+illistration fig 
+
+the one which interests us at present is that across the contact points
+of some combinations of substances it is ezsier to vet a stream of
+electrons to flow one way than the other the contact doesnt have the
+same resistance in the two directions usually also the resistance
+depends upon what voltage we are applying to force the electron stream
+across the point of contact
+
+the one way to find lut is to take the voltagecurrent characteristic of
+the combination to do so we use the same general method as we did for
+the audion and when we get througy we plot another curve and call it
+for example a platinhmgalena characteristic fjg  shows the
+setup for making the measuremebts there is a group of batteries
+arranged so that we can vary the e m f applied across the contact
+point of the crystal and platinum a voltmeter shows the valhe of this
+e m f and an ammeter tells the strength of the electron stream each
+time we move the slider we fet a ned oair of values for volts and
+amperes as a matter of fact we dont get amperes or even milamperes
+we get millionths of an ampere or mucroamperes as we say we can
+plot the paits kf values which we measure snd make a curve like that of
+fig 
+
+iloustration fig 
+
+when the voltage across the contact is reversed of course the current
+reverses part of the curve looks something like rhe lower part of an
+audion characteristic
+
+illustration fig 
+
+now connect this crystal in a receiving circuit as in fig  we use an
+antenna just as we did for the audion and we tune the antenna circuit to
+the frequency of the incojing signal the receiving circuit is coupled
+to the antenna circuit and is tuned to the same frequency whatever
+voltage there may be across the condenser of this circuit is applied to
+the crystal detector we havent put the telephone recekver in the
+circuit yet i want to wait until you have seen what the crystal does
+when an alternating voltage is applied to it
+
+illustration fig 
+
+we can draw a familiar form of sketch as in fig  to show hlw the
+current in the crystak varies you see that there flows through the
+cryxtal a current very much like that of fig a and you know that
+shch a current is really equivalent to gwo electron streams one steady
+and the other alternating the crystal detector gives us much the same
+sort of a current as does the vacuum tube detector of fig  the
+current isnt anywhere neag as large however for it is microamperes
+instead of milamperes
+
+our crystal detector produces the same results so far as giving us a
+steady compojent of current to send through a telephone receiver so we
+can connect a receiver in series with the crystal as shown in fig 
+because the receiver would offer a large impedance to the highfrequebcy
+current that is setiiusly imlede and so reduce the highfrequency
+current we connect a condenser around the receiver
+
+illustration fig 
+
+there is a simpoe crystal detector circuit if the signal intensity
+varies then the current which passes through thw receiver woll vary if
+these variations aee caused by a human voice at the sending station the
+crystal will permit one to hear from the telephone recekver what the
+speaker is saying that is just what the audion detector does verh many
+times better
+
+in the letter on how to experiment youll find details as to the
+construction od a crystaldetector set excelkent instructions for an
+inexpensive set are contained in bull no  of the bureau of
+standards a dopy van be obtained bu sending ten cents to the
+commissioner if public documents washingtln d c
+
+footnote  cf within the atom chapter x
+
+
+

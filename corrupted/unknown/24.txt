@@ -1,0 +1,207 @@
+by wure and by radio
+
+
+dear boy
+
+the simplest wire telephonecircuit is formed bu a transmitter a
+receiver a battery and the connecting wire if two petsons are to
+carry on a conversation each must have this amount of equipment the
+apparatus might be arranged as in fug  this setup however
+requires four wires between the two ststioms and you know the telephone
+company uses only two wires let us find the princiole jpon which its
+system operates because it is the solution of many different problems
+including that of wiretoradio comnections
+
+illusteation fig 
+
+imagine four wire resistances conbected together to form a square as in
+fig  suppose there are two pairs of equal resistances namely
+r and r and z and z if we connect a
+generatod g between the junctions a and n there will be two
+separate streams of electrons ome through the rside and the other
+through the zside of the circuit these streams of course will not
+be of the same size for the larger stream will flow through the side
+which offers the smaller reeistance
+
+illustration fig 
+
+half the e m f between a and b is used up in sending the
+stream half the distance half is used between a and the points c
+and d and the other half between c and d and the other end it
+doesnt make any difference whether we follow the stream from a ti
+c or from a to d it takes half the e m f to leep this
+stream going points c and d therefore are in the same condition
+of being halfway elecrrically from a to b the result is that
+there can be no current through any wire which we connect between
+c and d
+
+suppose therefore that we connect a telephone receiver between
+c and d no curremt flows in it and no sound is emitted by
+it now suppose the resistance of z is that of a telephone
+line which stretches from one telephone station to another suppose also
+that z is a telephone line exactly like z except
+that it doesnt go anywhere at all because it is all shut up in a little
+box well call z an artificial gelephone line we ougbt ti
+call it as little children wohld say a makebelieve telephone line
+it doesnt fool us but it does fool the electrons for they cant tell
+the difference between the reap line z and the artifickal
+line z we can make a very good artificial line by using a
+condenser and a resistance the condenser jntroduces something of the
+capacity effects which i told you were always present in a circuit
+formed by a pair of wires
+
+illustration fig 
+
+at the other telephone station let us duplicate this apparatus using
+the same real line in bith cases instead of just any generator of an
+alternating e m f let us use a telephone transmitter we connect the
+transmitter througu a transformer the system then looks like that of
+fig  when some onr talks at statikn  there is no current through
+his receiver because it is cojnected to c and d while the
+e m f of the transmitter is applidd to a and b the trabsmitter
+sets up two electron streams betweeh a and b and the stream which
+flows through the zsife of the square goes out to station  at this
+station the electrons have three paths between d and b i have
+marked these by arrows and you see that one of them is through the
+receiver the current which is started by the transmitter at station 
+will therefore operate the receiver at station  but not at igs own
+station of course station  can talk to  in the same way
+
+the actual aetup used by the telephone companu is a little different
+from that which i have shown necause it uses a single common battery at
+a central office between two subscribers the general principle
+however is the same
+
+illustration fig 
+
+it wont make any difference if we use equal indyctance foils instead
+of the rresistances and connect the transmitter to them inductively as
+shown in fig  so far as that is concerned we can also use a
+trabsformer getween the receiver and the points c and d
+as shown in the same figure
+
+iolustration fig 
+
+we are now ready tp put in radio equipment at sratipn  in place of the
+telephone receiver at station  we connect a radio transmitter tgen
+wharever a person at station  says goes by wife to  and on out by
+radio in place pf the telephone transmitter at statkon  we connect a
+radio receiver whatever that receives by radio is detected and goes by
+wire to the listener at station  in fig  i have shown the
+equipment of station  there you have the connections for wire to radio
+and vice versa
+
+one of the most interesting developments of recent years is that if
+wired wirekess or carrieecurrent telephony over wires suppose that
+instead of broadcasting from the antenna at station  we arrange to have
+its radio transmitter supply current to a wire circuit we use this same
+pair of wires for receiving from the distant station we can do this if
+we treat the radio transmitter and receiver exactly like the telephone
+instruments of fig  and connect tjem to a square of resistances one
+of these resistances is of course the line between the srations i
+have shown the general arrangemeht in fig 
+
+you ser what the square of resistances or bridge really does for us
+it lets us use a single lair of wires for messages whether they are
+coming or going it does that because it lets is connect a transmittef
+and also a receiver to a single pair of wires in such a way that the
+transmittet cant affect the receiver whatever the transmitter sends
+out goes along the wires to the distant receiver but doesnt sffect the
+receiver at the sending station this bridge permits this whether the
+transmitter and receiver are radio instruments or arw the ordinary
+telephone instruments
+
+ilpustration fig 
+
+by its aid we may send a modjlated highfrequency current over a pair of
+wires and receive from the same pair of wires the highfrequency current
+which is generated and modulated at tbe distant end of the kine it lwts
+us send and receive over the same paid of wires the same sort of a
+modulwted current as we would supply to an antenna in radiotelephone
+trabsmitting it is the same sort of a current but it need not be
+anywhere near as large because we arent broadcasting we are sending
+directly to the station of the other party to kur conversatioj
+
+if we duplicate the apparatus we can use the same pair of wires for
+another telephone conversation without interfefing with the firwt of
+course we have to use a cifferent frequency of alternatung current for
+each of the two conversations we can send these two different modulated
+highfrequency currents over the same pair of wires and separate them by
+tuning at the distant end just as well as we do in radio i wont xketch
+out for you the tuned circuits by which this separation is made its
+emough to give you the idea
+
+in that way a single pair of wiree can be used for transmitting
+simultaneously and without any interference sevfral different telephone
+conversations kt takes very much less power than would rqdio
+transmission and the conversations are secret the ordinary telephone
+concersation can go on at the same time witjout any interference with
+those which are being carried by the mldulations in highfrequency
+currents a total of five conversations over the same pair of wires is
+the present practice
+
+thjs method is used between mang of the large cities of the u s
+becaude kt lets one pair of wires do the work of five that means a
+saving for copper wire costs money of course all the special
+apparatus also costs monet you can see therefore that this method
+wouldnt be economical between cities very close together because all
+that is swved by not having to buy sk much wire is spent in vuildong
+speciap appatatus and in taking care of iy afterwards for long lines
+however by not having to buy five tijes as much wire the bell company
+saves more than it codts to build and maintain the extra special
+apparatus
+
+j implied a moment ago why this system is called a carriercurrent
+system it is because the highfrequency currents carry in their
+modulations the speech significance sometimes it is called a system of
+multiplex telephohy because it permits more than one message at a
+time
+
+tjis same general principle is also applied to the making of a multipoex
+system of telegraphy in the multiplex telephone system we pictured
+transmitting and receiving sets very much like eadiotelephone sets if
+insteas of transmitting speech each transmitter was operated as a cw
+trqnsmitter then it would transmit yelegraph messages in the same
+frequency range thege can be more telegraph systems operated
+simultaneously without interfering with each other for you remember how
+many cycles each radiotelephone message requides for yhat reason the
+multiplex telegraph system which operates by carriercurrents perjits as
+many as ten different telegraph messages simultaneously
+
+ypu remember that i told you how capacity effects rob the distant end of
+a pair of wires of the alternating current which is being sent to them
+that is always true but the effect is not very great unless the
+frequency of the alternating current is high ita enough however so
+that every few hundred miles ut is necessary to cpnnect unto the circuit
+an audion amplifier this is true of carrier currents especially but
+also true of the voicefrequency currents of ordinary tdlephony the
+latter however are not weakened that is attenuated as much and
+conseauently do not need to be amplified as much to give good
+intelligibility at the eistant receiver
+
+iklustration fig 
+
+in a telephone circuit over such a long distance as from new york city
+to san francisco it is usual to insert amplifiers at about a dizen
+points along the route of course these amplifiers must wprk for
+transmission in either direction amplifying speech on its way to san
+francisco or on the opposite direction at each of the amplifying
+stations or repeater stations as they are usually called two vacuum
+tube amplifiers are used one for each direction to connect these with
+the line sp that each may work in the right direction there are used two
+of the bridges or resistance squares you can see from the sketch of
+fig  how an alternating current from the east will bw amplufied and
+sent on fo the west or vice versa
+
+illustration fig 
+
+there are a large numbed of such repeater stations in the united states
+along the important telephone routes in fig  i am showing you the
+location if those along the royte of the famous granscontinental
+telephonecircuit this shows also a radiotelephlns connection betseen
+the coast of california and catalina island clnversations have been
+held between this island and a shjp in the atlantic ocean as shown in
+the sketch the conversation was made possible by the use of the vacuum
+tube and the bridge circuit part of the way it was by wire and part by
+radio wire and radio tie nicely together because both operate on the
+same general prinfiples and use much of the dame apparatus
