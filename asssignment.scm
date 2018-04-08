@@ -61,7 +61,7 @@
        typist2-original-file
        typist-corrupt-file)
     (let ([counts (create-counts 28 1)]
-          [typist-counts (create-counts 28 1)]) ;def t2
+          [typist-counts (create-counts 28 1)])
       (count-transitions! typist1-original-file counts)
       (count-transitions! typist2-original-file counts)
       (count-transitions! typist-corrupt-file typist-counts)
@@ -70,18 +70,17 @@
         (normalize-counts! typist-counts)
         (log-evidence corrupt typist-counts counts marg)))))
 
-;(test1 t2-4 o4 o16 t1-1)
+(display "Training on letters 1 and 12, Typist 1 letter 2") (newline)
+(test t1-14 t1-1 t2-12 t1-2) (newline)
+(test t1-17 t1-2 t2-12 t1-2) (newline)
+(test t2-13 t1-2 t2-12 t1-2) (newline)
+(test t2-19 t1-2 t2-12 t1-2) (newline)
 
-(define counts (create-counts 28 1))
-(count-transitions! o4 counts)
-(count-transitions! o16 counts)
+(display "Training on letters 1 and 12, Typist 2 letter 12") (newline)
+(test t1-14 t1-1 t2-12 t2-12) (newline)
+(test t1-17 t1-2 t2-12 t2-12) (newline)
+(test t2-13 t1-2 t2-12 t2-12) (newline)
+(test t2-19 t1-2 t2-12 t2-12) (newline)
 
-(define typist (create-counts 28 1))
-(count-transitions! t2-19 typist)
 
-(define marg (marginal-counts counts))
-(normalize-counts! counts)
-(normalize-marginal-counts! marg)
-
-(log-evidence t2-4 typist counts marg)
 
