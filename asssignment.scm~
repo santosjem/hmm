@@ -1,0 +1,53 @@
+(include "charmodel.scm")
+
+(define o1 "Users/jemuelsantos/Classes/csc261/original/1.txt")
+(define o3 "Users/jemuelsantos/Classes/csc261/original/3.txt")
+(define o4 "Users/jemuelsantos/Classes/csc261/original/4.txt")
+(define o7 "Users/jemuelsantos/Classes/csc261/original/7.txt")
+(define o8 "Users/jemuelsantos/Classes/csc261/original/8.txt")
+(define o9 "Users/jemuelsantos/Classes/csc261/original/9.txt")
+(define o10 "Users/jemuelsantos/Classes/csc261/original/10.txt")
+(define o11 "Users/jemuelsantos/Classes/csc261/original/11.txt")
+(define o15 "Users/jemuelsantos/Classes/csc261/original/15.txt")
+(define o16 "Users/jemuelsantos/Classes/csc261/original/16.txt")
+(define o18 "Users/jemuelsantos/Classes/csc261/original/18.txt")
+(define o22 "Users/jemuelsantos/Classes/csc261/original/22.txt")
+
+(define t1-1 "Users/jemuelsantos/Classes/csc261/typist1/1.txt")
+(define t1-2 "Users/jemuelsantos/Classes/csc261/typist1/2.txt")
+(define t1-8 "Users/jemuelsantos/Classes/csc261/typist1/8.txt")
+(define t1-14 "Users/jemuelsantos/Classes/csc261/typist1/14.txt")
+(define t1-16 "Users/jemuelsantos/Classes/csc261/typist1/16.txt")
+(define t1-17 "Users/jemuelsantos/Classes/csc261/typist1/17.txt")
+
+(define t2-4 "Users/jemuelsantos/Classes/csc261/typist2/4.txt")
+(define t2-9 "Users/jemuelsantos/Classes/csc261/typist2/9.txt")
+(define t2-12 "Users/jemuelsantos/Classes/csc261/typist2/12.txt")
+(define t2-13 "Users/jemuelsantos/Classes/csc261/typist2/13.txt")
+(define t2-18 "Users/jemuelsantos/Classes/csc261/typist2/18.txt")
+(define t2-19 "Users/jemuelsantos/Classes/csc261/typist2/19.txt")
+
+(define u3 "Users/jemuelsantos/Classes/csc261/unknown/3.txt")
+(define u5 "Users/jemuelsantos/Classes/csc261/unknown/5.txt")
+(define u6 "Users/jemuelsantos/Classes/csc261/unknown/6.txt")
+(define u7 "Users/jemuelsantos/Classes/csc261/unknown/7.txt")
+(define u10 "Users/jemuelsantos/Classes/csc261/unknown/10.txt")
+(define u11 "Users/jemuelsantos/Classes/csc261/unknown/11.txt")
+(define u15 "Users/jemuelsantos/Classes/csc261/unknown/15.txt")
+(define u20 "Users/jemuelsantos/Classes/csc261/unknown/20.txt")
+(define u21 "Users/jemuelsantos/Classes/csc261/unknown/21.txt")
+(define u22 "Users/jemuelsantos/Classes/csc261/unknown/22.txt")
+(define u23 "Users/jemuelsantos/Classes/csc261/unknown/23.txt")
+(define u24 "Users/jemuelsantos/Classes/csc261/unknown/24.txt")
+
+(define counts1 (create-counts 28 1))
+(define counts2 (create-counts 28 1))
+
+(count-conditionals! o1 t1-1 counts1)
+(count-conditionals! o4 t2-4 counts2)
+
+
+
+
+
+
