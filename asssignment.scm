@@ -113,33 +113,6 @@
                       ; difference in log likelihoods for evidence calculation
                       )))))))))
 
-
-
-
-#|
-; you never count-conditionals - I think you're going to need to do that? unless
-; I'm missing what this function was for
-; I wrote something for the first bullet point above - it was easier for me to
-; just write something from scratch to understand what it did. Which part of the
-; analysis was this for?
-(define test
-  (lambda
-      (corrupt
-       typist1-original-file
-       typist2-original-file
-       typist-corrupt-file)
-    (let ([counts (create-counts 28 1)]
-          [typist-counts (create-counts 28 1)])
-      (count-transitions! typist1-original-file counts)
-      (count-transitions! typist2-original-file counts)
-      (count-transitions! typist-corrupt-file typist-counts)
-      (let ([marg (marginal-counts counts)])
-        (normalize-marginal-counts! marg)
-        (normalize-counts! typist-counts)
-        (log-evidence corrupt typist-counts counts marg)))))
-|#
-
-
 (display "we used a uniform prior for the writers of the letters") (newline)
 (display "Training on letters 1 and 4, testing letter 8") (newline)
 (first-tests 1 1 t1-1 o1 t2-4 o4 t1-8)
@@ -237,6 +210,10 @@
 (first-tests 1 1 t1-16 o16 t2-18 o18 t2-4)
 (display "Training on letters 16 and 18, testing letter 9") (newline)
 (first-tests 1 1 t1-16 o16 t2-18 o18 t2-9)
+
+
+
+;;; Second bullet point
 
 (define transition-model (create-counts 28 1))
 
