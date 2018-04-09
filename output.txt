@@ -1,0 +1,113 @@
+Script started on Mon 09 Apr 2018 03:36:32 PM CDT
+santosje@ladd:hmm$ export PS1="$ "
+$ mzscheme -l lang/plt-pretty-big-text.ss -f driver.scm[1P.scm[1P.scm[1P.scm[1P.scm[1P.scm[1P.scma.scms.scms.scms.scmi.scmg.scmn.scmm.scme.scmn.scmt.scm
+we used a uniform prior for the writers of the letters
+Training on letters 1 and 4, testing letter 8
+71.09150852257555
+Training on letters 1 and 4, testing letter 16
+102.77578653899153
+Training on letters 1 and 4, testing letter 9
+64.8814508050973
+Training on letters 1 and 4, testing letter 18
+-15.85177635372439
+
+Training on letters 8 and 4, testing letter 1
+171.39112420192282
+Training on letters 8 and 4, testing letter 16
+120.4287153315689
+Training on letters 8 and 4, testing letter 9#<void>
+169.7931756584918
+Training on letters 8 and 4, testing letter 18
+114.35393511714628
+
+Training on letters 16 and 4, testing letter 1
+236.93776601288207
+Training on letters 16 and 4, testing letter 8
+358.353487497044
+Training on letters 16 and 4, testing letter 9
+228.15082666343
+Training on letters 16 and 4, testing letter 18
+446.0508651510059
+
+Training on letters 1 and 9, testing letter 8
+-239.8643783918506
+Training on letters 1 and 9, testing letter 16
+-46.40625324920782
+Training on letters 1 and 9, testing letter 4
+-134.40135890857746
+Training on letters 1 and 9, testing letter 18
+-335.30770589587746
+
+Training on letters 8 and 9, testing letter 1
+131.58904602342878
+Training on letters 8 and 4, testing letter 16
+81.17314610267877
+Training on letters 8 and 4, testing letter 4
+46.93673304744917
+Training on letters 8 and 4, testing letter 18
+-38.21227937365484
+
+Training on letters 16 and 9, testing letter 1
+78.90572050734308
+Training on letters 16 and 9, testing letter 8
+164.775761269798
+Training on letters 16 and 9, testing letter 4
+61.80793805605376
+Training on letters 16 and 9, testing letter 18
+229.54081133787105
+
+Training on letters 1 and 18, testing letter 8
+15520.698801841552
+Training on letters 1 and 18, testing letter 16
+16737.754575573214
+Training on letters 1 and 18, testing letter 4
+12956.500861651253
+Training on letters 1 and 18, testing letter 9
+17718.59669711652
+
+Training on letters 8 and 18, testing letter 1
+72.00343955365756
+Training on letters 8 and 18, testing letter 16
+40.50919824918936
+Training on letters 8 and 18, testing letter 4
+19.124506006811156
+Training on letters 8 and 18, testing letter 9
+-63.27359252534457
+
+Training on letters 16 and 18, testing letter 1
+-12.949954984881826
+Training on letters 16 and 18, testing letter 8
+100.47879409042862
+Training on letters 16 and 18, testing letter 4
+-9.712695975476858
+Training on letters 16 and 18, testing letter 9
+12.873032882530682
+uniform prior for who wrote the letter
+Training on all letters, testing letter 2 by typist 1
+-8.48813176930886
+Training on all letters, testing letter 14 by typist 1
+18.157486520924483
+Training on all letters, testing letter 17 by typist 1
+-0.39786316289547885
+Training on all letters, testing letter 12 by typist 2
+-125.88079254640678
+Training on all letters, testing letter 13 by typist 2
+-83.39909211725194
+Training on all letters, testing letter 19 by typist 2
+-116.73809860138283
+Training on all letters, testing unknown letter 5
+9.154493200854693
+Training on all letters, testing unknown letter 6
+-10.913768188215123
+Training on all letters, testing unknown letter 20
+-124.98912468964394
+Training on all letters, testing unknown letter 21
+-50.15179454306123
+Training on all letters, testing unknown letter 23
+1.9919035407074506
+Training on all letters, testing unknown letter 24
+-30.16881268292132
+$ exit
+exit
+
+Script done on Mon 09 Apr 2018 03:38:14 PM CDT
