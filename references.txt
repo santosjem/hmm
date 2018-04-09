@@ -1,0 +1,15 @@
+Note: There was a typo in our display statements, which we corrected in
+the assignment and in output.txt, so output.txt was very minorly
+changed manually (but is concistent with analysis.scm). Additionally,
+the username printed by the script was manually removed from output.txt. 
+
+References:
+	Written/online sources used:
+		[none]
+	Help obtained:
+		[none]
+Academic honesty certification:
+	Our initials below confirm that the above list of sources
+	is complete AND that I/we have not talked to anyone else
+	(e.g., CSC 261 students) about the solution to this problem
+	Initials: WMK, 
