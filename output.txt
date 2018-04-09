@@ -1,5 +1,5 @@
 Script started on Mon 09 Apr 2018 03:36:32 PM CDT
-santosje@ladd:hmm$ export PS1="$ "
+username@ladd:hmm$ export PS1="$ "
 $ mzscheme -l lang/plt-pretty-big-text.ss -f driver.scm[1P.scm[1P.scm[1P.scm[1P.scm[1P.scm[1P.scma.scms.scms.scms.scmi.scmg.scmn.scmm.scme.scmn.scmt.scm
 we used a uniform prior for the writers of the letters
 Training on letters 1 and 4, testing letter 8
