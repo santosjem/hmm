@@ -41,28 +41,44 @@
 (define u23 "corrupted/unknown/23.txt")
 (define u24 "corrupted/unknown/24.txt")
 
-;(define counts (create-counts 28 1))
-;(count-transitions! o4 counts)
-;(count-transitions! o16 counts)
+(define skip-first-tests #t) ; prevents first tests so it runs faster
 
-;(define typist (create-counts 28 1))
-;(count-transitions! t2-19 typist)
+(define skip-second-tests #t) ; prevents second tests so it runs faster
 
-;(define marg (marginal-counts counts))
-
-;(normalize-marginal-counts! marg)
-
-;(log-evidence t2-4 typist2 counts marg)
-
+;;; Procedure:
+;;;  ln-to-log10
+;;; Parameters:
+;;;  num
+;;; Purpose:
+;;;  transform natural log to log10 using change of base formula
+;;; Produces:
+;;;  n, a number
 (define ln-to-log10
   (lambda (num)
     (/ num (log 10))))
 
-(define skip-first-tests #t) ; prevents first tests so it runs faster
-
-; This is for the first bullet point in analysis
-; example run: (first-tests 1 1 t1-1 o1 t2-4 o4 t1-8)
-; uniform prior, training using letters 1 and 4, analyzing who wrote letter 8
+;;; Procedure:
+;;;  first-tests
+;;; Parameters:
+;;;  prior-typist-1, a number
+;;;  prior-typist-2, a number
+;;;  corrupted-typist-1, a filename
+;;;  original-typist-1, a filename
+;;;  corrupted-typist-2, a filename
+;;;  original-typist-2, a filename
+;;;  to-test, a filename
+;;; Purpose:
+;;;  Calculate Jaynes' evidence that typist1 wrote to-test,
+;;;  training on the given files
+;;; Produces:
+;;;  e, a number
+;;; Preconditions:
+;;;  Prior probability that typist 1 wrote it is
+;;;  (prior-typist-1 / (prior-typist-1 + prior-typist-2))
+;;;  all filenames point to readable files
+;;; Postconditions:
+;;;  e is the evidence that typist1 wrote to-test, given
+;;;  our training files
 (define first-tests
   (lambda
       (prior-typist-1
@@ -100,6 +116,7 @@
 
 
 
+#|
 ; you never count-conditionals - I think you're going to need to do that? unless
 ; I'm missing what this function was for
 ; I wrote something for the first bullet point above - it was easier for me to
@@ -120,18 +137,8 @@
         (normalize-marginal-counts! marg)
         (normalize-counts! typist-counts)
         (log-evidence corrupt typist-counts counts marg)))))
+|#
 
-;(display "Training on letters 1 and 12, Typist 1 letter 2") (newline)
-;(test t1-14 t1-1 t2-12 t1-2) (newline)
-;(test t1-17 t1-2 t2-12 t1-2) (newline)
-;(test t2-13 t1-2 t2-12 t1-2) (newline)
-;(test t2-19 t1-2 t2-12 t1-2) (newline)
-
-;(display "Training on letters 1 and 12, Typist 2 letter 12") (newline)
-;(test t1-14 t1-1 t2-12 t2-12) (newline)
-;(test t1-17 t1-2 t2-12 t2-12) (newline)
-;(test t2-13 t1-2 t2-12 t2-12) (newline)
-;(test t2-19 t1-2 t2-12 t2-12) (newline)
 
 (display "we used a uniform prior for the writers of the letters") (newline)
 (display "Training on letters 1 and 4, testing letter 8") (newline)
@@ -233,9 +240,19 @@
 
 (define transition-model (create-counts 28 1))
 
-;;; This is maybe a really stupid way of doing this but I don't know of a
-;;; better way, not that great at program flow in scheme - doing things with
-;;; side effects is kind of weird in a functional language, I guess
+;;; Procedure:
+;;;  train-transition-model
+;;; Parameters:
+;;;  lst, a list of filenames
+;;; Purpose:
+;;;  trains a transition model on a list of files at once
+;;; Produces:
+;;;  nothing, called for side effects
+;;; Preconditions:
+;;;  each element of lst points to a readable file
+;;; Postconditions:
+;;;  transition-model, a global variable, will be updated to have been
+;;;  trained on each file in lst
 (define train-transition-model
   (lambda (lst)
     (if
@@ -247,6 +264,22 @@
      (values) ; no need to return anything
      (train-transition-model (cdr lst)))))
 
+
+;;; Procedure:
+;;;  train-typo-model
+;;; Parameters:
+;;;  originals, a list of files
+;;;  corrupted, a list of files
+;;;  count, a counts structure
+;;; Purpose:
+;;;  trains a typo model on a list of files at once
+;;; Produces:
+;;;  nothing, called for side effects
+;;; Preconditions:
+;;;  for each i, the ith element of originals is the original file for
+;;;  the ith element of corrupted
+;;; Postconditions:
+;;;  counts will be updated to be trained on each pair of letters in the lists
 (define train-typo-model
   (lambda (originals corrupted count)
     (if
@@ -280,8 +313,25 @@
 (normalize-counts! typist-2-counts)
 (normalize-counts! transition-model)
 
-(define skip-second-tests #t) ; prevents second tests so it runs faster
-
+;;; Procedure:
+;;;  second-test
+;;; Parameters:
+;;;  prior1, a number
+;;;  prior2, a number
+;;;  letter, a filename
+;;; Purpose:
+;;;  training on all available data, calculate Jaynes's evidence that
+;;;  typist1 wrote letter
+;;; Produces:
+;;;  e, a number
+;;; Preconditions:
+;;;  typist-1-counts, typist-2-counts, transition-model, and marg
+;;;  (global variables) are all appropriately trained
+;;;  Prior probability that typist 1 wrote it is
+;;;  (prior-typist-1 / (prior-typist-1 + prior-typist-2))
+;;;  letter points to a readable file
+;;; Postconditions:
+;;;  e is Jaynes's evidence that typist1 wrote letter, given our trained models
 (define second-test
   (lambda (prior1 prior2 letter)
     (if
