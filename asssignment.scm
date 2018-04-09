@@ -156,7 +156,7 @@
 (display (first-tests 1 1 t1-8 o8 t2-4 o4 t1-1)) (newline)
 (display "Training on letters 8 and 4, testing letter 16") (newline)
 (display (first-tests 1 1 t1-8 o8 t2-4 o4 t1-16)) (newline)
-(display (display "Training on letters 8 and 4, testing letter 9")) (newline)
+(display "Training on letters 8 and 4, testing letter 9") (newline)
 (display (first-tests 1 1 t1-8 o8 t2-4 o4 t2-9)) (newline)
 (display "Training on letters 8 and 4, testing letter 18") (newline)
 (display (first-tests 1 1 t1-8 o8 t2-4 o4 t2-18)) (newline)
