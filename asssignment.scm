@@ -341,7 +341,7 @@
           (-
            (log-evidence letter typist-1-counts transition-model marg)
            (log-evidence letter typist-2-counts transition-model marg))))))))
-
+(newline)
 (display "uniform prior for who wrote the letter") (newline)
 (display "Training on all letters, testing letter 2 by typist 1") (newline)
 (display (second-test 1 1 t1-2)) (newline)
