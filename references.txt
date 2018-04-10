@@ -1,7 +1,4 @@
-Note: There was a typo in our display statements, which we corrected in
-the assignment and in output.txt, so output.txt was very minorly
-changed manually (but is concistent with analysis.scm). Additionally,
-the username printed by the script was manually removed from output.txt. 
+Note: The username printed by the script was manually removed from output.txt. 
 
 References:
 	Written/online sources used:

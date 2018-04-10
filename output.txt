@@ -15,7 +15,7 @@ Training on letters 8 and 4, testing letter 1
 171.39112420192282
 Training on letters 8 and 4, testing letter 16
 120.4287153315689
-Training on letters 8 and 4, testing letter 9#<void>
+Training on letters 8 and 4, testing letter 9
 169.7931756584918
 Training on letters 8 and 4, testing letter 18
 114.35393511714628
