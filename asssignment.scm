@@ -1,3 +1,23 @@
+; Lab: Sequential Probabilistic Inference
+; CSC 261
+
+; File
+;   analysis.scm
+
+; Summary
+;   all code for evidence calculations
+
+; Provides
+;  (ln-to-log10 num)    
+;  (first-tests prior-typist-1 prior-typist-2 corrupted-typist-1
+;  original-typist-1 corrupted-typist-2 original-typist-2 to-test)
+;  (train-transition-model lst)
+;  (train-typo-model originals corrupted count)
+;  (second-test prior1 prior2 letter)
+
+
+
+
 (include "charmodel.scm")
 (include "hmm.scm")
 
@@ -181,13 +201,13 @@
 (newline)
 
 (display "Training on letters 1 and 18, testing letter 8") (newline)
-(display (first-tests 1 1 t1-1 o1 t2-18 o9 t1-8)) (newline)
+(display (first-tests 1 1 t1-1 o1 t2-18 o18 t1-8)) (newline)
 (display "Training on letters 1 and 18, testing letter 16") (newline)
-(display (first-tests 1 1 t1-1 o1 t2-18 o9 t1-16)) (newline)
+(display (first-tests 1 1 t1-1 o1 t2-18 o18 t1-16)) (newline)
 (display "Training on letters 1 and 18, testing letter 4") (newline)
-(display (first-tests 1 1 t1-1 o1 t2-18 o9 t2-4)) (newline)
+(display (first-tests 1 1 t1-1 o1 t2-18 o18 t2-4)) (newline)
 (display "Training on letters 1 and 18, testing letter 9") (newline)
-(display (first-tests 1 1 t1-1 o1 t2-18 o9 t2-9)) (newline)
+(display (first-tests 1 1 t1-1 o1 t2-18 o18 t2-9)) (newline)
 
 (newline)
 
